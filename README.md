@@ -1,6 +1,10 @@
 # Задача
 
-Есть 3 файла логов:
+Есть 3 файла логов, которые могут быть запрошены из роутера Mikrotik следующими коммандами:
+
+    ssh u_remote_stat@192.168.10.1 "ip dhcp-server lease print detail without-paging" > dhcplease.txt
+    ssh u_remote_stat@192.168.10.1 "ip firewall connection print detail without-paging" > connount.txt
+    ssh -l u_remote_stat 192.168.10.1 'log print detail without-paging where message~"dhcp_stat"'
 
 ## Лог выдачи IP адресов по DHCP.
 
