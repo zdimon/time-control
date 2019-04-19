@@ -76,15 +76,7 @@ WSGI_APPLICATION = 'djangoprj.wsgi.application'
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'time-control',
-        'USER': 'postgres',
-        'PASSWORD': '1q2w3e',
-        'HOST': 'localhost',
-    }
-}
+
 
 
 
@@ -137,3 +129,4 @@ API_KEY = '882b65ad36d2260a1bc94a6be912dc21'
 
 LOG_DIR = 'logs'
 
+from local import *

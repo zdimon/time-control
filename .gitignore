@@ -2,3 +2,4 @@ venv
 .vscode
 *.pyc
 djangoprj/logs/*
+djangoprj/djangoprj/local.py
