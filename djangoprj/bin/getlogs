@@ -1,0 +1,4 @@
+rm ./logs/*
+ssh u_remote_stat@192.168.10.1 "ip dhcp-server lease print detail without-paging" > ./logs/dhcp-sessions.log
+ssh u_remote_stat@192.168.10.1 "ip firewall connection print detail without-paging" > ./logs/activity.log
+ssh -l u_remote_stat 192.168.10.1 'log print detail without-paging where message~"dhcp_stat"' > ./logs/dhcp-login.log

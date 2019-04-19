@@ -1,0 +1,1768 @@
+ time=10:04:28 topics=dhcp,info 
+   message="dhcp_stat_: dhcp-server-0 deassigned 192.168.10.16 from 
+        B0:EB:57:36:85:3F" 
+
+ time=10:04:28 topics=dhcp,info 
+   message="dhcp_stat_: dhcp-server-0 assigned 192.168.10.16 to 
+        B0:EB:57:36:85:3F" 
+
+ time=10:04:58 topics=dhcp,info 
+   message="dhcp_stat_: dhcp-server-0 deassigned 192.168.8.148 from 
+        F4:60:E2:F0:4C:E2" 
+
+ time=10:04:58 topics=dhcp,info 
+   message="dhcp_stat_: dhcp-server-0 assigned 192.168.8.148 to 
+        F4:60:E2:F0:4C:E2" 
+
+ time=10:44:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:44:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:44:15 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.186 from 
+        D0:2B:20:5F:76:AC" 
+
+ time=10:44:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.186 to 
+        D0:2B:20:5F:76:AC" 
+
+ time=10:44:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=10:44:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=10:44:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.62 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=10:44:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.62 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=10:45:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:45:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:45:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.92 from 
+        C4:0B:CB:48:B9:33" 
+
+ time=10:45:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.92 to 
+        C4:0B:CB:48:B9:33" 
+
+ time=10:47:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.186 from 
+        D0:2B:20:5F:76:AC" 
+
+ time=10:47:25 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.186 to 
+        D0:2B:20:5F:76:AC" 
+
+ time=10:47:39 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.62 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=10:47:39 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.62 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=10:47:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.172 from 
+        94:65:2D:6A:1A:A0" 
+
+ time=10:47:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.172 to 
+        94:65:2D:6A:1A:A0" 
+
+ time=10:49:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.122 from 
+        E0:C7:67:61:01:B1" 
+
+ time=10:49:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.122 to 
+        E0:C7:67:61:01:B1" 
+
+ time=10:49:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.187 to 
+        6C:8D:C1:59:0A:B4" 
+
+ time=10:53:39 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:53:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:53:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.203 from 
+        B0:72:BF:C3:82:DB" 
+
+ time=10:53:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.203 to 
+        B0:72:BF:C3:82:DB" 
+
+ time=10:54:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:54:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:55:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        4C:D1:A1:78:B0:FF" 
+
+ time=10:56:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.172 from 
+        94:65:2D:6A:1A:A0" 
+
+ time=10:56:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.172 to 
+        94:65:2D:6A:1A:A0" 
+
+ time=10:56:58 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:57:00 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=10:57:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=10:58:00 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=11:00:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.137 from 
+        2C:57:31:19:CE:E2" 
+
+ time=11:01:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.137 to 
+        2C:57:31:19:CE:E2" 
+
+ time=11:03:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.46 from 
+        1C:CD:E5:57:5E:42" 
+
+ time=11:03:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.46 to 
+        1C:CD:E5:57:5E:42" 
+
+ time=11:03:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.126 from 
+        14:9D:09:5C:4D:9A" 
+
+ time=11:03:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.210 from 
+        1C:CD:E5:48:20:03" 
+
+ time=11:03:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.210 to 
+        1C:CD:E5:48:20:03" 
+
+ time=11:03:58 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.62 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:06:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:06:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.235 from 
+        F4:60:E2:F3:2D:DA" 
+
+ time=11:06:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.235 to 
+        F4:60:E2:F3:2D:DA" 
+
+ time=11:07:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.31 from 
+        F8:6F:C1:89:2B:C1" 
+
+ time=11:07:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.60 from 
+        70:BB:E9:C9:B6:1D" 
+
+ time=11:07:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.60 to 
+        70:BB:E9:C9:B6:1D" 
+
+ time=11:08:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.31 to 
+        74:D4:35:72:23:C5" 
+
+ time=11:09:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.31 from 
+        74:D4:35:72:23:C5" 
+
+ time=11:12:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.229 from 
+        04:D1:3A:60:D6:08" 
+
+ time=11:12:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.229 to 
+        04:D1:3A:60:D6:08" 
+
+ time=11:15:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=11:15:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=11:15:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.235 from 
+        F4:60:E2:F3:2D:DA" 
+
+ time=11:15:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.235 to 
+        F4:60:E2:F3:2D:DA" 
+
+ time=11:16:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:16:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:19:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:19:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:20:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.46 to 
+        74:D4:35:72:23:C5" 
+
+ time=11:21:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.181 from 
+        0C:CE:F6:5F:1F:71" 
+
+ time=11:21:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.181 to 
+        0C:CE:F6:5F:1F:71" 
+
+ time=11:21:38 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.56 from 
+        D8:5B:2A:43:CD:67" 
+
+ time=11:24:53 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.74 from 
+        10:1C:0C:35:21:F2" 
+
+ time=11:24:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.74 to 
+        10:1C:0C:35:21:F2" 
+
+ time=11:26:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.155 from 
+        AC:37:43:A6:A1:2D" 
+
+ time=11:26:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.155 to 
+        AC:37:43:A6:A1:2D" 
+
+ time=11:30:18 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.34 from 
+        F4:60:E2:FD:42:12" 
+
+ time=11:30:18 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.34 to 
+        F4:60:E2:FD:42:12" 
+
+ time=11:30:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.50 to 
+        00:0C:E7:74:4D:BD" 
+
+ time=11:34:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.141 from 
+        D8:C7:71:3B:8B:89" 
+
+ time=11:34:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.141 to 
+        D8:C7:71:3B:8B:89" 
+
+ time=11:34:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.129 from 
+        00:08:22:28:CF:FE" 
+
+ time=11:36:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:36:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:38:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:38:47 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=11:39:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.33 from 
+        38:A4:ED:73:DD:15" 
+
+ time=11:39:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.33 to 
+        38:A4:ED:73:DD:15" 
+
+ time=11:42:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.102 from 
+        4C:DD:31:9B:E7:CB" 
+
+ time=11:42:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.102 to 
+        4C:DD:31:9B:E7:CB" 
+
+ time=11:44:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.115 from 
+        00:08:22:E2:0D:FC" 
+
+ time=11:44:10 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.115 to 
+        00:08:22:E2:0D:FC" 
+
+ time=11:47:00 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.62 to 
+        6C:AB:31:66:8F:FD" 
+
+ time=11:49:15 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.216 from 
+        6C:4D:73:9D:86:2A" 
+
+ time=11:50:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.216 to 
+        6C:4D:73:9D:86:2A" 
+
+ time=11:50:10 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.172 from 
+        94:65:2D:6A:1A:A0" 
+
+ time=11:50:10 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.172 to 
+        94:65:2D:6A:1A:A0" 
+
+ time=11:51:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.167 from 
+        D8:1C:79:82:F8:0E" 
+
+ time=11:51:14 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.167 to 
+        D8:1C:79:82:F8:0E" 
+
+ time=11:52:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.117 from 
+        4C:49:E3:13:CB:9C" 
+
+ time=11:52:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.117 to 
+        4C:49:E3:13:CB:9C" 
+
+ time=11:52:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.225 from 
+        C0:D0:12:BB:2C:41" 
+
+ time=11:52:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.225 to 
+        C0:D0:12:BB:2C:41" 
+
+ time=11:54:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.132 from 
+        34:2E:B6:1A:A1:62" 
+
+ time=11:54:18 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.186 to 
+        7C:B0:C2:4F:2F:4A" 
+
+ time=11:54:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.216 from 
+        6C:4D:73:9D:86:2A" 
+
+ time=11:54:38 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.216 to 
+        6C:4D:73:9D:86:2A" 
+
+ time=11:58:02 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=11:58:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=11:59:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.203 from 
+        B0:72:BF:C3:82:DB" 
+
+ time=11:59:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.203 to 
+        B0:72:BF:C3:82:DB" 
+
+ time=11:59:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.21 from 
+        38:E6:0A:7E:EC:A0" 
+
+ time=11:59:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.21 to 
+        38:E6:0A:7E:EC:A0" 
+
+ time=12:03:17 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.168 from 
+        04:4B:ED:16:DC:8C" 
+
+ time=12:03:18 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.168 to 
+        04:4B:ED:16:DC:8C" 
+
+ time=12:03:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.210 from 
+        1C:CD:E5:48:20:03" 
+
+ time=12:03:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.210 to 
+        1C:CD:E5:48:20:03" 
+
+ time=12:03:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:03:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:08:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.128 from 
+        0C:CE:F6:3C:95:1E" 
+
+ time=12:08:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=12:08:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=12:09:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.106 from 
+        4C:49:E3:B8:3B:20" 
+
+ time=12:09:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.106 to 
+        4C:49:E3:B8:3B:20" 
+
+ time=12:12:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.74 from 
+        10:1C:0C:35:21:F2" 
+
+ time=12:12:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.185 to 
+        04:79:70:8A:06:9A" 
+
+ time=12:12:22 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.74 to 
+        10:1C:0C:35:21:F2" 
+
+ time=12:13:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.204 from 
+        34:2D:0D:77:4D:7C" 
+
+ time=12:13:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.204 to 
+        34:2D:0D:77:4D:7C" 
+
+ time=12:15:47 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.156 from 
+        14:1F:78:78:92:77" 
+
+ time=12:15:47 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.156 to 
+        14:1F:78:78:92:77" 
+
+ time=12:16:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.102 from 
+        4C:DD:31:9B:E7:CB" 
+
+ time=12:16:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.102 to 
+        4C:DD:31:9B:E7:CB" 
+
+ time=12:16:39 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.182 to 
+        88:E9:FE:86:32:D7" 
+
+ time=12:17:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.11 from 
+        80:AD:16:66:82:E9" 
+
+ time=12:17:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.11 to 
+        80:AD:16:66:82:E9" 
+
+ time=12:18:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.75 from 
+        90:F0:52:5D:44:9F" 
+
+ time=12:18:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.75 to 
+        90:F0:52:5D:44:9F" 
+
+ time=12:21:11 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=12:21:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=12:22:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=12:22:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=12:23:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.137 from 
+        2C:57:31:19:CE:E2" 
+
+ time=12:23:43 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.137 to 
+        2C:57:31:19:CE:E2" 
+
+ time=12:27:11 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.33 from 
+        38:A4:ED:73:DD:15" 
+
+ time=12:27:11 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.33 to 
+        38:A4:ED:73:DD:15" 
+
+ time=12:30:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.11 from 
+        80:AD:16:66:82:E9" 
+
+ time=12:30:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.11 to 
+        80:AD:16:66:82:E9" 
+
+ time=12:30:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.28 from 
+        50:8F:4C:CE:D9:7B" 
+
+ time=12:30:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.28 to 
+        50:8F:4C:CE:D9:7B" 
+
+ time=12:31:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.53 from 
+        9C:FC:01:41:56:4B" 
+
+ time=12:31:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.53 to 
+        9C:FC:01:41:56:4B" 
+
+ time=12:31:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:31:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:33:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.36 from 
+        18:F0:E4:0F:AD:E4" 
+
+ time=12:33:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.36 to 
+        18:F0:E4:0F:AD:E4" 
+
+ time=12:33:58 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=12:33:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=12:36:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.11 from 
+        80:AD:16:66:82:E9" 
+
+ time=12:36:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.11 to 
+        80:AD:16:66:82:E9" 
+
+ time=12:37:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.117 from 
+        4C:49:E3:13:CB:9C" 
+
+ time=12:37:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.117 to 
+        4C:49:E3:13:CB:9C" 
+
+ time=12:38:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.172 from 
+        94:65:2D:6A:1A:A0" 
+
+ time=12:38:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.172 to 
+        94:65:2D:6A:1A:A0" 
+
+ time=12:41:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.189 from 
+        68:EF:43:BA:96:9F" 
+
+ time=12:41:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.189 to 
+        68:EF:43:BA:96:9F" 
+
+ time=12:42:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:42:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:42:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:42:22 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:42:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:43:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.168 from 
+        9C:2E:A1:92:B6:93" 
+
+ time=12:43:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.168 to 
+        9C:2E:A1:92:B6:93" 
+
+ time=12:44:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=12:44:48 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.184 from 
+        20:A6:0C:55:43:FE" 
+
+ time=12:44:48 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.184 to 
+        20:A6:0C:55:43:FE" 
+
+ time=12:51:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.240 from 
+        34:2E:B6:1C:F4:62" 
+
+ time=12:51:41 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.240 to 
+        34:2E:B6:1C:F4:62" 
+
+ time=12:52:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.189 from 
+        68:EF:43:BA:96:9F" 
+
+ time=12:52:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.189 to 
+        68:EF:43:BA:96:9F" 
+
+ time=12:55:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.236 to 
+        D0:50:99:9B:83:70" 
+
+ time=12:55:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.236 from 
+        D0:50:99:9B:83:70" 
+
+ time=12:56:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.172 from 
+        94:65:2D:6A:1A:A0" 
+
+ time=12:56:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.172 to 
+        94:65:2D:6A:1A:A0" 
+
+ time=12:57:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=12:57:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=12:57:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.60 from 
+        70:BB:E9:C9:B6:1D" 
+
+ time=12:57:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.60 to 
+        70:BB:E9:C9:B6:1D" 
+
+ time=12:58:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.148 from 
+        F4:60:E2:F0:4C:E2" 
+
+ time=12:58:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.148 to 
+        F4:60:E2:F0:4C:E2" 
+
+ time=13:00:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.60 from 
+        70:BB:E9:C9:B6:1D" 
+
+ time=13:00:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.60 to 
+        70:BB:E9:C9:B6:1D" 
+
+ time=13:00:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.237 from 
+        DC:72:9B:C5:23:D2" 
+
+ time=13:01:00 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.237 to 
+        48:2C:A0:A2:48:4C" 
+
+ time=13:02:45 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.72 from 
+        14:D1:69:E6:AA:9C" 
+
+ time=13:02:45 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.72 to 
+        14:D1:69:E6:AA:9C" 
+
+ time=13:03:15 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.213 from 
+        68:3E:34:07:E7:1C" 
+
+ time=13:04:11 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=13:04:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=13:05:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.77 from 
+        94:7B:E7:43:7F:DB" 
+
+ time=13:05:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.77 to 
+        94:7B:E7:43:7F:DB" 
+
+ time=13:06:14 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.107 from 
+        0C:2C:54:00:F0:BF" 
+
+ time=13:06:14 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.107 to 
+        0C:2C:54:00:F0:BF" 
+
+ time=13:07:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.158 from 
+        E4:42:A6:8D:93:66" 
+
+ time=13:10:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.34 from 
+        F4:60:E2:FD:42:12" 
+
+ time=13:10:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.34 to 
+        F4:60:E2:FD:42:12" 
+
+ time=13:13:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=13:13:14 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=13:14:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.156 from 
+        14:1F:78:78:92:77" 
+
+ time=13:14:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.156 to 
+        14:1F:78:78:92:77" 
+
+ time=13:16:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.60 from 
+        70:BB:E9:C9:B6:1D" 
+
+ time=13:16:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.60 to 
+        70:BB:E9:C9:B6:1D" 
+
+ time=13:16:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.46 from 
+        1C:CD:E5:57:5E:42" 
+
+ time=13:16:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.34 from 
+        34:14:5F:66:3F:0D" 
+
+ time=13:16:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.34 to 
+        34:14:5F:66:3F:0D" 
+
+ time=13:17:10 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.213 to 
+        D0:50:99:9B:83:66" 
+
+ time=13:18:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.154 from 
+        54:B1:21:C8:A8:18" 
+
+ time=13:18:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.154 to 
+        54:B1:21:C8:A8:18" 
+
+ time=13:19:47 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:19:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:22:02 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.204 from 
+        34:2D:0D:77:4D:7C" 
+
+ time=13:22:02 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.204 to 
+        34:2D:0D:77:4D:7C" 
+
+ time=13:26:48 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.158 to 
+        EC:D0:9F:0C:76:5C" 
+
+ time=13:27:15 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:27:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:29:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:29:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:29:10 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=13:29:10 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=13:30:36 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:30:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:30:49 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.135 from 
+        20:A6:0C:29:F9:E7" 
+
+ time=13:30:49 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.135 to 
+        20:A6:0C:29:F9:E7" 
+
+ time=13:32:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.235 from 
+        F4:60:E2:F3:2D:DA" 
+
+ time=13:32:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.235 to 
+        F4:60:E2:F3:2D:DA" 
+
+ time=13:33:36 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.163 from 
+        18:31:BF:D0:E3:96" 
+
+ time=13:33:36 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.163 to 
+        18:31:BF:D0:E3:96" 
+
+ time=13:36:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.189 from 
+        68:EF:43:BA:96:9F" 
+
+ time=13:36:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.189 to 
+        68:EF:43:BA:96:9F" 
+
+ time=13:37:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.70 from 
+        18:F0:E4:04:E9:AA" 
+
+ time=13:37:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.70 to 
+        18:F0:E4:04:E9:AA" 
+
+ time=13:39:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.163 from 
+        18:31:BF:D0:E3:96" 
+
+ time=13:40:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.163 to 
+        18:31:BF:D0:E3:96" 
+
+ time=13:42:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:42:23 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=13:42:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.21 from 
+        38:E6:0A:7E:EC:A0" 
+
+ time=13:42:31 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.21 to 
+        38:E6:0A:7E:EC:A0" 
+
+ time=13:43:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=13:43:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=13:45:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.102 from 
+        4C:DD:31:9B:E7:CB" 
+
+ time=13:45:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.102 to 
+        4C:DD:31:9B:E7:CB" 
+
+ time=13:45:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.174 from 
+        BC:3D:85:23:12:E2" 
+
+ time=13:45:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.174 to 
+        BC:3D:85:23:12:E2" 
+
+ time=13:45:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.19 from 
+        38:A4:ED:74:53:83" 
+
+ time=13:45:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.19 to 
+        38:A4:ED:74:53:83" 
+
+ time=13:46:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.11 from 
+        80:AD:16:66:82:E9" 
+
+ time=13:46:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.11 to 
+        80:AD:16:66:82:E9" 
+
+ time=13:46:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.18 from 
+        7C:F9:0E:95:39:9D" 
+
+ time=13:46:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.18 to 
+        7C:F9:0E:95:39:9D" 
+
+ time=13:46:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.170 from 
+        D8:6C:02:C2:17:3B" 
+
+ time=13:46:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.170 to 
+        D8:6C:02:C2:17:3B" 
+
+ time=13:47:02 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.204 from 
+        34:2D:0D:77:4D:7C" 
+
+ time=13:47:02 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.204 to 
+        34:2D:0D:77:4D:7C" 
+
+ time=13:47:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=13:47:21 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=13:48:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.154 from 
+        54:B1:21:C8:A8:18" 
+
+ time=13:48:22 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.235 from 
+        F4:60:E2:F3:2D:DA" 
+
+ time=13:48:22 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.235 to 
+        F4:60:E2:F3:2D:DA" 
+
+ time=13:48:25 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.154 to 
+        54:B1:21:C8:A8:18" 
+
+ time=13:49:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.199 from 
+        9C:2E:A1:C2:C1:67" 
+
+ time=13:49:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.199 to 
+        9C:2E:A1:C2:C1:67" 
+
+ time=13:51:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.124 from 
+        E0:33:8E:D0:83:2E" 
+
+ time=13:51:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.124 to 
+        E0:33:8E:D0:83:2E" 
+
+ time=13:52:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.33 from 
+        38:A4:ED:73:DD:15" 
+
+ time=13:52:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.33 to 
+        38:A4:ED:73:DD:15" 
+
+ time=13:52:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=13:52:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=13:54:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.237 from 
+        48:2C:A0:A2:48:4C" 
+
+ time=13:54:01 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.237 to 
+        48:2C:A0:A2:48:4C" 
+
+ time=13:56:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.172 from 
+        94:65:2D:6A:1A:A0" 
+
+ time=13:56:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.172 to 
+        94:65:2D:6A:1A:A0" 
+
+ time=13:59:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=13:59:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=14:00:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.33 from 
+        38:A4:ED:73:DD:15" 
+
+ time=14:00:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.33 to 
+        38:A4:ED:73:DD:15" 
+
+ time=14:00:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.124 from 
+        E0:33:8E:D0:83:2E" 
+
+ time=14:00:53 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.124 to 
+        E0:33:8E:D0:83:2E" 
+
+ time=14:04:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=14:04:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=14:04:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.79 from 
+        AC:C1:EE:43:A8:B9" 
+
+ time=14:04:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.79 to 
+        AC:C1:EE:43:A8:B9" 
+
+ time=14:05:31 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.53 to 
+        1C:CD:E5:57:5E:42" 
+
+ time=14:05:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.60 from 
+        A8:0C:63:6F:C1:52" 
+
+ time=14:06:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.254 from 
+        04:79:70:8A:04:57" 
+
+ time=14:06:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.254 to 
+        04:79:70:8A:04:57" 
+
+ time=14:06:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:06:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:09:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.102 from 
+        4C:DD:31:9B:E7:CB" 
+
+ time=14:09:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.102 to 
+        4C:DD:31:9B:E7:CB" 
+
+ time=14:12:23 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.141 from 
+        D8:C7:71:3B:8B:89" 
+
+ time=14:12:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=14:12:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=14:12:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.141 to 
+        D8:C7:71:3B:8B:89" 
+
+ time=14:13:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.254 from 
+        04:79:70:8A:04:57" 
+
+ time=14:13:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.141 from 
+        D8:C7:71:3B:8B:89" 
+
+ time=14:13:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.254 to 
+        04:79:70:8A:04:57" 
+
+ time=14:13:58 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.141 to 
+        D8:C7:71:3B:8B:89" 
+
+ time=14:14:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=14:14:33 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=14:19:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.17 from 
+        08:F4:AB:7E:16:CF" 
+
+ time=14:19:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.17 to 
+        08:F4:AB:7E:16:CF" 
+
+ time=14:20:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.152 from 
+        18:F0:E4:E2:21:35" 
+
+ time=14:20:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.152 to 
+        18:F0:E4:E2:21:35" 
+
+ time=14:21:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.236 from 
+        FC:AA:B6:31:B7:D7" 
+
+ time=14:21:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.236 to 
+        FC:AA:B6:31:B7:D7" 
+
+ time=14:22:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.19 from 
+        38:A4:ED:74:53:83" 
+
+ time=14:22:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.19 to 
+        38:A4:ED:74:53:83" 
+
+ time=14:24:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.42 from 
+        60:9A:C1:20:31:31" 
+
+ time=14:24:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.107 from 
+        0C:2C:54:00:F0:BF" 
+
+ time=14:24:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.107 to 
+        0C:2C:54:00:F0:BF" 
+
+ time=14:26:47 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.81 from 
+        00:0B:82:BB:56:36" 
+
+ time=14:26:47 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.81 to 
+        00:0B:82:BB:56:36" 
+
+ time=14:28:17 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.79 from 
+        AC:C1:EE:43:A8:B9" 
+
+ time=14:28:17 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.79 to 
+        AC:C1:EE:43:A8:B9" 
+
+ time=14:30:31 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=14:30:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        DC:56:E7:73:AA:07" 
+
+ time=14:31:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.143 from 
+        80:35:C1:3D:D8:A2" 
+
+ time=14:31:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.143 to 
+        80:35:C1:3D:D8:A2" 
+
+ time=14:31:49 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=14:31:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=14:31:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:31:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:32:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:33:03 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:33:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.179 to 
+        48:D2:24:D0:71:FF" 
+
+ time=14:33:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:33:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:35:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=14:35:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=14:36:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.238 from 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=14:36:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.238 to 
+        CC:2D:B7:5E:1F:F2" 
+
+ time=14:37:25 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.170 to 
+        EC:D0:9F:20:F1:F0" 
+
+ time=14:39:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.19 from 
+        38:A4:ED:74:53:83" 
+
+ time=14:39:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.19 to 
+        38:A4:ED:74:53:83" 
+
+ time=14:40:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:40:16 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=14:41:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.237 from 
+        48:2C:A0:A2:48:4C" 
+
+ time=14:41:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.237 to 
+        48:2C:A0:A2:48:4C" 
+
+ time=14:44:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.133 from 
+        34:2E:B6:F8:EE:F3" 
+
+ time=14:44:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.253 from 
+        DC:56:E7:73:AA:07" 
+
+ time=14:44:35 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.34 from 
+        34:14:5F:66:3F:0D" 
+
+ time=14:44:38 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.34 to 
+        34:14:5F:66:3F:0D" 
+
+ time=14:49:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.106 from 
+        4C:49:E3:B8:3B:20" 
+
+ time=14:49:29 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.106 to 
+        4C:49:E3:B8:3B:20" 
+
+ time=14:50:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.92 from 
+        C4:0B:CB:48:B9:33" 
+
+ time=14:50:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.92 to 
+        C4:0B:CB:48:B9:33" 
+
+ time=14:52:23 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.60 from 
+        70:BB:E9:C9:B6:1D" 
+
+ time=14:52:24 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.60 to 
+        70:BB:E9:C9:B6:1D" 
+
+ time=14:52:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.235 from 
+        F4:60:E2:F3:2D:DA" 
+
+ time=14:52:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.235 to 
+        F4:60:E2:F3:2D:DA" 
+
+ time=14:53:25 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.237 from 
+        48:2C:A0:A2:48:4C" 
+
+ time=14:53:25 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.237 to 
+        48:2C:A0:A2:48:4C" 
+
+ time=14:55:45 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.204 from 
+        34:2D:0D:77:4D:7C" 
+
+ time=14:55:45 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.204 to 
+        34:2D:0D:77:4D:7C" 
+
+ time=14:58:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=14:58:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=14:59:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.77 from 
+        94:7B:E7:43:7F:DB" 
+
+ time=14:59:42 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.9.77 to 
+        94:7B:E7:43:7F:DB" 
+
+ time=15:06:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.134 from 
+        38:CA:DA:EC:58:DA" 
+
+ time=15:07:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.113 from 
+        00:56:CD:28:45:9D" 
+
+ time=15:08:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.175 from 
+        74:C1:4F:3F:00:E3" 
+
+ time=15:08:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.175 to 
+        74:C1:4F:3F:00:E3" 
+
+ time=15:11:15 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.21 from 
+        38:E6:0A:7E:EC:A0" 
+
+ time=15:11:17 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.21 to 
+        38:E6:0A:7E:EC:A0" 
+
+ time=15:12:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.237 from 
+        48:2C:A0:A2:48:4C" 
+
+ time=15:12:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.237 to 
+        48:2C:A0:A2:48:4C" 
+
+ time=15:14:55 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.204 from 
+        34:2D:0D:77:4D:7C" 
+
+ time=15:14:55 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.204 to 
+        34:2D:0D:77:4D:7C" 
+
+ time=15:19:59 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.121 from 
+        D0:B1:28:0D:62:CF" 
+
+ time=15:20:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.136 from 
+        00:5A:13:DD:83:91" 
+
+ time=15:20:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.121 to 
+        D0:B1:28:0D:62:CF" 
+
+ time=15:20:56 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.121 from 
+        D0:B1:28:0D:62:CF" 
+
+ time=15:20:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.121 to 
+        D0:B1:28:0D:62:CF" 
+
+ time=15:21:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.170 from 
+        EC:D0:9F:20:F1:F0" 
+
+ time=15:21:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.170 to 
+        EC:D0:9F:20:F1:F0" 
+
+ time=15:22:00 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.9.19 from 
+        14:DD:A9:C2:5F:34" 
+
+ time=15:23:02 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.121 from 
+        D0:B1:28:0D:62:CF" 
+
+ time=15:23:40 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.121 to 
+        D0:B1:28:0D:62:CF" 
+
+ time=15:25:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.237 from 
+        48:2C:A0:A2:48:4C" 
+
+ time=15:25:09 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.237 to 
+        48:2C:A0:A2:48:4C" 
+
+ time=15:26:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.253 to 
+        68:3E:34:34:E3:CA" 
+
+ time=15:28:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.208 to 
+        18:F0:E4:F6:AB:A7" 
+
+ time=15:32:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.217 from 
+        D0:31:69:A8:0B:22" 
+
+ time=15:32:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.217 to 
+        D0:31:69:A8:0B:22" 
+
+ time=15:32:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.153 to 
+        94:0E:6B:D7:7A:A2" 
+
+ time=15:33:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=15:33:30 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=15:44:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.235 from 
+        F4:60:E2:F3:2D:DA" 
+
+ time=15:44:20 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.235 to 
+        F4:60:E2:F3:2D:DA" 
+
+ time=15:44:58 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.184 from 
+        20:A6:0C:55:43:FE" 
+
+ time=15:45:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.143 from 
+        80:35:C1:3D:D8:A2" 
+
+ time=15:45:07 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.143 to 
+        80:35:C1:3D:D8:A2" 
+
+ time=15:45:08 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.184 to 
+        20:A6:0C:55:43:FE" 
+
+ time=15:46:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.102 from 
+        4C:DD:31:9B:E7:CB" 
+
+ time=15:46:06 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.102 to 
+        4C:DD:31:9B:E7:CB" 
+
+ time=15:52:25 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.152 from 
+        18:F0:E4:E2:21:35" 
+
+ time=15:52:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.152 to 
+        18:F0:E4:E2:21:35" 
+
+ time=15:53:14 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.53 from 
+        1C:CD:E5:57:5E:42" 
+
+ time=15:53:27 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.174 from 
+        50:A6:7F:52:0F:72" 
+
+ time=15:53:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.168 from 
+        9C:2E:A1:92:B6:93" 
+
+ time=15:53:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.168 to 
+        9C:2E:A1:92:B6:93" 
+
+ time=15:53:38 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.53 to 
+        1C:CD:E5:57:5E:42" 
+
+ time=15:54:37 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.132 from 
+        14:5F:94:AB:AD:7C" 
+
+ time=15:54:39 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.132 to 
+        14:5F:94:AB:AD:7C" 
+
+ time=15:55:52 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.58 from 
+        F0:18:98:64:9A:A0" 
+
+ time=15:58:00 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.208 from 
+        18:F0:E4:F6:AB:A7" 
+
+ time=15:58:50 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.208 to 
+        18:F0:E4:F6:AB:A7" 
+
+ time=15:59:26 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.213 from 
+        74:23:44:D9:A3:0A" 
+
+ time=16:00:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.54 from 
+        F4:81:39:0B:6F:9A" 
+
+ time=16:00:28 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.54 to 
+        F4:81:39:0B:6F:9A" 
+
+ time=16:01:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.34 from 
+        34:14:5F:66:3F:0D" 
+
+ time=16:01:12 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.34 to 
+        34:14:5F:66:3F:0D" 
+
+ time=16:04:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=16:04:32 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=16:06:53 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.174 to 
+        50:A6:7F:52:0F:72" 
+
+ time=16:11:14 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.213 to 
+        DC:56:E7:73:AA:07" 
+
+ time=16:15:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.107 from 
+        0C:2C:54:00:F0:BF" 
+
+ time=16:15:44 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.107 to 
+        0C:2C:54:00:F0:BF" 
+
+ time=16:16:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.246 from 
+        00:14:25:2E:55:4A" 
+
+ time=16:16:34 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.246 to 
+        00:14:25:2E:55:4A" 
+
+ time=16:17:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.15 from 
+        50:8F:4C:58:88:D5" 
+
+ time=16:17:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.15 to 
+        50:8F:4C:58:88:D5" 
+
+ time=16:18:04 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.213 from 
+        DC:56:E7:73:AA:07" 
+
+ time=16:18:05 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.213 to 
+        DC:56:E7:73:AA:07" 
+
+ time=16:18:46 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.213 from 
+        DC:56:E7:73:AA:07" 
+
+ time=16:18:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.213 to 
+        DC:56:E7:73:AA:07" 
+
+ time=16:19:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.234 from 
+        8C:BE:BE:0E:0B:80" 
+
+ time=16:19:13 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.234 to 
+        8C:BE:BE:0E:0B:80" 
+
+ time=16:23:18 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.8.246 from 
+        00:14:25:2E:55:4A" 
+
+ time=16:23:18 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.246 to 
+        00:14:25:2E:55:4A" 
+
+ time=16:26:57 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.8.165 to 
+        0C:CE:F6:3C:95:1E" 
+
+ time=16:27:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.79 from 
+        AC:C1:EE:43:A8:B9" 
+
+ time=16:27:54 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.79 to 
+        AC:C1:EE:43:A8:B9" 
+
+ time=16:31:19 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.204 from 
+        B0:55:08:73:AA:EC" 
+
+ time=16:33:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 deassigned 192.168.10.79 from 
+        AC:C1:EE:43:A8:B9" 
+
+ time=16:33:51 topics=dhcp,info 
+   message="dhcp_stat: dhcp-server-0 assigned 192.168.10.79 to 
+        AC:C1:EE:43:A8:B9" 
+

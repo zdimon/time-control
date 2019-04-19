@@ -1,0 +1,6 @@
+while true
+do
+. ../venv/bin/activate
+./bin/get_snapshot
+sleep 60
+done

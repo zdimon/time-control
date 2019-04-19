@@ -1,0 +1,5 @@
+./bin/getlogs
+. ../venv/activate
+./manage.py import_log
+./manage.py import_user
+./manage.py snapshot

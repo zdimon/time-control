@@ -1,0 +1,3095 @@
+Flags: X - disabled, R - radius, D - dynamic, B - blocked 
+ 0 D address=192.168.10.251 mac-address=0C:4D:E9:D2:5A:6D 
+     client-id="1:c:4d:e9:d2:5a:6d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d23h7m last-seen=1d52m59s 
+     active-address=192.168.10.251 active-mac-address=0C:4D:E9:D2:5A:6D 
+     active-client-id="1:c:4d:e9:d2:5a:6d" active-server=dhcp-server-0 
+     host-name="Admins-iMac" 
+
+ 1 D address=192.168.10.248 mac-address=D0:50:99:95:3B:A9 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d16h29m19s last-seen=7h30m40s 
+     active-address=192.168.10.248 active-mac-address=D0:50:99:95:3B:A9 
+     active-server=dhcp-server-0 host-name="webmaster" 
+
+ 2 D address=192.168.10.246 mac-address=80:2A:A8:D3:6C:1C 
+     client-id="1:80:2a:a8:d3:6c:1c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d2h51m45s last-seen=21h8m14s 
+     active-address=192.168.10.246 active-mac-address=80:2A:A8:D3:6C:1C 
+     active-client-id="1:80:2a:a8:d3:6c:1c" active-server=dhcp-server-0 
+     host-name="802aa8d36c1c" 
+
+ 3 D address=192.168.10.68 mac-address=70:4D:7B:32:C3:5F 
+     client-id="1:70:4d:7b:32:c3:5f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h39m38s last-seen=5h20m21s 
+     active-address=192.168.10.68 active-mac-address=70:4D:7B:32:C3:5F 
+     active-client-id="1:70:4d:7b:32:c3:5f" active-server=dhcp-server-0 
+     host-name="DESKTOP-9RDE731" 
+
+ 4 D address=192.168.10.67 mac-address=4C:CC:6A:6E:45:0F 
+     client-id="1:4c:cc:6a:6e:45:f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h32s last-seen=5h59m27s 
+     active-address=192.168.10.67 active-mac-address=4C:CC:6A:6E:45:0F 
+     active-client-id="1:4c:cc:6a:6e:45:f" active-server=dhcp-server-0 
+     host-name="verstka127" 
+
+ 5 D address=192.168.10.66 mac-address=DC:0E:A1:61:CF:C3 
+     client-id="1:dc:e:a1:61:cf:c3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h8m23s last-seen=7h51m36s 
+     active-address=192.168.10.66 active-mac-address=DC:0E:A1:61:CF:C3 
+     active-client-id="1:dc:e:a1:61:cf:c3" active-server=dhcp-server-0 
+     host-name="DESKTOP-O4A66UB" 
+
+ 6 D address=192.168.10.61 mac-address=F0:9F:C2:79:DC:BC 
+     client-id="1:f0:9f:c2:79:dc:bc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d35m52s last-seen=23h24m7s 
+     active-address=192.168.10.61 active-mac-address=F0:9F:C2:79:DC:BC 
+     active-client-id="1:f0:9f:c2:79:dc:bc" active-server=dhcp-server-0 
+     host-name="f09fc279dcbc" 
+
+ 7 D address=192.168.10.56 mac-address=B8:97:5A:90:6D:FD 
+     client-id="1:b8:97:5a:90:6d:fd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h54m57s last-seen=8h5m2s 
+     active-address=192.168.10.56 active-mac-address=B8:97:5A:90:6D:FD 
+     active-client-id="1:b8:97:5a:90:6d:fd" active-server=dhcp-server-0 
+     host-name="seo220" 
+
+ 8 D address=192.168.10.55 mac-address=78:24:AF:3A:1D:73 
+     client-id="1:78:24:af:3a:1d:73" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h43m1s last-seen=3h16m58s 
+     active-address=192.168.10.55 active-mac-address=78:24:AF:3A:1D:73 
+     active-client-id="1:78:24:af:3a:1d:73" active-server=dhcp-server-0 
+     host-name="buh123" 
+
+ 9 D address=192.168.10.50 mac-address=10:DD:B1:AE:5D:81 
+     client-id="1:10:dd:b1:ae:5d:81" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h25m59s last-seen=6h34m 
+     active-address=192.168.10.50 active-mac-address=10:DD:B1:AE:5D:81 
+     active-client-id="1:10:dd:b1:ae:5d:81" active-server=dhcp-server-0 
+     host-name="alla-iMac" 
+
+10 D address=192.168.10.43 mac-address=38:D5:47:14:65:E9 
+     client-id="1:38:d5:47:14:65:e9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d17h40m53s 
+     last-seen=1d6h19m6s active-address=192.168.10.43 
+     active-mac-address=38:D5:47:14:65:E9 
+     active-client-id="1:38:d5:47:14:65:e9" active-server=dhcp-server-0 
+     host-name="Cruels-iMac" 
+
+11 D address=192.168.10.40 mac-address=38:C9:86:54:82:1B 
+     client-id="1:38:c9:86:54:82:1b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d16h43m17s 
+     last-seen=1d7h16m42s active-address=192.168.10.40 
+     active-mac-address=38:C9:86:54:82:1B 
+     active-client-id="1:38:c9:86:54:82:1b" active-server=dhcp-server-0 
+     host-name="Victor-iMac" 
+
+12 D address=192.168.10.39 mac-address=D0:50:99:91:4A:07 
+     client-id="1:d0:50:99:91:4a:7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h24m15s last-seen=3h35m44s 
+     active-address=192.168.10.39 active-mac-address=D0:50:99:91:4A:07 
+     active-client-id="1:d0:50:99:91:4a:7" active-server=dhcp-server-0 
+     host-name="prog166" 
+
+13 D address=192.168.10.36 mac-address=18:F0:E4:0F:AD:E4 
+     client-id="1:18:f0:e4:f:ad:e4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h13m40s last-seen=3h46m19s 
+     active-address=192.168.10.36 active-mac-address=18:F0:E4:0F:AD:E4 
+     active-client-id="1:18:f0:e4:f:ad:e4" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi" 
+
+14 D address=192.168.10.35 mac-address=B0:E5:ED:B6:50:7F 
+     client-id="1:b0:e5:ed:b6:50:7f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h36m57s last-seen=7h23m2s 
+     active-address=192.168.10.35 active-mac-address=B0:E5:ED:B6:50:7F 
+     active-client-id="1:b0:e5:ed:b6:50:7f" active-server=dhcp-server-0 
+     host-name="HUAWEI_P8_lite_2017-ca607" 
+
+15 D address=192.168.10.25 mac-address=78:24:AF:3A:1F:2E 
+     client-id="1:78:24:af:3a:1f:2e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h37m15s last-seen=2m38s 
+     active-address=192.168.10.25 active-mac-address=78:24:AF:3A:1F:2E 
+     active-client-id="1:78:24:af:3a:1f:2e" active-server=dhcp-server-0 
+     host-name="iradesign" 
+
+16 D address=192.168.10.22 mac-address=A8:20:66:22:E2:92 
+     client-id="1:a8:20:66:22:e2:92" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=15h46m6s last-seen=3d8h13m53s 
+     active-address=192.168.10.22 active-mac-address=A8:20:66:22:E2:92 
+     active-client-id="1:a8:20:66:22:e2:92" active-server=dhcp-server-0 
+     host-name="MacBookL" 
+
+17 D address=192.168.10.20 mac-address=1C:1B:0D:D6:A0:4B 
+     client-id="1:1c:1b:d:d6:a0:4b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h58m4s last-seen=7h1m55s 
+     active-address=192.168.10.20 active-mac-address=1C:1B:0D:D6:A0:4B 
+     active-client-id="1:1c:1b:d:d6:a0:4b" active-server=dhcp-server-0 
+     host-name="host" 
+
+18 D address=192.168.10.82 mac-address=08:62:66:26:F7:0D 
+     client-id="1:8:62:66:26:f7:d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h7m33s last-seen=1h52m26s 
+     active-address=192.168.10.82 active-mac-address=08:62:66:26:F7:0D 
+     active-client-id="1:8:62:66:26:f7:d" active-server=dhcp-server-0 
+     host-name="seo134" 
+
+19 D address=192.168.10.84 mac-address=D0:50:99:9B:8D:CE 
+     client-id="1:d0:50:99:9b:8d:ce" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h24m41s last-seen=7m22s 
+     active-address=192.168.10.84 active-mac-address=D0:50:99:9B:8D:CE 
+     active-client-id="1:d0:50:99:9b:8d:ce" active-server=dhcp-server-0 
+     host-name="seo194" 
+
+20 D address=192.168.10.93 mac-address=08:60:6E:D7:1B:5D 
+     client-id="1:8:60:6e:d7:1b:5d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h1m32s last-seen=13m14s 
+     active-address=192.168.10.93 active-mac-address=08:60:6E:D7:1B:5D 
+     active-client-id="1:8:60:6e:d7:1b:5d" active-server=dhcp-server-0 
+     host-name="PC" 
+
+21 D address=192.168.10.95 mac-address=D0:50:99:8C:F6:99 
+     client-id="1:d0:50:99:8c:f6:99" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h3m5s last-seen=6h56m54s 
+     active-address=192.168.10.95 active-mac-address=D0:50:99:8C:F6:99 
+     active-client-id="1:d0:50:99:8c:f6:99" active-server=dhcp-server-0 
+     host-name="DESKTOP-5JRKQM7" 
+
+22 D address=192.168.10.99 mac-address=F0:1F:AF:0F:ED:23 
+     client-id="1:f0:1f:af:f:ed:23" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h56m48s last-seen=7h3m11s 
+     active-address=192.168.10.99 active-mac-address=F0:1F:AF:0F:ED:23 
+     active-client-id="1:f0:1f:af:f:ed:23" active-server=dhcp-server-0 
+     host-name="DESKTOP-1S2705T" 
+
+23 D address=192.168.10.103 mac-address=50:E5:49:37:D4:F3 
+     client-id="1:50:e5:49:37:d4:f3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h44m11s last-seen=7h15m48s 
+     active-address=192.168.10.103 active-mac-address=50:E5:49:37:D4:F3 
+     active-client-id="1:50:e5:49:37:d4:f3" active-server=dhcp-server-0 
+     host-name="DESKTOP-SNGD464" 
+
+24 D address=192.168.10.104 mac-address=00:24:1D:FE:BE:73 
+     client-id="1:0:24:1d:fe:be:73" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h53m34s last-seen=8h6m25s 
+     active-address=192.168.10.104 active-mac-address=00:24:1D:FE:BE:73 
+     active-client-id="1:0:24:1d:fe:be:73" active-server=dhcp-server-0 
+     host-name="DESKTOP-F8RK6BG" 
+
+25 D address=192.168.10.105 mac-address=14:DA:E9:D4:4E:29 
+     client-id="1:14:da:e9:d4:4e:29" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h42m5s last-seen=7h17m54s 
+     active-address=192.168.10.105 active-mac-address=14:DA:E9:D4:4E:29 
+     active-client-id="1:14:da:e9:d4:4e:29" active-server=dhcp-server-0 
+     host-name="DESKTOP-2534HSP" 
+
+26 D address=192.168.10.108 mac-address=FC:45:96:41:1D:06 
+     client-id="1:fc:45:96:41:1d:6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h37m16s last-seen=7h22m43s 
+     active-address=192.168.10.108 active-mac-address=FC:45:96:41:1D:06 
+     active-client-id="1:fc:45:96:41:1d:6" active-server=dhcp-server-0 
+     host-name="-LENOVO-" 
+
+27 D address=192.168.10.111 mac-address=2C:4D:54:E5:B1:0B 
+     client-id="1:2c:4d:54:e5:b1:b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h11m31s last-seen=4h48m28s 
+     active-address=192.168.10.111 active-mac-address=2C:4D:54:E5:B1:0B 
+     active-client-id="1:2c:4d:54:e5:b1:b" active-server=dhcp-server-0 
+     host-name="DESKTOP-CQO7ICG" 
+
+28 D address=192.168.10.113 mac-address=D0:50:99:8C:FA:78 
+     client-id="1:d0:50:99:8c:fa:78" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h54m52s last-seen=7h5m7s 
+     active-address=192.168.10.113 active-mac-address=D0:50:99:8C:FA:78 
+     active-client-id="1:d0:50:99:8c:fa:78" active-server=dhcp-server-0 
+     host-name="DESKTOP-K0BE8CR" 
+
+29 D address=192.168.10.122 mac-address=14:DA:E9:35:FA:68 
+     client-id="1:14:da:e9:35:fa:68" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h31m11s last-seen=7h28m48s 
+     active-address=192.168.10.122 active-mac-address=14:DA:E9:35:FA:68 
+     active-client-id="1:14:da:e9:35:fa:68" active-server=dhcp-server-0 
+     host-name="notebook2" 
+
+30 D address=192.168.10.128 mac-address=70:85:C2:24:B1:E6 
+     client-id="1:70:85:c2:24:b1:e6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h39s last-seen=7h59m20s 
+     active-address=192.168.10.128 active-mac-address=70:85:C2:24:B1:E6 
+     active-client-id="1:70:85:c2:24:b1:e6" active-server=dhcp-server-0 
+     host-name="testing174" 
+
+31 D address=192.168.10.130 mac-address=30:E1:71:97:B1:5F 
+     client-id="1:30:e1:71:97:b1:5f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h52m55s last-seen=8h7m4s 
+     active-address=192.168.10.130 active-mac-address=30:E1:71:97:B1:5F 
+     active-client-id="1:30:e1:71:97:b1:5f" active-server=dhcp-server-0 
+     host-name="comp6" 
+
+32 D address=192.168.10.133 mac-address=D0:50:99:8C:F5:48 
+     client-id="1:d0:50:99:8c:f5:48" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h57m41s last-seen=3m39s 
+     active-address=192.168.10.133 active-mac-address=D0:50:99:8C:F5:48 
+     active-client-id="1:d0:50:99:8c:f5:48" active-server=dhcp-server-0 
+     host-name="seo415" 
+
+33 D address=192.168.10.135 mac-address=D0:50:99:8C:F5:59 
+     client-id="1:d0:50:99:8c:f5:59" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h15s last-seen=6h59m44s 
+     active-address=192.168.10.135 active-mac-address=D0:50:99:8C:F5:59 
+     active-client-id="1:d0:50:99:8c:f5:59" active-server=dhcp-server-0 
+     host-name="prog325" 
+
+34 D address=192.168.10.136 mac-address=2C:4D:54:E4:4F:CB 
+     client-id="1:2c:4d:54:e4:4f:cb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h4m3s last-seen=4h55m56s 
+     active-address=192.168.10.136 active-mac-address=2C:4D:54:E4:4F:CB 
+     active-client-id="1:2c:4d:54:e4:4f:cb" active-server=dhcp-server-0 
+     host-name="verstka212" 
+
+35 D address=192.168.10.137 mac-address=78:24:AF:9A:7B:3A 
+     client-id="1:78:24:af:9a:7b:3a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h23m39s last-seen=3h36m20s 
+     active-address=192.168.10.137 active-mac-address=78:24:AF:9A:7B:3A 
+     active-client-id="1:78:24:af:9a:7b:3a" active-server=dhcp-server-0 
+     host-name="DESKTOP-ECTN8EQ" 
+
+36 D address=192.168.10.156 mac-address=AC:9E:17:4E:2B:BC 
+     client-id="1:ac:9e:17:4e:2b:bc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h53m16s last-seen=55m19s 
+     active-address=192.168.10.156 active-mac-address=AC:9E:17:4E:2B:BC 
+     active-client-id="1:ac:9e:17:4e:2b:bc" active-server=dhcp-server-0 
+     host-name="seo80" 
+
+37 D address=192.168.10.180 mac-address=70:4D:7B:32:B8:18 
+     client-id="1:70:4d:7b:32:b8:18" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h4m4s last-seen=55m55s 
+     active-address=192.168.10.180 active-mac-address=70:4D:7B:32:B8:18 
+     active-client-id="1:70:4d:7b:32:b8:18" active-server=dhcp-server-0 
+     host-name="DESKTOP-M0G32LV" 
+
+38 D address=192.168.10.184 mac-address=20:A6:0C:55:43:FE 
+     client-id="1:20:a6:c:55:43:fe" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h25m2s last-seen=34m57s 
+     active-address=192.168.10.184 active-mac-address=20:A6:0C:55:43:FE 
+     active-client-id="1:20:a6:c:55:43:fe" active-server=dhcp-server-0 
+     host-name="RedmiNote5-Redmi" 
+
+39 D address=192.168.10.185 mac-address=D0:50:99:3E:84:CC 
+     client-id="1:d0:50:99:3e:84:cc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h55m12s last-seen=7h4m47s 
+     active-address=192.168.10.185 active-mac-address=D0:50:99:3E:84:CC 
+     active-client-id="1:d0:50:99:3e:84:cc" active-server=dhcp-server-0 
+     host-name="mob146" 
+
+40 D address=192.168.10.188 mac-address=74:D4:35:3A:21:59 
+     client-id="1:74:d4:35:3a:21:59" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=16h48m26s last-seen=3d7h11m33s 
+     active-address=192.168.10.188 active-mac-address=74:D4:35:3A:21:59 
+     active-client-id="1:74:d4:35:3a:21:59" active-server=dhcp-server-0 
+     host-name="verstka149" 
+
+41 D address=192.168.10.197 mac-address=10:7B:44:4E:3A:ED 
+     client-id="1:10:7b:44:4e:3a:ed" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=17h32m34s last-seen=3d6h27m25s 
+     active-address=192.168.10.197 active-mac-address=10:7B:44:4E:3A:ED 
+     active-client-id="1:10:7b:44:4e:3a:ed" active-server=dhcp-server-0 
+     host-name="DESKTOP-T2SDVKK" 
+
+42 D address=192.168.10.198 mac-address=B0:C1:9E:A3:EE:AE address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=3d36m54s 
+     last-seen=23h23m5s active-address=192.168.10.198 
+     active-mac-address=B0:C1:9E:A3:EE:AE active-server=dhcp-server-0 
+     host-name="android-58330fdd5a15c8c9" 
+
+43 D address=192.168.10.203 mac-address=2C:9E:FC:60:1D:80 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d16h10m6s last-seen=7h49m53s 
+     active-address=192.168.10.203 active-mac-address=2C:9E:FC:60:1D:80 
+     active-server=dhcp-server-0 
+
+44 D address=192.168.10.205 mac-address=E0:D5:5E:06:50:78 
+     client-id="1:e0:d5:5e:6:50:78" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h56m32s last-seen=7h3m27s 
+     active-address=192.168.10.205 active-mac-address=E0:D5:5E:06:50:78 
+     active-client-id="1:e0:d5:5e:6:50:78" active-server=dhcp-server-0 
+     host-name="DESKTOP-9762UOC" 
+
+45 D address=192.168.10.211 mac-address=8C:85:90:17:1E:F3 
+     client-id="1:8c:85:90:17:1e:f3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h52m7s last-seen=7m52s 
+     active-address=192.168.10.211 active-mac-address=8C:85:90:17:1E:F3 
+     active-client-id="1:8c:85:90:17:1e:f3" active-server=dhcp-server-0 
+     host-name="Artems-MBP" 
+
+46 D address=192.168.10.232 mac-address=D4:3D:7E:91:90:42 
+     client-id="1:d4:3d:7e:91:90:42" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h29m14s last-seen=6h30m45s 
+     active-address=192.168.10.232 active-mac-address=D4:3D:7E:91:90:42 
+     active-client-id="1:d4:3d:7e:91:90:42" active-server=dhcp-server-0 
+     host-name="DESKTOP-OTI0GMK" 
+
+47 D address=192.168.10.239 mac-address=10:7B:44:4F:70:52 
+     client-id="1:10:7b:44:4f:70:52" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h20m21s last-seen=6h39m38s 
+     active-address=192.168.10.239 active-mac-address=10:7B:44:4F:70:52 
+     active-client-id="1:10:7b:44:4f:70:52" active-server=dhcp-server-0 
+     host-name="seo11111" 
+
+48 D address=192.168.10.124 mac-address=94:DE:80:76:E5:4D 
+     client-id="1:94:de:80:76:e5:4d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h33m2s last-seen=1h26m57s 
+     active-address=192.168.10.124 active-mac-address=94:DE:80:76:E5:4D 
+     active-client-id="1:94:de:80:76:e5:4d" active-server=dhcp-server-0 
+     host-name="DESKTOP-TUTPBRK" 
+
+49 D address=192.168.8.111 mac-address=00:EC:0A:46:94:DC 
+     client-id="1:0:ec:a:46:94:dc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h22m59s last-seen=5h37m 
+     active-address=192.168.8.111 active-mac-address=00:EC:0A:46:94:DC 
+     active-client-id="1:0:ec:a:46:94:dc" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi" 
+
+50 D address=192.168.8.243 mac-address=AC:22:0B:51:51:40 
+     client-id="1:ac:22:b:51:51:40" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h54m59s last-seen=6h5m 
+     active-address=192.168.8.243 active-mac-address=AC:22:0B:51:51:40 
+     active-client-id="1:ac:22:b:51:51:40" active-server=dhcp-server-0 
+     host-name="smm98788" 
+
+51 D address=192.168.8.222 mac-address=D0:50:99:95:3C:42 
+     client-id="1:d0:50:99:95:3c:42" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h51m42s last-seen=7h8m17s 
+     active-address=192.168.8.222 active-mac-address=D0:50:99:95:3C:42 
+     active-client-id="1:d0:50:99:95:3c:42" active-server=dhcp-server-0 
+     host-name="DESKTOP-1035740" 
+
+52 D address=192.168.8.221 mac-address=84:8F:69:D2:13:5B 
+     client-id="1:84:8f:69:d2:13:5b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h46m16s last-seen=2h13m43s 
+     active-address=192.168.8.221 active-mac-address=84:8F:69:D2:13:5B 
+     active-client-id="1:84:8f:69:d2:13:5b" active-server=dhcp-server-0 
+     host-name="DESKTOP-3TJ12MH" 
+
+53 D address=192.168.8.199 mac-address=9C:2E:A1:C2:C1:67 
+     client-id="1:9c:2e:a1:c2:c1:67" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h29m22s last-seen=2h30m37s 
+     active-address=192.168.8.199 active-mac-address=9C:2E:A1:C2:C1:67 
+     active-client-id="1:9c:2e:a1:c2:c1:67" active-server=dhcp-server-0 
+     host-name="Redmi5Plus-Redmi" 
+
+54 D address=192.168.8.193 mac-address=74:D4:35:72:24:9D 
+     client-id="1:74:d4:35:72:24:9d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h45m32s last-seen=1h54m40s 
+     active-address=192.168.8.193 active-mac-address=74:D4:35:72:24:9D 
+     active-client-id="1:74:d4:35:72:24:9d" active-server=dhcp-server-0 
+     host-name="bug222" 
+
+55 D address=192.168.8.159 mac-address=C0:18:85:B9:AB:49 
+     client-id="1:c0:18:85:b9:ab:49" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h46m15s last-seen=2h13m44s 
+     active-address=192.168.8.159 active-mac-address=C0:18:85:B9:AB:49 
+     active-client-id="1:c0:18:85:b9:ab:49" active-server=dhcp-server-0 
+     host-name="DESKTOP-3TJ12MH" 
+
+56 D address=192.168.8.154 mac-address=78:24:AF:9A:7B:A0 
+     client-id="1:78:24:af:9a:7b:a0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h12m37s last-seen=6h47m22s 
+     active-address=192.168.8.154 active-mac-address=78:24:AF:9A:7B:A0 
+     active-client-id="1:78:24:af:9a:7b:a0" active-server=dhcp-server-0 
+     host-name="PC1" 
+
+57 D address=192.168.8.227 mac-address=70:4D:7B:71:66:3C 
+     client-id="1:70:4d:7b:71:66:3c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h49m last-seen=7h10m59s 
+     active-address=192.168.8.227 active-mac-address=70:4D:7B:71:66:3C 
+     active-client-id="1:70:4d:7b:71:66:3c" active-server=dhcp-server-0 
+     host-name="DESKTOP-559QMOS" 
+
+58 D address=192.168.9.22 mac-address=10:7B:44:4E:33:1C 
+     client-id="1:10:7b:44:4e:33:1c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h28m24s last-seen=4h31m35s 
+     active-address=192.168.9.22 active-mac-address=10:7B:44:4E:33:1C 
+     active-client-id="1:10:7b:44:4e:33:1c" active-server=dhcp-server-0 
+     host-name="seo233" 
+
+59 D address=192.168.10.73 mac-address=E0:5F:45:7A:E6:2C 
+     client-id="1:e0:5f:45:7a:e6:2c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h52m23s last-seen=2h7m36s 
+     active-address=192.168.10.73 active-mac-address=E0:5F:45:7A:E6:2C 
+     active-client-id="1:e0:5f:45:7a:e6:2c" active-server=dhcp-server-0 
+     host-name="iPhoneOleksandr" 
+
+60 D address=192.168.8.247 mac-address=60:A4:4C:51:47:FE 
+     client-id="1:60:a4:4c:51:47:fe" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h14m32s last-seen=7h45m27s 
+     active-address=192.168.8.247 active-mac-address=60:A4:4C:51:47:FE 
+     active-client-id="1:60:a4:4c:51:47:fe" active-server=dhcp-server-0 
+     host-name="DESKTOP-O8OHCMT" 
+
+61 D address=192.168.10.210 mac-address=D0:50:99:8A:84:9B 
+     client-id="1:d0:50:99:8a:84:9b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h20m30s last-seen=6h39m29s 
+     active-address=192.168.10.210 active-mac-address=D0:50:99:8A:84:9B 
+     active-client-id="1:d0:50:99:8a:84:9b" active-server=dhcp-server-0 
+     host-name="DESKTOP-0ADMP81" 
+
+62 D address=192.168.10.163 mac-address=18:31:BF:D0:E3:96 
+     client-id="1:18:31:bf:d0:e3:96" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h19m55s last-seen=2h40m4s 
+     active-address=192.168.10.163 active-mac-address=18:31:BF:D0:E3:96 
+     active-client-id="1:18:31:bf:d0:e3:96" active-server=dhcp-server-0 
+     host-name="ASUS_X017DA" 
+
+63 D address=192.168.10.17 mac-address=88:66:A5:99:34:49 
+     client-id="1:88:66:a5:99:34:49" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h48m34s last-seen=3d11m25s 
+     active-address=192.168.10.17 active-mac-address=88:66:A5:99:34:49 
+     active-client-id="1:88:66:a5:99:34:49" active-server=dhcp-server-0 
+     host-name="iPhone-Maxim" 
+
+64 D address=192.168.10.220 mac-address=D0:50:99:9B:82:7E 
+     client-id="1:d0:50:99:9b:82:7e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h42m25s last-seen=7h17m34s 
+     active-address=192.168.10.220 active-mac-address=D0:50:99:9B:82:7E 
+     active-client-id="1:d0:50:99:9b:82:7e" active-server=dhcp-server-0 
+     host-name="copy178" 
+
+65 D address=192.168.8.140 mac-address=D0:50:99:95:29:A4 
+     client-id="1:d0:50:99:95:29:a4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=15h31m28s last-seen=3d8h28m31s 
+     active-address=192.168.8.140 active-mac-address=D0:50:99:95:29:A4 
+     active-client-id="1:d0:50:99:95:29:a4" active-server=dhcp-server-0 
+     host-name="DESKTOP-TCMS3ES" 
+
+66 D address=192.168.8.114 mac-address=00:24:8C:DC:28:26 
+     client-id="1:0:24:8c:dc:28:26" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h40m31s last-seen=3h19m28s 
+     active-address=192.168.8.114 active-mac-address=00:24:8C:DC:28:26 
+     active-client-id="1:0:24:8c:dc:28:26" active-server=dhcp-server-0 
+     host-name="DESKTOP-T168KHA" 
+
+67 D address=192.168.8.110 mac-address=74:D4:35:5A:55:43 
+     client-id="1:74:d4:35:5a:55:43" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d16h52m59s 
+     last-seen=2d6h58m28s active-address=192.168.8.110 
+     active-mac-address=74:D4:35:5A:55:43 
+     active-client-id="1:74:d4:35:5a:55:43" active-server=dhcp-server-0 
+     host-name="PC" 
+
+68 D address=192.168.10.161 mac-address=50:F0:D3:9F:23:35 
+     client-id="1:50:f0:d3:9f:23:35" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=21h6m43s last-seen=3d2h53m16s 
+     active-address=192.168.10.161 active-mac-address=50:F0:D3:9F:23:35 
+     active-client-id="1:50:f0:d3:9f:23:35" active-server=dhcp-server-0 
+     host-name="android-6d1dac493766ff56" 
+
+69 D address=192.168.10.21 mac-address=38:E6:0A:7E:EC:A0 
+     client-id="1:38:e6:a:7e:ec:a0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h51m15s last-seen=1h8m44s 
+     active-address=192.168.10.21 active-mac-address=38:E6:0A:7E:EC:A0 
+     active-client-id="1:38:e6:a:7e:ec:a0" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi" 
+
+70 D address=192.168.10.37 mac-address=20:47:DA:37:51:97 
+     client-id="1:20:47:da:37:51:97" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h46m54s last-seen=8h13m5s 
+     active-address=192.168.10.37 active-mac-address=20:47:DA:37:51:97 
+     active-client-id="1:20:47:da:37:51:97" active-server=dhcp-server-0 
+     host-name="Redmi5-stew-redmi5" 
+
+71 D address=192.168.8.254 mac-address=04:79:70:8A:04:57 
+     client-id="1:4:79:70:8a:4:57" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h53m45s last-seen=2h6m14s 
+     active-address=192.168.8.254 active-mac-address=04:79:70:8A:04:57 
+     active-client-id="1:4:79:70:8a:4:57" active-server=dhcp-server-0 
+     host-name="Honor_7X-b912e3324eeb229" 
+
+72 D address=192.168.8.108 mac-address=78:4F:43:67:6C:C9 
+     client-id="1:78:4f:43:67:6c:c9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d57m7s last-seen=2d23h2m52s 
+     active-address=192.168.8.108 active-mac-address=78:4F:43:67:6C:C9 
+     active-client-id="1:78:4f:43:67:6c:c9" active-server=dhcp-server-0 
+     host-name="MBP-Maksim" 
+
+73 D address=192.168.10.131 mac-address=F0:79:59:63:5E:3B 
+     client-id="1:f0:79:59:63:5e:3b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=21h49m29s last-seen=3d2h10m30s 
+     active-address=192.168.10.131 active-mac-address=F0:79:59:63:5E:3B 
+     active-client-id="1:f0:79:59:63:5e:3b" active-server=dhcp-server-0 
+     host-name="DESKTOP-7LMI7QS" 
+
+74 D address=192.168.8.127 mac-address=AC:22:0B:52:00:A2 
+     client-id="1:ac:22:b:52:0:a2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h28m5s last-seen=3h31m54s 
+     active-address=192.168.8.127 active-mac-address=AC:22:0B:52:00:A2 
+     active-client-id="1:ac:22:b:52:0:a2" active-server=dhcp-server-0 
+     host-name="DESKTOP-833NDV1" 
+
+75 D address=192.168.8.112 mac-address=84:34:97:7B:E7:C4 
+     client-id="1:84:34:97:7b:e7:c4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h47m6s last-seen=1h12m53s 
+     active-address=192.168.8.112 active-mac-address=84:34:97:7B:E7:C4 
+     active-client-id="1:84:34:97:7b:e7:c4" active-server=dhcp-server-0 
+     host-name="DESKTOP-QHL2P30" 
+
+76 D address=192.168.10.41 mac-address=00:1F:C6:E6:1F:63 
+     client-id="1:0:1f:c6:e6:1f:63" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h43m18s last-seen=17m22s 
+     active-address=192.168.10.41 active-mac-address=00:1F:C6:E6:1F:63 
+     active-client-id="1:0:1f:c6:e6:1f:63" active-server=dhcp-server-0 
+     host-name="PC" 
+
+77 D address=192.168.10.118 mac-address=78:24:AF:9A:7A:F3 
+     client-id="1:78:24:af:9a:7a:f3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h55m36s last-seen=8h4m23s 
+     active-address=192.168.10.118 active-mac-address=78:24:AF:9A:7A:F3 
+     active-client-id="1:78:24:af:9a:7a:f3" active-server=dhcp-server-0 
+     host-name="DESKTOP-NVAQVVV" 
+
+78 D address=192.168.10.27 mac-address=94:DB:C9:A1:20:4A 
+     client-id="1:94:db:c9:a1:20:4a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h20m5s last-seen=2m26s 
+     active-address=192.168.10.27 active-mac-address=94:DB:C9:A1:20:4A 
+     active-client-id="1:94:db:c9:a1:20:4a" active-server=dhcp-server-0 
+     host-name="User-\8F\8A" 
+
+79 D address=192.168.10.109 mac-address=E0:D5:5E:06:60:DC 
+     client-id="1:e0:d5:5e:6:60:dc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h44m last-seen=15m59s 
+     active-address=192.168.10.109 active-mac-address=E0:D5:5E:06:60:DC 
+     active-client-id="1:e0:d5:5e:6:60:dc" active-server=dhcp-server-0 
+     host-name="DESKTOP-23UUTPU" 
+
+80 D address=192.168.10.110 mac-address=04:B1:67:61:38:FE 
+     client-id="1:4:b1:67:61:38:fe" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h52m13s last-seen=3d7m46s 
+     active-address=192.168.10.110 active-mac-address=04:B1:67:61:38:FE 
+     active-client-id="1:4:b1:67:61:38:fe" active-server=dhcp-server-0 
+     host-name="Redmi5-Redmi" 
+
+81 D address=192.168.10.92 mac-address=D0:50:99:9B:82:72 
+     client-id="1:d0:50:99:9b:82:72" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h40m27s last-seen=7h19m32s 
+     active-address=192.168.10.92 active-mac-address=D0:50:99:9B:82:72 
+     active-client-id="1:d0:50:99:9b:82:72" active-server=dhcp-server-0 
+     host-name="copy170" 
+
+82 D address=192.168.10.89 mac-address=6C:96:CF:BD:43:E8 
+     client-id="1:6c:96:cf:bd:43:e8" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h31m58s last-seen=7h28m1s 
+     active-address=192.168.10.89 active-mac-address=6C:96:CF:BD:43:E8 
+     active-client-id="1:6c:96:cf:bd:43:e8" active-server=dhcp-server-0 
+     host-name="iPhone-Frontend" 
+
+83 D address=192.168.10.88 mac-address=FC:FC:48:81:94:72 
+     client-id="1:fc:fc:48:81:94:72" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h50m28s last-seen=1h9m31s 
+     active-address=192.168.10.88 active-mac-address=FC:FC:48:81:94:72 
+     active-client-id="1:fc:fc:48:81:94:72" active-server=dhcp-server-0 
+     host-name="iPad-QA" 
+
+84 D address=192.168.10.190 mac-address=24:5B:A7:50:B3:4A 
+     client-id="1:24:5b:a7:50:b3:4a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h57m36s last-seen=7h2m23s 
+     active-address=192.168.10.190 active-mac-address=24:5B:A7:50:B3:4A 
+     active-client-id="1:24:5b:a7:50:b3:4a" active-server=dhcp-server-0 
+     host-name="iPhone-Iuliia" 
+
+85 D address=192.168.10.69 mac-address=9C:2E:A1:C0:92:7D 
+     client-id="1:9c:2e:a1:c0:92:7d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h22m12s last-seen=7h37m47s 
+     active-address=192.168.10.69 active-mac-address=9C:2E:A1:C0:92:7D 
+     active-client-id="1:9c:2e:a1:c0:92:7d" active-server=dhcp-server-0 
+     host-name="Redmi5Plus-Redmi" 
+
+86 D address=192.168.10.123 mac-address=D0:50:99:9E:12:C9 
+     client-id="1:d0:50:99:9e:12:c9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h35m7s last-seen=8h24m52s 
+     active-address=192.168.10.123 active-mac-address=D0:50:99:9E:12:C9 
+     active-client-id="1:d0:50:99:9e:12:c9" active-server=dhcp-server-0 
+     host-name="DESKTOP-83M9IRH" 
+
+87 D address=192.168.8.249 mac-address=10:7B:44:4E:15:F4 
+     client-id="1:10:7b:44:4e:15:f4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h42m59s last-seen=55m3s 
+     active-address=192.168.8.249 active-mac-address=10:7B:44:4E:15:F4 
+     active-client-id="1:10:7b:44:4e:15:f4" active-server=dhcp-server-0 
+     host-name="seo2133" 
+
+88 D address=192.168.8.244 mac-address=F0:79:59:67:DD:FB 
+     client-id="1:f0:79:59:67:dd:fb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h58m10s last-seen=1m25s 
+     active-address=192.168.8.244 active-mac-address=F0:79:59:67:DD:FB 
+     active-client-id="1:f0:79:59:67:dd:fb" active-server=dhcp-server-0 
+     host-name="seo100" 
+
+89 D address=192.168.8.242 mac-address=E0:D5:5E:20:CE:D2 
+     client-id="1:e0:d5:5e:20:ce:d2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h35m50s last-seen=6h24m9s 
+     active-address=192.168.8.242 active-mac-address=E0:D5:5E:20:CE:D2 
+     active-client-id="1:e0:d5:5e:20:ce:d2" active-server=dhcp-server-0 
+     host-name="DESKTOP-Q7T2GUN" 
+
+90 D address=192.168.8.231 mac-address=E0:D5:5E:21:7E:27 
+     client-id="1:e0:d5:5e:21:7e:27" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h36m13s last-seen=6h23m46s 
+     active-address=192.168.8.231 active-mac-address=E0:D5:5E:21:7E:27 
+     active-client-id="1:e0:d5:5e:21:7e:27" active-server=dhcp-server-0 
+     host-name="DESKTOP-228KOAL" 
+
+91 D address=192.168.8.223 mac-address=74:D4:35:72:2F:4B 
+     client-id="1:74:d4:35:72:2f:4b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h16m52s last-seen=6h43m7s 
+     active-address=192.168.8.223 active-mac-address=74:D4:35:72:2F:4B 
+     active-client-id="1:74:d4:35:72:2f:4b" active-server=dhcp-server-0 
+     host-name="DESKTOP-5P5CKS6" 
+
+92 D address=192.168.8.198 mac-address=70:85:C2:25:D0:7D 
+     client-id="1:70:85:c2:25:d0:7d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h38m39s last-seen=6h21m20s 
+     active-address=192.168.8.198 active-mac-address=70:85:C2:25:D0:7D 
+     active-client-id="1:70:85:c2:25:d0:7d" active-server=dhcp-server-0 
+     host-name="Testing-222" 
+
+93 D address=192.168.8.196 mac-address=C8:38:70:2A:E0:35 
+     client-id="1:c8:38:70:2a:e0:35" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h38m32s last-seen=8h21m27s 
+     active-address=192.168.8.196 active-mac-address=C8:38:70:2A:E0:35 
+     active-client-id="1:c8:38:70:2a:e0:35" active-server=dhcp-server-0 
+     host-name="Galaxy-J7-2016" 
+
+94 D address=192.168.8.188 mac-address=10:7B:44:4E:16:3E 
+     client-id="1:10:7b:44:4e:16:3e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h56m20s last-seen=7h3m39s 
+     active-address=192.168.8.188 active-mac-address=10:7B:44:4E:16:3E 
+     active-client-id="1:10:7b:44:4e:16:3e" active-server=dhcp-server-0 
+     host-name="design089221" 
+
+95 D address=192.168.10.194 mac-address=1C:6F:65:56:46:FD 
+     client-id="1:1c:6f:65:56:46:fd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h40m33s last-seen=7h19m26s 
+     active-address=192.168.10.194 active-mac-address=1C:6F:65:56:46:FD 
+     active-client-id="1:1c:6f:65:56:46:fd" active-server=dhcp-server-0 
+     host-name="verstka157" 
+
+96 D address=192.168.10.249 mac-address=3C:57:6C:F4:10:02 
+     client-id="1:3c:57:6c:f4:10:2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h57m56s last-seen=7h2m3s 
+     active-address=192.168.10.249 active-mac-address=3C:57:6C:F4:10:02 
+     active-client-id="1:3c:57:6c:f4:10:2" active-server=dhcp-server-0 
+     host-name="Galaxy-J6" 
+
+97 D address=192.168.8.171 mac-address=88:BD:45:10:F4:31 
+     client-id="1:88:bd:45:10:f4:31" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=21h32m20s last-seen=3d2h27m39s 
+     active-address=192.168.8.171 active-mac-address=88:BD:45:10:F4:31 
+     active-client-id="1:88:bd:45:10:f4:31" active-server=dhcp-server-0 
+     host-name="Galaxy-J7-2016" 
+
+98 D address=192.168.10.86 mac-address=74:81:14:07:69:92 
+     client-id="1:74:81:14:7:69:92" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d12h36m32s 
+     last-seen=11h23m27s active-address=192.168.10.86 
+     active-mac-address=74:81:14:07:69:92 
+     active-client-id="1:74:81:14:7:69:92" active-server=dhcp-server-0 
+     host-name="iPadkonvalenkoe" 
+
+99 D address=192.168.10.63 mac-address=00:25:D3:C1:BB:64 
+     client-id="1:0:25:d3:c1:bb:64" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=21h29m54s last-seen=3d2h30m5s 
+     active-address=192.168.10.63 active-mac-address=00:25:D3:C1:BB:64 
+     active-client-id="1:0:25:d3:c1:bb:64" active-server=dhcp-server-0 
+     host-name="DESKTOP-JIN1475" 
+
+100 D address=192.168.8.177 mac-address=D0:50:99:9B:8C:24 
+     client-id="1:d0:50:99:9b:8c:24" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h56m22s last-seen=7h3m37s 
+     active-address=192.168.8.177 active-mac-address=D0:50:99:9B:8C:24 
+     active-client-id="1:d0:50:99:9b:8c:24" active-server=dhcp-server-0 
+     host-name="seo202" 
+
+101 D address=192.168.10.23 mac-address=EC:8C:9A:F7:7D:46 
+     client-id="1:ec:8c:9a:f7:7d:46" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h52m3s last-seen=7h7m56s 
+     active-address=192.168.10.23 active-mac-address=EC:8C:9A:F7:7D:46 
+     active-client-id="1:ec:8c:9a:f7:7d:46" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-5822faae1" 
+
+102 D address=192.168.9.20 mac-address=FC:53:9E:A5:EC:28 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d17h58m57s last-seen=6h1m2s active-address=192.168.9.20 
+     active-mac-address=FC:53:9E:A5:EC:28 active-server=dhcp-server-0 
+     host-name="MEIZU-M5s" 
+
+103 D address=192.168.10.58 mac-address=00:21:CC:69:13:09 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d15h13m44s last-seen=8h46m15s 
+     active-address=192.168.10.58 active-mac-address=00:21:CC:69:13:09 
+     active-server=dhcp-server-0 host-name="thinkpad-t420" 
+
+104 D address=192.168.8.220 mac-address=94:DE:80:76:F7:8E 
+     client-id="1:94:de:80:76:f7:8e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h42m45s last-seen=7h17m14s 
+     active-address=192.168.8.220 active-mac-address=94:DE:80:76:F7:8E 
+     active-client-id="1:94:de:80:76:f7:8e" active-server=dhcp-server-0 
+     host-name="DESKTOP-93UTV9T" 
+
+105 D address=192.168.10.160 mac-address=D0:50:99:8C:F4:EB 
+     client-id="1:d0:50:99:8c:f4:eb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h20m12s last-seen=8h39m47s 
+     active-address=192.168.10.160 active-mac-address=D0:50:99:8C:F4:EB 
+     active-client-id="1:d0:50:99:8c:f4:eb" active-server=dhcp-server-0 
+     host-name="seo192" 
+
+106 D address=192.168.10.94 mac-address=60:A4:4C:31:F1:58 
+     client-id="1:60:a4:4c:31:f1:58" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h3m37s last-seen=4h56m22s 
+     active-address=192.168.10.94 active-mac-address=60:A4:4C:31:F1:58 
+     active-client-id="1:60:a4:4c:31:f1:58" active-server=dhcp-server-0 
+     host-name="DESKTOP-LSSA08D" 
+
+107 D address=192.168.8.172 mac-address=94:65:2D:6A:1A:A0 
+     client-id="1:94:65:2d:6a:1a:a0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h36m29s last-seen=2h23m30s 
+     active-address=192.168.8.172 active-mac-address=94:65:2D:6A:1A:A0 
+     active-client-id="1:94:65:2d:6a:1a:a0" active-server=dhcp-server-0 
+     host-name="OnePlus5" 
+
+108 D address=192.168.8.152 mac-address=70:4D:7B:71:69:34 
+     client-id="1:70:4d:7b:71:69:34" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d20h52m2s last-seen=3h6m46s 
+     active-address=192.168.8.152 active-mac-address=70:4D:7B:71:69:34 
+     active-client-id="1:70:4d:7b:71:69:34" active-server=dhcp-server-0 
+     host-name="verstka168" 
+
+109 D address=192.168.8.142 mac-address=AC:92:32:31:AC:BA 
+     client-id="1:ac:92:32:31:ac:ba" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h8m26s last-seen=3d51m33s 
+     active-address=192.168.8.142 active-mac-address=AC:92:32:31:AC:BA 
+     active-client-id="1:ac:92:32:31:ac:ba" active-server=dhcp-server-0 
+     host-name="Honor_8X-1ccd3459a77671de" 
+
+110 D address=192.168.8.132 mac-address=D0:50:99:9E:12:C4 
+     client-id="1:d0:50:99:9e:12:c4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d3h35m26s 
+     last-seen=2d20h24m33s active-address=192.168.8.132 
+     active-mac-address=D0:50:99:9E:12:C4 
+     active-client-id="1:d0:50:99:9e:12:c4" active-server=dhcp-server-0 
+     host-name="DESKTOP-J6L8PGE" 
+
+111 D address=192.168.8.248 mac-address=B4:9C:DF:7B:C4:56 
+     client-id="1:b4:9c:df:7b:c4:56" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h52m5s last-seen=3h7m54s 
+     active-address=192.168.8.248 active-mac-address=B4:9C:DF:7B:C4:56 
+     active-client-id="1:b4:9c:df:7b:c4:56" active-server=dhcp-server-0 
+     host-name="iPhone-666" 
+
+112 D address=192.168.10.48 mac-address=54:E1:AD:7C:F8:89 
+     client-id="1:54:e1:ad:7c:f8:89" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h40m57s last-seen=6h19m2s 
+     active-address=192.168.10.48 active-mac-address=54:E1:AD:7C:F8:89 
+     active-client-id="1:54:e1:ad:7c:f8:89" active-server=dhcp-server-0 
+     host-name="DESKTOP-695KG5T" 
+
+113 D address=192.168.8.216 mac-address=18:DB:F2:0E:60:DC 
+     client-id="1:18:db:f2:e:60:dc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h5m38s last-seen=1h54m21s 
+     active-address=192.168.8.216 active-mac-address=18:DB:F2:0E:60:DC 
+     active-client-id="1:18:db:f2:e:60:dc" active-server=dhcp-server-0 
+     host-name="DESKTOP-SH1CQ49" 
+
+114 D address=192.168.8.116 mac-address=98:22:EF:C4:BE:E1 
+     client-id="1:98:22:ef:c4:be:e1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h57m36s last-seen=1h2m23s 
+     active-address=192.168.8.116 active-mac-address=98:22:EF:C4:BE:E1 
+     active-client-id="1:98:22:ef:c4:be:e1" active-server=dhcp-server-0 
+     host-name="DESKTOP-SNF5G5T" 
+
+115 D address=192.168.10.225 mac-address=90:3C:92:0F:E3:19 
+     client-id="1:90:3c:92:f:e3:19" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h34m55s last-seen=6h25m4s 
+     active-address=192.168.10.225 active-mac-address=90:3C:92:0F:E3:19 
+     active-client-id="1:90:3c:92:f:e3:19" active-server=dhcp-server-0 
+     host-name="Ivans-iPhone" 
+
+116 D address=192.168.10.231 mac-address=70:85:C2:24:B1:DA 
+     client-id="1:70:85:c2:24:b1:da" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h3m25s last-seen=6h56m34s 
+     active-address=192.168.10.231 active-mac-address=70:85:C2:24:B1:DA 
+     active-client-id="1:70:85:c2:24:b1:da" active-server=dhcp-server-0 
+     host-name="adminlocal" 
+
+117 D address=192.168.10.98 mac-address=10:7B:44:4E:15:EE 
+     client-id="1:10:7b:44:4e:15:ee" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h2m1s last-seen=2h57m58s 
+     active-address=192.168.10.98 active-mac-address=10:7B:44:4E:15:EE 
+     active-client-id="1:10:7b:44:4e:15:ee" active-server=dhcp-server-0 
+     host-name="seo267" 
+
+118 D address=192.168.10.54 mac-address=F4:81:39:0B:6F:9A 
+     client-id="1:f4:81:39:b:6f:9a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h40m22s last-seen=19m37s 
+     active-address=192.168.10.54 active-mac-address=F4:81:39:0B:6F:9A 
+     active-client-id="1:f4:81:39:b:6f:9a" active-server=dhcp-server-0 
+
+119 D address=192.168.8.27 mac-address=F0:79:59:61:BC:F3 
+     client-id="1:f0:79:59:61:bc:f3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h44m27s last-seen=6h15m32s 
+     active-address=192.168.8.27 active-mac-address=F0:79:59:61:BC:F3 
+     active-client-id="1:f0:79:59:61:bc:f3" active-server=dhcp-server-0 
+     host-name="progseo" 
+
+120 D address=192.168.8.184 mac-address=AC:22:0B:51:FE:6A 
+     client-id="1:ac:22:b:51:fe:6a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h57m50s last-seen=7h2m9s 
+     active-address=192.168.8.184 active-mac-address=AC:22:0B:51:FE:6A 
+     active-client-id="1:ac:22:b:51:fe:6a" active-server=dhcp-server-0 
+     host-name="DESKTOP-9APJNVR" 
+
+121 D address=192.168.10.45 mac-address=4C:CC:6A:93:CD:66 
+     client-id="1:4c:cc:6a:93:cd:66" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h10m49s last-seen=2h49m10s 
+     active-address=192.168.10.45 active-mac-address=4C:CC:6A:93:CD:66 
+     active-client-id="1:4c:cc:6a:93:cd:66" active-server=dhcp-server-0 
+     host-name="prog234" 
+
+122 D address=192.168.10.195 mac-address=D0:50:99:8C:F5:04 
+     client-id="1:d0:50:99:8c:f5:4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h15m9s last-seen=6h44m50s 
+     active-address=192.168.10.195 active-mac-address=D0:50:99:8C:F5:04 
+     active-client-id="1:d0:50:99:8c:f5:4" active-server=dhcp-server-0 
+     host-name="SEO205" 
+
+123 D address=192.168.8.181 mac-address=30:65:EC:AB:37:3B 
+     client-id="1:30:65:ec:ab:37:3b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h1m55s last-seen=1h58m4s 
+     active-address=192.168.8.181 active-mac-address=30:65:EC:AB:37:3B 
+     active-client-id="1:30:65:ec:ab:37:3b" active-server=dhcp-server-0 
+     host-name="DESKTOP-OGBD26T" 
+
+124 D address=192.168.8.94 mac-address=D0:50:99:9B:89:06 
+     client-id="1:d0:50:99:9b:89:6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h18m1s last-seen=2h41m58s 
+     active-address=192.168.8.94 active-mac-address=D0:50:99:9B:89:06 
+     active-client-id="1:d0:50:99:9b:89:6" active-server=dhcp-server-0 
+     host-name="DESKTOP-BR1I198" 
+
+125 D address=192.168.8.92 mac-address=C4:0B:CB:48:B9:33 
+     client-id="1:c4:b:cb:48:b9:33" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h30m37s last-seen=1h29m22s 
+     active-address=192.168.8.92 active-mac-address=C4:0B:CB:48:B9:33 
+     active-client-id="1:c4:b:cb:48:b9:33" active-server=dhcp-server-0 
+     host-name="Redmi4X-Redmi4X" 
+
+126 D address=192.168.8.83 mac-address=98:CA:33:F1:1A:50 
+     client-id="1:98:ca:33:f1:1a:50" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h20m28s last-seen=4h39m31s 
+     active-address=192.168.8.83 active-mac-address=98:CA:33:F1:1A:50 
+     active-client-id="1:98:ca:33:f1:1a:50" active-server=dhcp-server-0 
+     host-name="iPhone-Viktor" 
+
+127 D address=192.168.8.77 mac-address=D0:50:99:95:3B:AB 
+     client-id="1:d0:50:99:95:3b:ab" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h54m21s last-seen=7h5m38s 
+     active-address=192.168.8.77 active-mac-address=D0:50:99:95:3B:AB 
+     active-client-id="1:d0:50:99:95:3b:ab" active-server=dhcp-server-0 
+     host-name="piar1" 
+
+128 D address=192.168.8.74 mac-address=54:04:A6:17:CD:A2 
+     client-id="1:54:4:a6:17:cd:a2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=16h6m7s last-seen=3d3h59m53s 
+     active-address=192.168.8.74 active-mac-address=54:04:A6:17:CD:A2 
+     active-client-id="1:54:4:a6:17:cd:a2" active-server=dhcp-server-0 
+     host-name="Abbat2" 
+
+129 D address=192.168.8.73 mac-address=60:45:CB:A0:B6:9B 
+     client-id="1:60:45:cb:a0:b6:9b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h9m56s last-seen=6h50m3s 
+     active-address=192.168.8.73 active-mac-address=60:45:CB:A0:B6:9B 
+     active-client-id="1:60:45:cb:a0:b6:9b" active-server=dhcp-server-0 
+     host-name="DESKTOP-GBN108H" 
+
+130 D address=192.168.8.67 mac-address=D0:50:99:9E:11:49 
+     client-id="1:d0:50:99:9e:11:49" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h51m26s last-seen=7h8m33s 
+     active-address=192.168.8.67 active-mac-address=D0:50:99:9E:11:49 
+     active-client-id="1:d0:50:99:9e:11:49" active-server=dhcp-server-0 
+     host-name="seo467" 
+
+131 D address=192.168.8.63 mac-address=10:C3:7B:50:05:56 
+     client-id="1:10:c3:7b:50:5:56" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h54s last-seen=6h59m5s 
+     active-address=192.168.8.63 active-mac-address=10:C3:7B:50:05:56 
+     active-client-id="1:10:c3:7b:50:5:56" active-server=dhcp-server-0 
+     host-name="DESKTOP-71SUMOH" 
+
+132 D address=192.168.8.59 mac-address=C8:60:00:61:6C:77 
+     client-id="1:c8:60:0:61:6c:77" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h34m14s last-seen=8m47s 
+     active-address=192.168.8.59 active-mac-address=C8:60:00:61:6C:77 
+     active-client-id="1:c8:60:0:61:6c:77" active-server=dhcp-server-0 
+     host-name="PC" 
+
+133 D address=192.168.8.57 mac-address=90:E6:BA:94:2C:5B 
+     client-id="1:90:e6:ba:94:2c:5b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h11m36s last-seen=6h48m9s 
+     active-address=192.168.8.57 active-mac-address=90:E6:BA:94:2C:5B 
+     active-client-id="1:90:e6:ba:94:2c:5b" active-server=dhcp-server-0 
+     host-name="DESKTOP-JIN1475" 
+
+134 D address=192.168.8.54 mac-address=40:16:7E:63:37:75 
+     client-id="1:40:16:7e:63:37:75" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h44m11s last-seen=1h15m48s 
+     active-address=192.168.8.54 active-mac-address=40:16:7E:63:37:75 
+     active-client-id="1:40:16:7e:63:37:75" active-server=dhcp-server-0 
+     host-name="DESKTOP-KC1QQJU" 
+
+135 D address=192.168.8.52 mac-address=08:62:66:26:FB:46 
+     client-id="1:8:62:66:26:fb:46" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h55m50s last-seen=7h4m9s 
+     active-address=192.168.8.52 active-mac-address=08:62:66:26:FB:46 
+     active-client-id="1:8:62:66:26:fb:46" active-server=dhcp-server-0 
+     host-name="seo9898" 
+
+136 D address=192.168.8.45 mac-address=78:24:AF:9F:36:21 
+     client-id="1:78:24:af:9f:36:21" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d1h23m43s 
+     last-seen=2d22h36m16s active-address=192.168.8.45 
+     active-mac-address=78:24:AF:9F:36:21 
+     active-client-id="1:78:24:af:9f:36:21" active-server=dhcp-server-0 
+     host-name="DESKTOP-S8T5NMH" 
+
+137 D address=192.168.8.39 mac-address=D0:50:99:8C:F6:A7 
+     client-id="1:d0:50:99:8c:f6:a7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h54m37s last-seen=7h5m22s 
+     active-address=192.168.8.39 active-mac-address=D0:50:99:8C:F6:A7 
+     active-client-id="1:d0:50:99:8c:f6:a7" active-server=dhcp-server-0 
+     host-name="Dasha" 
+
+138 D address=192.168.8.22 mac-address=30:9C:23:23:9D:4B 
+     client-id="1:30:9c:23:23:9d:4b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h28m42s last-seen=6h31m17s 
+     active-address=192.168.8.22 active-mac-address=30:9C:23:23:9D:4B 
+     active-client-id="1:30:9c:23:23:9d:4b" active-server=dhcp-server-0 
+     host-name="DESKTOP-2VF9I11" 
+
+139 D address=192.168.8.15 mac-address=30:E1:71:97:B2:7C 
+     client-id="1:30:e1:71:97:b2:7c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h11m23s last-seen=7h48m36s 
+     active-address=192.168.8.15 active-mac-address=30:E1:71:97:B2:7C 
+     active-client-id="1:30:e1:71:97:b2:7c" active-server=dhcp-server-0 
+     host-name="note1" 
+
+140 D address=192.168.8.13 mac-address=D0:31:69:A8:05:66 
+     client-id="1:d0:31:69:a8:5:66" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h39m28s last-seen=3d20m31s 
+     active-address=192.168.8.13 active-mac-address=D0:31:69:A8:05:66 
+     active-client-id="1:d0:31:69:a8:5:66" active-server=dhcp-server-0 
+     host-name="Galaxy-J7-Neo" 
+
+141 D address=192.168.8.11 mac-address=80:AD:16:66:82:E9 
+     client-id="1:80:ad:16:66:82:e9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h25m56s last-seen=2h34m3s 
+     active-address=192.168.8.11 active-mac-address=80:AD:16:66:82:E9 
+     active-client-id="1:80:ad:16:66:82:e9" active-server=dhcp-server-0 
+     host-name="Redmi5Plus-Redmi" 
+
+142 D address=192.168.8.31 mac-address=78:24:AF:9F:2F:88 
+     client-id="1:78:24:af:9f:2f:88" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h41m34s last-seen=4m4s 
+     active-address=192.168.8.31 active-mac-address=78:24:AF:9F:2F:88 
+     active-client-id="1:78:24:af:9f:2f:88" active-server=dhcp-server-0 
+     host-name="PC" 
+
+143 D address=192.168.9.12 mac-address=40:8D:5C:7A:A4:46 
+     client-id="1:40:8d:5c:7a:a4:46" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h58m35s last-seen=3h1m24s 
+     active-address=192.168.9.12 active-mac-address=40:8D:5C:7A:A4:46 
+     active-client-id="1:40:8d:5c:7a:a4:46" active-server=dhcp-server-0 
+     host-name="Mobile3" 
+
+144 D address=192.168.8.134 mac-address=0C:4D:E9:BC:F7:AD 
+     client-id="1:c:4d:e9:bc:f7:ad" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3h46m45s last-seen=3d20h13m14s 
+     active-address=192.168.8.134 active-mac-address=0C:4D:E9:BC:F7:AD 
+     active-client-id="1:c:4d:e9:bc:f7:ad" active-server=dhcp-server-0 
+     host-name="MBP-Vladyslav" 
+
+145 D address=192.168.8.32 mac-address=54:E1:AD:6E:83:D6 
+     client-id="1:54:e1:ad:6e:83:d6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h14m49s last-seen=2h45m10s 
+     active-address=192.168.8.32 active-mac-address=54:E1:AD:6E:83:D6 
+     active-client-id="1:54:e1:ad:6e:83:d6" active-server=dhcp-server-0 
+     host-name="DESKTOP-B4L4FQU" 
+
+146 D address=192.168.10.173 mac-address=90:97:F3:CC:9F:B2 
+     client-id="1:90:97:f3:cc:9f:b2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=21h9m28s last-seen=3d2h50m31s 
+     active-address=192.168.10.173 active-mac-address=90:97:F3:CC:9F:B2 
+     active-client-id="1:90:97:f3:cc:9f:b2" active-server=dhcp-server-0 
+     host-name="Galaxy-A7-2017" 
+
+147 D address=192.168.8.150 mac-address=A0:B3:CC:85:94:10 
+     client-id="1:a0:b3:cc:85:94:10" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h23m22s last-seen=7h36m37s 
+     active-address=192.168.8.150 active-mac-address=A0:B3:CC:85:94:10 
+     active-client-id="1:a0:b3:cc:85:94:10" active-server=dhcp-server-0 
+     host-name="DESKTOP-8EVPAEP" 
+
+148 D address=192.168.10.178 mac-address=00:87:01:23:4B:A0 
+     client-id="1:0:87:1:23:4b:a0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d7h35m8s last-seen=16h24m51s 
+     active-address=192.168.10.178 active-mac-address=00:87:01:23:4B:A0 
+     active-client-id="1:0:87:1:23:4b:a0" active-server=dhcp-server-0 
+     host-name="android-d8839b289307565" 
+
+149 D address=192.168.9.53 mac-address=9C:FC:01:41:56:4B 
+     client-id="1:9c:fc:1:41:56:4b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h17m32s last-seen=1h42m27s 
+     active-address=192.168.9.53 active-mac-address=9C:FC:01:41:56:4B 
+     active-client-id="1:9c:fc:1:41:56:4b" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+150 D address=192.168.8.66 mac-address=D0:50:99:87:F2:88 
+     client-id="1:d0:50:99:87:f2:88" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h8m31s last-seen=1h4m1s 
+     active-address=192.168.8.66 active-mac-address=D0:50:99:87:F2:88 
+     active-client-id="1:d0:50:99:87:f2:88" active-server=dhcp-server-0 
+     host-name="smm1" 
+
+151 D address=192.168.9.56 mac-address=D0:50:99:9B:8E:6A 
+     client-id="1:d0:50:99:9b:8e:6a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h8m55s last-seen=1h51m4s 
+     active-address=192.168.9.56 active-mac-address=D0:50:99:9B:8E:6A 
+     active-client-id="1:d0:50:99:9b:8e:6a" active-server=dhcp-server-0 
+     host-name="DESKTOP-IFR9PJU" 
+
+152 D address=192.168.9.62 mac-address=88:C9:D0:C2:11:BB address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d22h57m27s last-seen=1h2m32s active-address=192.168.9.62 
+     active-mac-address=88:C9:D0:C2:11:BB active-server=dhcp-server-0 
+     host-name="android-d85cf7d702687b3f" 
+
+153 D address=192.168.9.65 mac-address=CC:2D:B7:A9:B6:3D 
+     client-id="1:cc:2d:b7:a9:b6:3d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h52m14s last-seen=4h7m45s 
+     active-address=192.168.9.65 active-mac-address=CC:2D:B7:A9:B6:3D 
+     active-client-id="1:cc:2d:b7:a9:b6:3d" active-server=dhcp-server-0 
+     host-name="iPhone-Andrew" 
+
+154 D address=192.168.9.77 mac-address=94:7B:E7:43:7F:DB 
+     client-id="1:94:7b:e7:43:7f:db" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h39m35s last-seen=1h20m24s 
+     active-address=192.168.9.77 active-mac-address=94:7B:E7:43:7F:DB 
+     active-client-id="1:94:7b:e7:43:7f:db" active-server=dhcp-server-0 
+     host-name="Galaxy-J7-2016" 
+
+155 D address=192.168.9.81 mac-address=D8:68:C3:E2:4D:03 
+     client-id="1:d8:68:c3:e2:4d:3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1h38m1s last-seen=3d22h21m58s 
+     active-address=192.168.9.81 active-mac-address=D8:68:C3:E2:4D:03 
+     active-client-id="1:d8:68:c3:e2:4d:3" active-server=dhcp-server-0 
+     host-name="Galaxy-A6" 
+
+156 D address=192.168.9.85 mac-address=98:54:1B:82:33:86 
+     client-id="1:98:54:1b:82:33:86" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h52m43s last-seen=8h7m16s 
+     active-address=192.168.9.85 active-mac-address=98:54:1B:82:33:86 
+     active-client-id="1:98:54:1b:82:33:86" active-server=dhcp-server-0 
+     host-name="comp6" 
+
+157 D address=192.168.8.239 mac-address=D0:FC:CC:5C:E1:2F 
+     client-id="1:d0:fc:cc:5c:e1:2f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=22h46m6s last-seen=3d1h13m53s 
+     active-address=192.168.8.239 active-mac-address=D0:FC:CC:5C:E1:2F 
+     active-client-id="1:d0:fc:cc:5c:e1:2f" active-server=dhcp-server-0 
+     host-name="android-80bb3b27d534bd19" 
+
+158 D address=192.168.10.19 mac-address=38:A4:ED:74:53:83 
+     client-id="1:38:a4:ed:74:53:83" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h19m1s last-seen=1h40m58s 
+     active-address=192.168.10.19 active-mac-address=38:A4:ED:74:53:83 
+     active-client-id="1:38:a4:ed:74:53:83" active-server=dhcp-server-0 
+     host-name="Redmi3S-zayza" 
+
+159 D address=192.168.8.210 mac-address=1C:CD:E5:48:20:03 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d19h43m44s last-seen=4h16m15s 
+     active-address=192.168.8.210 active-mac-address=1C:CD:E5:48:20:03 
+     active-server=dhcp-server-0 host-name="MEIZU-U10" 
+
+160 D address=192.168.10.155 mac-address=AC:37:43:A6:A1:2D 
+     client-id="1:ac:37:43:a6:a1:2d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h6m30s last-seen=4h53m29s 
+     active-address=192.168.10.155 active-mac-address=AC:37:43:A6:A1:2D 
+     active-client-id="1:ac:37:43:a6:a1:2d" active-server=dhcp-server-0 
+
+161 D address=192.168.10.226 mac-address=58:E2:8F:55:3B:80 
+     client-id="1:58:e2:8f:55:3b:80" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h10m26s last-seen=6h49m33s 
+     active-address=192.168.10.226 active-mac-address=58:E2:8F:55:3B:80 
+     active-client-id="1:58:e2:8f:55:3b:80" active-server=dhcp-server-0 
+     host-name="Alexs-iPhone" 
+
+162 D address=192.168.10.149 mac-address=C8:60:00:CF:87:3E 
+     client-id="1:c8:60:0:cf:87:3e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h6m18s last-seen=6h53m41s 
+     active-address=192.168.10.149 active-mac-address=C8:60:00:CF:87:3E 
+     active-client-id="1:c8:60:0:cf:87:3e" active-server=dhcp-server-0 
+     host-name="WIN-7ND1BRIQ65I" 
+
+163 D address=192.168.10.144 mac-address=10:7B:44:4E:33:6E address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=2d6h37m20s last-seen=1d17h22m39s 
+     active-address=192.168.10.144 active-mac-address=10:7B:44:4E:33:6E 
+     active-server=dhcp-server-0 host-name="demianenko" 
+
+164 D address=192.168.10.125 mac-address=D0:50:99:1E:A6:D6 
+     client-id="1:d0:50:99:1e:a6:d6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h35m42s last-seen=7h24m17s 
+     active-address=192.168.10.125 active-mac-address=D0:50:99:1E:A6:D6 
+     active-client-id="1:d0:50:99:1e:a6:d6" active-server=dhcp-server-0 
+     host-name="DESKTOP-F0TIV53" 
+
+165 D address=192.168.10.119 mac-address=38:A4:ED:52:47:B5 
+     client-id="1:38:a4:ed:52:47:b5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h22m35s last-seen=7h37m24s 
+     active-address=192.168.10.119 active-mac-address=38:A4:ED:52:47:B5 
+     active-client-id="1:38:a4:ed:52:47:b5" active-server=dhcp-server-0 
+     host-name="MIMAX-yurik417" 
+
+166 D address=192.168.10.107 mac-address=28:A0:2B:CF:C4:0C 
+     client-id="1:28:a0:2b:cf:c4:c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h25m51s last-seen=2h34m8s 
+     active-address=192.168.10.107 active-mac-address=28:A0:2B:CF:C4:0C 
+     active-client-id="1:28:a0:2b:cf:c4:c" active-server=dhcp-server-0 
+     host-name="iPhoneAeitsCool" 
+
+167 D address=192.168.10.65 mac-address=D0:50:99:8C:F7:01 
+     client-id="1:d0:50:99:8c:f7:1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h56m33s last-seen=8h3m26s 
+     active-address=192.168.10.65 active-mac-address=D0:50:99:8C:F7:01 
+     active-client-id="1:d0:50:99:8c:f7:1" active-server=dhcp-server-0 
+     host-name="verstka156" 
+
+168 D address=192.168.10.87 mac-address=70:4D:7B:32:E5:B4 
+     client-id="1:70:4d:7b:32:e5:b4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h30m11s last-seen=7h29m48s 
+     active-address=192.168.10.87 active-mac-address=70:4D:7B:32:E5:B4 
+     active-client-id="1:70:4d:7b:32:e5:b4" active-server=dhcp-server-0 
+     host-name="seo2323" 
+
+169 D address=192.168.10.196 mac-address=94:57:A5:B2:9E:78 
+     client-id="1:94:57:a5:b2:9e:78" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d1h50m33s last-seen=22h9m26s 
+     active-address=192.168.10.196 active-mac-address=94:57:A5:B2:9E:78 
+     active-client-id="1:94:57:a5:b2:9e:78" active-server=dhcp-server-0 
+     host-name="DESKTOP-K60OG75" 
+
+170 D address=192.168.8.251 mac-address=94:DE:80:61:E4:72 
+     client-id="1:94:de:80:61:e4:72" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h49m8s last-seen=1h10m51s 
+     active-address=192.168.8.251 active-mac-address=94:DE:80:61:E4:72 
+     active-client-id="1:94:de:80:61:e4:72" active-server=dhcp-server-0 
+     host-name="DESKTOP-2A2NNRO" 
+
+171 D address=192.168.8.240 mac-address=88:E9:FE:9C:92:58 
+     client-id="1:88:e9:fe:9c:92:58" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h12m30s last-seen=1h47m29s 
+     active-address=192.168.8.240 active-mac-address=88:E9:FE:9C:92:58 
+     active-client-id="1:88:e9:fe:9c:92:58" active-server=dhcp-server-0 
+     host-name="iPhone-Alena" 
+
+172 D address=192.168.8.237 mac-address=10:C3:7B:50:05:5B 
+     client-id="1:10:c3:7b:50:5:5b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h9m49s last-seen=7h50m10s 
+     active-address=192.168.8.237 active-mac-address=10:C3:7B:50:05:5B 
+     active-client-id="1:10:c3:7b:50:5:5b" active-server=dhcp-server-0 
+     host-name="DESKTOP-CUFLLGL" 
+
+173 D address=192.168.8.230 mac-address=D0:50:99:9E:18:0C 
+     client-id="1:d0:50:99:9e:18:c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h39m34s last-seen=7h20m25s 
+     active-address=192.168.8.230 active-mac-address=D0:50:99:9E:18:0C 
+     active-client-id="1:d0:50:99:9e:18:c" active-server=dhcp-server-0 
+     host-name="DESKTOP-TD1S2AD" 
+
+174 D address=192.168.8.219 mac-address=AC:22:0B:51:52:CC 
+     client-id="1:ac:22:b:51:52:cc" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h25m5s last-seen=5h34m54s 
+     active-address=192.168.8.219 active-mac-address=AC:22:0B:51:52:CC 
+     active-client-id="1:ac:22:b:51:52:cc" active-server=dhcp-server-0 
+     host-name="DESKTOP-DFT9CHS" 
+
+175 D address=192.168.8.214 mac-address=E0:3F:49:85:97:47 
+     client-id="1:e0:3f:49:85:97:47" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h37m23s last-seen=1h24m26s 
+     active-address=192.168.8.214 active-mac-address=E0:3F:49:85:97:47 
+     active-client-id="1:e0:3f:49:85:97:47" active-server=dhcp-server-0 
+     host-name="verstka175" 
+
+176 D address=192.168.8.211 mac-address=D0:50:99:9E:14:7F address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=2d6h27m23s last-seen=1d17h32m36s 
+     active-address=192.168.8.211 active-mac-address=D0:50:99:9E:14:7F 
+     active-server=dhcp-server-0 host-name="comp" 
+
+177 D address=192.168.8.209 mac-address=60:E3:AC:AD:6A:21 
+     client-id="1:60:e3:ac:ad:6a:21" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h35m41s last-seen=5h24m18s 
+     active-address=192.168.8.209 active-mac-address=60:E3:AC:AD:6A:21 
+     active-client-id="1:60:e3:ac:ad:6a:21" active-server=dhcp-server-0 
+
+178 D address=192.168.10.80 mac-address=F0:1F:AF:31:2D:30 
+     client-id="1:f0:1f:af:31:2d:30" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h59m46s last-seen=7h13s 
+     active-address=192.168.10.80 active-mac-address=F0:1F:AF:31:2D:30 
+     active-client-id="1:f0:1f:af:31:2d:30" active-server=dhcp-server-0 
+     host-name="WIN-GV1S3VUO0MQ" 
+
+179 D address=192.168.10.60 mac-address=70:BB:E9:C9:B6:1D 
+     client-id="1:70:bb:e9:c9:b6:1d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h32m16s last-seen=1h27m43s 
+     active-address=192.168.10.60 active-mac-address=70:BB:E9:C9:B6:1D 
+     active-client-id="1:70:bb:e9:c9:b6:1d" active-server=dhcp-server-0 
+     host-name="MI8Lite-MiPhone" 
+
+180 D address=192.168.8.115 mac-address=D0:50:99:9B:8D:D8 
+     client-id="1:d0:50:99:9b:8d:d8" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h29m56s last-seen=7h30m3s 
+     active-address=192.168.8.115 active-mac-address=D0:50:99:9B:8D:D8 
+     active-client-id="1:d0:50:99:9b:8d:d8" active-server=dhcp-server-0 
+     host-name="DESKTOP-T3E6NLH" 
+
+181 D address=192.168.10.75 mac-address=90:F0:52:5D:44:9F 
+     client-id="1:90:f0:52:5d:44:9f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h58m20s last-seen=4h1m39s 
+     active-address=192.168.10.75 active-mac-address=90:F0:52:5D:44:9F 
+     active-client-id="1:90:f0:52:5d:44:9f" active-server=dhcp-server-0 
+     host-name="MEIZU-15" 
+
+182 D address=192.168.10.183 mac-address=38:2D:E8:7F:4D:06 
+     client-id="1:38:2d:e8:7f:4d:6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d2h13m42s 
+     last-seen=2d21h46m17s active-address=192.168.10.183 
+     active-mac-address=38:2D:E8:7F:4D:06 
+     active-client-id="1:38:2d:e8:7f:4d:6" active-server=dhcp-server-0 
+     host-name="android-71499cd0f644e5ec" 
+
+183 D address=192.168.8.183 mac-address=00:E0:4C:43:C9:76 
+     client-id="1:0:e0:4c:43:c9:76" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d12h44m52s last-seen=11h15m7s 
+     active-address=192.168.8.183 active-mac-address=00:E0:4C:43:C9:76 
+     active-client-id="1:0:e0:4c:43:c9:76" active-server=dhcp-server-0 
+     host-name="DESKTOP-VHGCDVE" 
+
+184 D address=192.168.10.222 mac-address=10:C3:7B:49:CD:BD 
+     client-id="1:10:c3:7b:49:cd:bd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h1m58s last-seen=7h58m1s 
+     active-address=192.168.10.222 active-mac-address=10:C3:7B:49:CD:BD 
+     active-client-id="1:10:c3:7b:49:cd:bd" active-server=dhcp-server-0 
+     host-name="DESKTOP-TFFHQJT" 
+
+185 D address=192.168.8.175 mac-address=74:C1:4F:3F:00:E3 
+     client-id="1:74:c1:4f:3f:0:e3" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h48m12s last-seen=1h11m47s 
+     active-address=192.168.8.175 active-mac-address=74:C1:4F:3F:00:E3 
+     active-client-id="1:74:c1:4f:3f:0:e3" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-daf3b953c" 
+
+186 D address=192.168.10.96 mac-address=D0:50:99:9B:8C:1A 
+     client-id="1:d0:50:99:9b:8c:1a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h52m37s last-seen=8h7m22s 
+     active-address=192.168.10.96 active-mac-address=D0:50:99:9B:8C:1A 
+     active-client-id="1:d0:50:99:9b:8c:1a" active-server=dhcp-server-0 
+     host-name="ZINCHUK" 
+
+187 D address=192.168.10.167 mac-address=D8:1C:79:82:F8:0E 
+     client-id="1:d8:1c:79:82:f8:e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h15m56s last-seen=1h44m3s 
+     active-address=192.168.10.167 active-mac-address=D8:1C:79:82:F8:0E 
+     active-client-id="1:d8:1c:79:82:f8:e" active-server=dhcp-server-0 
+     host-name="Aleksey" 
+
+188 D address=192.168.10.74 mac-address=10:1C:0C:35:21:F2 
+     client-id="1:10:1c:c:35:21:f2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h52m15s last-seen=4h7m44s 
+     active-address=192.168.10.74 active-mac-address=10:1C:0C:35:21:F2 
+     active-client-id="1:10:1c:c:35:21:f2" active-server=dhcp-server-0 
+     host-name="work-iPad4" 
+
+189 D address=192.168.8.106 mac-address=C4:61:8B:D8:28:D1 
+     client-id="1:c4:61:8b:d8:28:d1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h34m49s last-seen=25m10s 
+     active-address=192.168.8.106 active-mac-address=C4:61:8B:D8:28:D1 
+     active-client-id="1:c4:61:8b:d8:28:d1" active-server=dhcp-server-0 
+     host-name="iPhone-Denis" 
+
+190 D address=192.168.8.168 mac-address=04:4B:ED:16:DC:8C 
+     client-id="1:4:4b:ed:16:dc:8c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h31m10s last-seen=28m49s 
+     active-address=192.168.8.168 active-mac-address=04:4B:ED:16:DC:8C 
+     active-client-id="1:4:4b:ed:16:dc:8c" active-server=dhcp-server-0 
+     host-name="iPhone-Nadya" 
+
+191 D address=192.168.8.119 mac-address=48:BA:4E:20:6E:FB 
+     client-id="1:48:ba:4e:20:6e:fb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h45m1s last-seen=2h14m58s 
+     active-address=192.168.8.119 active-mac-address=48:BA:4E:20:6E:FB 
+     active-client-id="1:48:ba:4e:20:6e:fb" active-server=dhcp-server-0 
+     host-name="DESKTOP-BS5JG22" 
+
+192 D address=192.168.8.17 mac-address=08:F4:AB:7E:16:CF 
+     client-id="1:8:f4:ab:7e:16:cf" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h59m23s last-seen=2h36s 
+     active-address=192.168.8.17 active-mac-address=08:F4:AB:7E:16:CF 
+     active-client-id="1:8:f4:ab:7e:16:cf" active-server=dhcp-server-0 
+     host-name="AppleWatch-Igor" 
+
+193 D address=192.168.8.21 mac-address=C4:B3:01:D3:85:CD 
+     client-id="1:c4:b3:1:d3:85:cd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h10m59s last-seen=5h49m 
+     active-address=192.168.8.21 active-mac-address=C4:B3:01:D3:85:CD 
+     active-client-id="1:c4:b3:1:d3:85:cd" active-server=dhcp-server-0 
+     host-name="MBP-Igor" 
+
+194 D address=192.168.8.149 mac-address=F8:59:71:B8:F9:F7 
+     client-id="1:f8:59:71:b8:f9:f7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=15h41m48s last-seen=3d8h18m11s 
+     active-address=192.168.8.149 active-mac-address=F8:59:71:B8:F9:F7 
+     active-client-id="1:f8:59:71:b8:f9:f7" active-server=dhcp-server-0 
+     host-name="LAPTOP-567HUFHI" 
+
+195 D address=192.168.8.204 mac-address=34:2D:0D:77:4D:7C 
+     client-id="1:34:2d:d:77:4d:7c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h54m48s last-seen=1h5m11s 
+     active-address=192.168.8.204 active-mac-address=34:2D:0D:77:4D:7C 
+     active-client-id="1:34:2d:d:77:4d:7c" active-server=dhcp-server-0 
+     host-name="Galaxy-J7" 
+
+196 D address=192.168.8.133 mac-address=70:4D:7B:71:69:A7 
+     client-id="1:70:4d:7b:71:69:a7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h47m18s last-seen=8h12m41s 
+     active-address=192.168.8.133 active-mac-address=70:4D:7B:71:69:A7 
+     active-client-id="1:70:4d:7b:71:69:a7" active-server=dhcp-server-0 
+     host-name="seo268" 
+
+197 D address=192.168.8.75 mac-address=58:40:4E:10:AE:FF 
+     client-id="1:58:40:4e:10:ae:ff" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h15m37s last-seen=3d44m22s 
+     active-address=192.168.8.75 active-mac-address=58:40:4E:10:AE:FF 
+     active-client-id="1:58:40:4e:10:ae:ff" active-server=dhcp-server-0 
+     host-name="Nataly-Pugach" 
+
+198 D address=192.168.8.81 mac-address=98:E7:F4:D3:33:4E 
+     client-id="1:98:e7:f4:d3:33:4e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h51m55s last-seen=3h8m4s 
+     active-address=192.168.8.81 active-mac-address=98:E7:F4:D3:33:4E 
+     active-client-id="1:98:e7:f4:d3:33:4e" active-server=dhcp-server-0 
+     host-name="DESKTOP-MOPDLGP" 
+
+199 D address=192.168.8.30 mac-address=40:8D:5C:43:D7:23 
+     client-id="1:40:8d:5c:43:d7:23" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h35m3s last-seen=58m36s 
+     active-address=192.168.8.30 active-mac-address=40:8D:5C:43:D7:23 
+     active-client-id="1:40:8d:5c:43:d7:23" active-server=dhcp-server-0 
+     host-name="seo1123" 
+
+200 D address=192.168.8.24 mac-address=BC:EE:7B:5D:67:09 
+     client-id="1:bc:ee:7b:5d:67:9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h54m42s last-seen=7h5m17s 
+     active-address=192.168.8.24 active-mac-address=BC:EE:7B:5D:67:09 
+     active-client-id="1:bc:ee:7b:5d:67:9" active-server=dhcp-server-0 
+     host-name="smm07728" 
+
+201 D address=192.168.10.233 mac-address=24:18:1D:AD:1E:E6 
+     client-id="1:24:18:1d:ad:1e:e6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=46m48s last-seen=3d23h13m11s 
+     active-address=192.168.10.233 active-mac-address=24:18:1D:AD:1E:E6 
+     active-client-id="1:24:18:1d:ad:1e:e6" active-server=dhcp-server-0 
+     host-name="Galaxy-S9" 
+
+202 D address=192.168.10.44 mac-address=D0:50:99:8C:F9:D6 
+     client-id="1:d0:50:99:8c:f9:d6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h32m30s last-seen=6h27m29s 
+     active-address=192.168.10.44 active-mac-address=D0:50:99:8C:F9:D6 
+     active-client-id="1:d0:50:99:8c:f9:d6" active-server=dhcp-server-0 
+     host-name="DESKTOP-9HKA18K" 
+
+203 D address=192.168.8.82 mac-address=FC:AA:14:12:14:1D 
+     client-id="1:fc:aa:14:12:14:1d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h44m25s last-seen=4h15m34s 
+     active-address=192.168.8.82 active-mac-address=FC:AA:14:12:14:1D 
+     active-client-id="1:fc:aa:14:12:14:1d" active-server=dhcp-server-0 
+     host-name="DESKTOP-BVP5TUS" 
+
+204 D address=192.168.8.173 mac-address=68:3E:34:86:BB:AA address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=23h26m9s 
+     last-seen=3d33m50s active-address=192.168.8.173 
+     active-mac-address=68:3E:34:86:BB:AA active-server=dhcp-server-0 
+     host-name="MEIZU-PRO-6" 
+
+205 D address=192.168.10.152 mac-address=18:F0:E4:E2:21:35 
+     client-id="1:18:f0:e4:e2:21:35" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h32m18s last-seen=27m41s 
+     active-address=192.168.10.152 active-mac-address=18:F0:E4:E2:21:35 
+     active-client-id="1:18:f0:e4:e2:21:35" active-server=dhcp-server-0 
+
+206 D address=192.168.10.243 mac-address=D0:50:99:8C:EE:5F 
+     client-id="1:d0:50:99:8c:ee:5f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d21h32m34s last-seen=2h20m46s 
+     active-address=192.168.10.243 active-mac-address=D0:50:99:8C:EE:5F 
+     active-client-id="1:d0:50:99:8c:ee:5f" active-server=dhcp-server-0 
+     host-name="testing209" 
+
+207 D address=192.168.10.28 mac-address=50:8F:4C:CE:D9:7B 
+     client-id="1:50:8f:4c:ce:d9:7b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h10m21s last-seen=3h49m38s 
+     active-address=192.168.10.28 active-mac-address=50:8F:4C:CE:D9:7B 
+     active-client-id="1:50:8f:4c:ce:d9:7b" active-server=dhcp-server-0 
+     host-name="Redmi4X-Redmi" 
+
+208 D address=192.168.10.217 mac-address=D0:31:69:A8:0B:22 
+     client-id="1:d0:31:69:a8:b:22" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h12m42s last-seen=47m17s 
+     active-address=192.168.10.217 active-mac-address=D0:31:69:A8:0B:22 
+     active-client-id="1:d0:31:69:a8:b:22" active-server=dhcp-server-0 
+     host-name="Galaxy-J7-Neo" 
+
+209 D address=192.168.10.170 mac-address=D8:6C:02:C2:17:3B 
+     client-id="1:d8:6c:2:c2:17:3b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h26m14s last-seen=2h33m45s 
+     active-address=192.168.10.170 active-mac-address=D8:6C:02:C2:17:3B 
+     active-client-id="1:d8:6c:2:c2:17:3b" active-server=dhcp-server-0 
+     host-name="meizu-X8" 
+
+210 D address=192.168.8.167 mac-address=84:A9:3E:05:AA:54 
+     client-id="1:84:a9:3e:5:aa:54" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h20m35s last-seen=1h39m24s 
+     active-address=192.168.8.167 active-mac-address=84:A9:3E:05:AA:54 
+     active-client-id="1:84:a9:3e:5:aa:54" active-server=dhcp-server-0 
+     host-name="DESKTOP-303A8R9" 
+
+211 D address=192.168.8.34 mac-address=F4:60:E2:FD:42:12 
+     client-id="1:f4:60:e2:fd:42:12" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h50m last-seen=3h9m59s 
+     active-address=192.168.8.34 active-mac-address=F4:60:E2:FD:42:12 
+     active-client-id="1:f4:60:e2:fd:42:12" active-server=dhcp-server-0 
+
+212 D address=192.168.8.120 mac-address=F4:6D:04:06:6A:ED 
+     client-id="1:f4:6d:4:6:6a:ed" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h24m58s last-seen=4h35m1s 
+     active-address=192.168.8.120 active-mac-address=F4:6D:04:06:6A:ED 
+     active-client-id="1:f4:6d:4:6:6a:ed" active-server=dhcp-server-0 
+     host-name="design189" 
+
+213 D address=192.168.10.15 mac-address=50:8F:4C:58:88:D5 
+     client-id="1:50:8f:4c:58:88:d5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h57m47s last-seen=2m12s 
+     active-address=192.168.10.15 active-mac-address=50:8F:4C:58:88:D5 
+     active-client-id="1:50:8f:4c:58:88:d5" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi" 
+
+214 D address=192.168.8.41 mac-address=A8:7C:01:C4:52:5F 
+     client-id="1:a8:7c:1:c4:52:5f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d21h12m last-seen=1d2h47m59s 
+     active-address=192.168.8.41 active-mac-address=A8:7C:01:C4:52:5F 
+     active-client-id="1:a8:7c:1:c4:52:5f" active-server=dhcp-server-0 
+     host-name="android-d603dc94ccf3cf5d" 
+
+215 D address=192.168.8.141 mac-address=38:A4:ED:FC:9E:0B 
+     client-id="1:38:a4:ed:fc:9e:b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h43m27s last-seen=7h16m32s 
+     active-address=192.168.8.141 active-mac-address=38:A4:ED:FC:9E:0B 
+     active-client-id="1:38:a4:ed:fc:9e:b" active-server=dhcp-server-0 
+     host-name="Redmi3S-Redmi" 
+
+216 D address=192.168.8.137 mac-address=A8:7D:12:C7:B7:C8 
+     client-id="1:a8:7d:12:c7:b7:c8" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h16m53s last-seen=5h43m6s 
+     active-address=192.168.8.137 active-mac-address=A8:7D:12:C7:B7:C8 
+     active-client-id="1:a8:7d:12:c7:b7:c8" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-c40a75622" 
+
+217 D address=192.168.8.121 mac-address=94:FE:22:17:A1:2A address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d23h29m43s last-seen=30m16s active-address=192.168.8.121 
+     active-mac-address=94:FE:22:17:A1:2A active-server=dhcp-server-0 
+     host-name="android-3cd167b7f1231bff" 
+
+218 D address=192.168.8.107 mac-address=0C:2C:54:00:F0:BF address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d23h55m37s last-seen=4m22s active-address=192.168.8.107 
+     active-mac-address=0C:2C:54:00:F0:BF active-server=dhcp-server-0 
+     host-name="android-eebec53d95cbb5f5" 
+
+219 D address=192.168.10.166 mac-address=78:24:AF:9F:C2:D9 
+     client-id="1:78:24:af:9f:c2:d9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h26m30s last-seen=7h33m29s 
+     active-address=192.168.10.166 active-mac-address=78:24:AF:9F:C2:D9 
+     active-client-id="1:78:24:af:9f:c2:d9" active-server=dhcp-server-0 
+     host-name="DESKTOP-6KIFFO3" 
+
+220 D address=192.168.10.159 mac-address=2C:0E:3D:E3:7C:35 
+     client-id="1:2c:e:3d:e3:7c:35" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d39m58s last-seen=1d23h20m1s 
+     active-address=192.168.10.159 active-mac-address=2C:0E:3D:E3:7C:35 
+     active-client-id="1:2c:e:3d:e3:7c:35" active-server=dhcp-server-0 
+     host-name="Samsung-Galaxy-S7" 
+
+221 D address=192.168.8.101 mac-address=E0:D5:5E:2C:8C:F1 
+     client-id="1:e0:d5:5e:2c:8c:f1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h6m48s last-seen=7h53m11s 
+     active-address=192.168.8.101 active-mac-address=E0:D5:5E:2C:8C:F1 
+     active-client-id="1:e0:d5:5e:2c:8c:f1" active-server=dhcp-server-0 
+     host-name="DESKTOP-JS99RJH" 
+
+222 D address=192.168.8.102 mac-address=58:40:4E:D9:DB:F7 
+     client-id="1:58:40:4e:d9:db:f7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h6m20s last-seen=1h53m39s 
+     active-address=192.168.8.102 active-mac-address=58:40:4E:D9:DB:F7 
+     active-client-id="1:58:40:4e:d9:db:f7" active-server=dhcp-server-0 
+     host-name="iPhoneElizaveta" 
+
+223 D address=192.168.8.143 mac-address=80:35:C1:3D:D8:A2 
+     client-id="1:80:35:c1:3d:d8:a2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h24m59s last-seen=35m 
+     active-address=192.168.8.143 active-mac-address=80:35:C1:3D:D8:A2 
+     active-client-id="1:80:35:c1:3d:d8:a2" active-server=dhcp-server-0 
+     host-name="RedmiNote5-Redmi" 
+
+224 D address=192.168.10.242 mac-address=C8:1E:E7:BA:99:5E 
+     client-id="1:c8:1e:e7:ba:99:5e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h20m31s last-seen=5h39m28s 
+     active-address=192.168.10.242 active-mac-address=C8:1E:E7:BA:99:5E 
+     active-client-id="1:c8:1e:e7:ba:99:5e" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+225 D address=192.168.8.117 mac-address=4C:49:E3:13:CB:9C 
+     client-id="1:4c:49:e3:13:cb:9c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h17m50s last-seen=3h42m9s 
+     active-address=192.168.8.117 active-mac-address=4C:49:E3:13:CB:9C 
+     active-client-id="1:4c:49:e3:13:cb:9c" active-server=dhcp-server-0 
+     host-name="RedmiNote4-unknowndu" 
+
+226 D address=192.168.8.33 mac-address=38:A4:ED:73:DD:15 
+     client-id="1:38:a4:ed:73:dd:15" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h40m19s last-seen=2h19m40s 
+     active-address=192.168.8.33 active-mac-address=38:A4:ED:73:DD:15 
+     active-client-id="1:38:a4:ed:73:dd:15" active-server=dhcp-server-0 
+     host-name="Redmi3S-??????" 
+
+227 D address=192.168.8.70 mac-address=18:F0:E4:04:E9:AA 
+     client-id="1:18:f0:e4:4:e9:aa" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h17m39s last-seen=2h42m20s 
+     active-address=192.168.8.70 active-mac-address=18:F0:E4:04:E9:AA 
+     active-client-id="1:18:f0:e4:4:e9:aa" active-server=dhcp-server-0 
+
+228 D address=192.168.10.177 mac-address=C4:0B:CB:8C:5E:18 
+     client-id="1:c4:b:cb:8c:5e:18" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h14m27s last-seen=3d45m32s 
+     active-address=192.168.10.177 active-mac-address=C4:0B:CB:8C:5E:18 
+     active-client-id="1:c4:b:cb:8c:5e:18" active-server=dhcp-server-0 
+     host-name="Redmi4-Redmi" 
+
+229 D address=192.168.8.84 mac-address=C8:38:70:4F:D6:B9 
+     client-id="1:c8:38:70:4f:d6:b9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d4h50m15s 
+     last-seen=1d19h9m44s active-address=192.168.8.84 
+     active-mac-address=C8:38:70:4F:D6:B9 
+     active-client-id="1:c8:38:70:4f:d6:b9" active-server=dhcp-server-0 
+     host-name="Galaxy-J5-2016" 
+
+230 D address=192.168.10.241 mac-address=84:EF:18:73:15:1D 
+     client-id="1:84:ef:18:73:15:1d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h51m52s last-seen=3h8m7s 
+     active-address=192.168.10.241 active-mac-address=84:EF:18:73:15:1D 
+     active-client-id="1:84:ef:18:73:15:1d" active-server=dhcp-server-0 
+     host-name="DESKTOP-MOPDLGP" 
+
+231 D address=192.168.10.101 mac-address=00:0A:F5:43:6A:28 
+     client-id="1:0:a:f5:43:6a:28" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h54m8s last-seen=3h5m51s 
+     active-address=192.168.10.101 active-mac-address=00:0A:F5:43:6A:28 
+     active-client-id="1:0:a:f5:43:6a:28" active-server=dhcp-server-0 
+     host-name="android-e54a169e1ac564ca" 
+
+232 D address=192.168.10.179 mac-address=AC:AF:B9:F7:6C:D8 
+     client-id="1:ac:af:b9:f7:6c:d8" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d40m last-seen=2d23h19m59s 
+     active-address=192.168.10.179 active-mac-address=AC:AF:B9:F7:6C:D8 
+     active-client-id="1:ac:af:b9:f7:6c:d8" active-server=dhcp-server-0 
+     host-name="Galaxy-A7-2017" 
+
+233 D address=192.168.8.229 mac-address=04:D1:3A:60:D6:08 
+     client-id="1:4:d1:3a:60:d6:8" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h52m20s last-seen=5h7m39s 
+     active-address=192.168.8.229 active-mac-address=04:D1:3A:60:D6:08 
+     active-client-id="1:4:d1:3a:60:d6:8" active-server=dhcp-server-0 
+     host-name="Redmi4A-Redmi" 
+
+234 D address=192.168.8.225 mac-address=C0:D0:12:BB:2C:41 
+     client-id="1:c0:d0:12:bb:2c:41" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h32m27s last-seen=4h27m32s 
+     active-address=192.168.8.225 active-mac-address=C0:D0:12:BB:2C:41 
+     active-client-id="1:c0:d0:12:bb:2c:41" active-server=dhcp-server-0 
+     host-name="Victors-iPhone" 
+
+235 D address=192.168.8.207 mac-address=DC:2B:2A:A3:F2:C8 
+     client-id="1:dc:2b:2a:a3:f2:c8" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h18m21s last-seen=3h41m38s 
+     active-address=192.168.8.207 active-mac-address=DC:2B:2A:A3:F2:C8 
+     active-client-id="1:dc:2b:2a:a3:f2:c8" active-server=dhcp-server-0 
+     host-name="iPhone-6S" 
+
+236 D address=192.168.10.127 mac-address=78:24:AF:3A:18:75 
+     client-id="1:78:24:af:3a:18:75" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h15m52s last-seen=44m7s 
+     active-address=192.168.10.127 active-mac-address=78:24:AF:3A:18:75 
+     active-client-id="1:78:24:af:3a:18:75" active-server=dhcp-server-0 
+     host-name="DESKTOP-D4T10F4" 
+
+237 D address=192.168.8.40 mac-address=70:4D:7B:30:F1:22 
+     client-id="1:70:4d:7b:30:f1:22" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h42m1s last-seen=4h17m58s 
+     active-address=192.168.8.40 active-mac-address=70:4D:7B:30:F1:22 
+     active-client-id="1:70:4d:7b:30:f1:22" active-server=dhcp-server-0 
+     host-name="mob112" 
+
+238 D address=192.168.10.216 mac-address=6C:4D:73:9D:86:2A 
+     client-id="1:6c:4d:73:9d:86:2a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h34m34s last-seen=4h25m25s 
+     active-address=192.168.10.216 active-mac-address=6C:4D:73:9D:86:2A 
+     active-client-id="1:6c:4d:73:9d:86:2a" active-server=dhcp-server-0 
+     host-name="iPhoneEkaterina" 
+
+239 D address=192.168.10.77 mac-address=A0:57:E3:15:80:8F 
+     client-id="1:a0:57:e3:15:80:8f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h54m15s last-seen=7h5m44s 
+     active-address=192.168.10.77 active-mac-address=A0:57:E3:15:80:8F 
+     active-client-id="1:a0:57:e3:15:80:8f" active-server=dhcp-server-0 
+     host-name="Honor_9_Lite-4729c3f52eb2" 
+
+240 D address=192.168.8.176 mac-address=78:24:AF:9A:7B:BD 
+     client-id="1:78:24:af:9a:7b:bd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h55m39s last-seen=7h4m20s 
+     active-address=192.168.8.176 active-mac-address=78:24:AF:9A:7B:BD 
+     active-client-id="1:78:24:af:9a:7b:bd" active-server=dhcp-server-0 
+     host-name="DESKTOP-92TM8FO" 
+
+241 D address=192.168.8.51 mac-address=78:24:AF:99:F0:C6 
+     client-id="1:78:24:af:99:f0:c6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h55m44s last-seen=7h4m15s 
+     active-address=192.168.8.51 active-mac-address=78:24:AF:99:F0:C6 
+     active-client-id="1:78:24:af:99:f0:c6" active-server=dhcp-server-0 
+     host-name="SEO111" 
+
+242 D address=192.168.10.223 mac-address=D0:50:99:8C:F1:D2 
+     client-id="1:d0:50:99:8c:f1:d2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h5m6s last-seen=4m6s 
+     active-address=192.168.10.223 active-mac-address=D0:50:99:8C:F1:D2 
+     active-client-id="1:d0:50:99:8c:f1:d2" active-server=dhcp-server-0 
+     host-name="verstka159" 
+
+243 D address=192.168.8.164 mac-address=08:62:66:27:07:23 
+     client-id="1:8:62:66:27:7:23" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h16m1s last-seen=39m26s 
+     active-address=192.168.8.164 active-mac-address=08:62:66:27:07:23 
+     active-client-id="1:8:62:66:27:7:23" active-server=dhcp-server-0 
+     host-name="seo244" 
+
+244 D address=192.168.8.238 mac-address=CC:2D:B7:5E:1F:F2 
+     client-id="1:cc:2d:b7:5e:1f:f2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h59m42s last-seen=17s 
+     active-address=192.168.8.238 active-mac-address=CC:2D:B7:5E:1F:F2 
+     active-client-id="1:cc:2d:b7:5e:1f:f2" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+245 D address=192.168.8.226 mac-address=90:F0:52:5B:24:AC 
+     client-id="1:90:f0:52:5b:24:ac" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=20h28m12s last-seen=3d3h31m47s 
+     active-address=192.168.8.226 active-mac-address=90:F0:52:5B:24:AC 
+     active-client-id="1:90:f0:52:5b:24:ac" active-server=dhcp-server-0 
+     host-name="MEIZU-15-Lite" 
+
+246 D address=192.168.8.215 mac-address=04:D6:AA:BA:B1:5E 
+     client-id="1:4:d6:aa:ba:b1:5e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d1h54m47s 
+     last-seen=2d22h5m12s active-address=192.168.8.215 
+     active-mac-address=04:D6:AA:BA:B1:5E 
+     active-client-id="1:4:d6:aa:ba:b1:5e" active-server=dhcp-server-0 
+     host-name="Samsung-Galaxy-S7" 
+
+247 D address=192.168.8.55 mac-address=90:32:4B:50:49:6B 
+     client-id="1:90:32:4b:50:49:6b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h50m5s last-seen=1h9m54s 
+     active-address=192.168.8.55 active-mac-address=90:32:4B:50:49:6B 
+     active-client-id="1:90:32:4b:50:49:6b" active-server=dhcp-server-0 
+     host-name="WIN-Q7322CEI4F5" 
+
+248 D address=192.168.10.102 mac-address=4C:DD:31:9B:E7:CB 
+     client-id="1:4c:dd:31:9b:e7:cb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h26m3s last-seen=33m56s 
+     active-address=192.168.10.102 active-mac-address=4C:DD:31:9B:E7:CB 
+     active-client-id="1:4c:dd:31:9b:e7:cb" active-server=dhcp-server-0 
+     host-name="Galaxy-A6" 
+
+249 D address=192.168.8.10 mac-address=D0:50:99:4E:9F:47 
+     client-id="1:d0:50:99:4e:9f:47" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h29m11s last-seen=7h30m48s 
+     active-address=192.168.8.10 active-mac-address=D0:50:99:4E:9F:47 
+     active-client-id="1:d0:50:99:4e:9f:47" active-server=dhcp-server-0 
+     host-name="prog185" 
+
+250 D address=192.168.8.205 mac-address=AC:1F:74:44:0E:68 
+     client-id="1:ac:1f:74:44:e:68" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d51m43s last-seen=2d23h8m16s 
+     active-address=192.168.8.205 active-mac-address=AC:1F:74:44:0E:68 
+     active-client-id="1:ac:1f:74:44:e:68" active-server=dhcp-server-0 
+     host-name="iPhone-Home" 
+
+251 D address=192.168.10.228 mac-address=F8:32:E4:BD:72:24 
+     client-id="1:f8:32:e4:bd:72:24" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d20h46m54s last-seen=2m9s 
+     active-address=192.168.10.228 active-mac-address=F8:32:E4:BD:72:24 
+     active-client-id="1:f8:32:e4:bd:72:24" active-server=dhcp-server-0 
+     host-name="linnik1" 
+
+252 D address=192.168.8.178 mac-address=08:62:66:36:ED:29 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d17h38m18s last-seen=6h21m41s 
+     active-address=192.168.8.178 active-mac-address=08:62:66:36:ED:29 
+     active-server=dhcp-server-0 host-name="DESKTOP-HRI3OAU" 
+
+253 D address=192.168.10.171 mac-address=50:46:5D:CF:9A:46 
+     client-id="1:50:46:5d:cf:9a:46" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h44m39s last-seen=2h15m20s 
+     active-address=192.168.10.171 active-mac-address=50:46:5D:CF:9A:46 
+     active-client-id="1:50:46:5d:cf:9a:46" active-server=dhcp-server-0 
+     host-name="DESKTOP-DSVCVPF" 
+
+254 D address=192.168.8.166 mac-address=70:85:C2:0D:97:D9 
+     client-id="1:70:85:c2:d:97:d9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h8m27s last-seen=7h51m32s 
+     active-address=192.168.8.166 active-mac-address=70:85:C2:0D:97:D9 
+     active-client-id="1:70:85:c2:d:97:d9" active-server=dhcp-server-0 
+     host-name="call12" 
+
+255 D address=192.168.8.151 mac-address=A4:17:31:7B:1B:C2 
+     client-id="1:a4:17:31:7b:1b:c2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d1h43m21s 
+     last-seen=2d22h16m38s active-address=192.168.8.151 
+     active-mac-address=A4:17:31:7B:1B:C2 
+     active-client-id="1:a4:17:31:7b:1b:c2" active-server=dhcp-server-0 
+     host-name="DESKTOP-CP5L273" 
+
+256 D address=192.168.8.208 mac-address=00:B3:62:DD:3E:02 
+     client-id="1:0:b3:62:dd:3e:2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=16h55m57s last-seen=3d7h4m2s 
+     active-address=192.168.8.208 active-mac-address=00:B3:62:DD:3E:02 
+     active-client-id="1:0:b3:62:dd:3e:2" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+257 D address=192.168.8.146 mac-address=D0:50:99:9B:85:B2 
+     client-id="1:d0:50:99:9b:85:b2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h8m24s last-seen=7h51m35s 
+     active-address=192.168.8.146 active-mac-address=D0:50:99:9B:85:B2 
+     active-client-id="1:d0:50:99:9b:85:b2" active-server=dhcp-server-0 
+     host-name="seo190" 
+
+258 D address=192.168.10.11 mac-address=E0:3F:49:15:20:74 
+     client-id="1:e0:3f:49:15:20:74" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h25m34s last-seen=5h34m25s 
+     active-address=192.168.10.11 active-mac-address=E0:3F:49:15:20:74 
+     active-client-id="1:e0:3f:49:15:20:74" active-server=dhcp-server-0 
+     host-name="manager122" 
+
+259 D address=192.168.8.250 mac-address=7C:76:68:8F:7F:D1 
+     client-id="1:7c:76:68:8f:7f:d1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=22h51m40s last-seen=3d1h8m19s 
+     active-address=192.168.8.250 active-mac-address=7C:76:68:8F:7F:D1 
+     active-client-id="1:7c:76:68:8f:7f:d1" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-8b491b8a6" 
+
+260 D address=192.168.8.241 mac-address=2C:0E:3D:4C:BA:F9 
+     client-id="1:2c:e:3d:4c:ba:f9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=21h42m30s last-seen=3d2h17m29s 
+     active-address=192.168.8.241 active-mac-address=2C:0E:3D:4C:BA:F9 
+     active-client-id="1:2c:e:3d:4c:ba:f9" active-server=dhcp-server-0 
+     host-name="Samsung-Galaxy-S7-edge" 
+
+261 D address=192.168.10.71 mac-address=B4:9C:DF:23:8D:95 
+     client-id="1:b4:9c:df:23:8d:95" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h55m last-seen=5h4m59s 
+     active-address=192.168.10.71 active-mac-address=B4:9C:DF:23:8D:95 
+     active-client-id="1:b4:9c:df:23:8d:95" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+262 D address=192.168.8.235 mac-address=F4:60:E2:F3:2D:DA 
+     client-id="1:f4:60:e2:f3:2d:da" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h24m13s last-seen=35m46s 
+     active-address=192.168.8.235 active-mac-address=F4:60:E2:F3:2D:DA 
+     active-client-id="1:f4:60:e2:f3:2d:da" active-server=dhcp-server-0 
+
+263 D address=192.168.8.122 mac-address=E0:C7:67:61:01:B1 
+     client-id="1:e0:c7:67:61:1:b1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h30m3s last-seen=2h29m56s 
+     active-address=192.168.8.122 active-mac-address=E0:C7:67:61:01:B1 
+     active-client-id="1:e0:c7:67:61:1:b1" active-server=dhcp-server-0 
+     host-name="iPhone-SE-2" 
+
+264 D address=192.168.8.105 mac-address=20:A2:E4:7F:96:1F 
+     client-id="1:20:a2:e4:7f:96:1f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h49m17s last-seen=7h10m42s 
+     active-address=192.168.8.105 active-mac-address=20:A2:E4:7F:96:1F 
+     active-client-id="1:20:a2:e4:7f:96:1f" active-server=dhcp-server-0 
+     host-name="iPhoneVladislav" 
+
+265 D address=192.168.10.202 mac-address=48:88:CA:F9:A4:C1 
+     client-id="1:48:88:ca:f9:a4:c1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h50m54s last-seen=7h9m5s 
+     active-address=192.168.10.202 active-mac-address=48:88:CA:F9:A4:C1 
+     active-client-id="1:48:88:ca:f9:a4:c1" active-server=dhcp-server-0 
+     host-name="android-c9230e4f32f8f140" 
+
+266 D address=192.168.8.218 mac-address=D0:2B:20:84:93:D5 
+     client-id="1:d0:2b:20:84:93:d5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d2m55s last-seen=2d23h57m4s 
+     active-address=192.168.8.218 active-mac-address=D0:2B:20:84:93:D5 
+     active-client-id="1:d0:2b:20:84:93:d5" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+267 D address=192.168.10.81 mac-address=00:0B:82:BB:56:36 
+     client-id="1:0:b:82:bb:56:36" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h6m40s last-seen=1h52m38s 
+     active-address=192.168.10.81 active-mac-address=00:0B:82:BB:56:36 
+     active-client-id="1:0:b:82:bb:56:36" active-server=dhcp-server-0 
+
+268 D address=192.168.10.247 mac-address=A4:5D:36:19:83:0D 
+     client-id="1:a4:5d:36:19:83:d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h22m28s last-seen=1h37m31s 
+     active-address=192.168.10.247 active-mac-address=A4:5D:36:19:83:0D 
+     active-client-id="1:a4:5d:36:19:83:d" active-server=dhcp-server-0 
+     host-name="DESKTOP-TG1U2L8" 
+
+269 D address=192.168.10.200 mac-address=78:24:AF:9A:7A:94 
+     client-id="1:78:24:af:9a:7a:94" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h4m42s last-seen=55m17s 
+     active-address=192.168.10.200 active-mac-address=78:24:AF:9A:7A:94 
+     active-client-id="1:78:24:af:9a:7a:94" active-server=dhcp-server-0 
+     host-name="DESKTOP-T3OR088" 
+
+270 D address=192.168.10.140 mac-address=EC:8C:9A:E6:CD:33 
+     client-id="1:ec:8c:9a:e6:cd:33" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2h37m19s last-seen=3d21h22m40s 
+     active-address=192.168.10.140 active-mac-address=EC:8C:9A:E6:CD:33 
+     active-client-id="1:ec:8c:9a:e6:cd:33" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-d80517f51" 
+
+271 D address=192.168.10.139 mac-address=F8:28:19:CF:4C:49 
+     client-id="1:f8:28:19:cf:4c:49" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d1h9s last-seen=1d22h59m50s 
+     active-address=192.168.10.139 active-mac-address=F8:28:19:CF:4C:49 
+     active-client-id="1:f8:28:19:cf:4c:49" active-server=dhcp-server-0 
+     host-name="DESKTOP-B4L4FQU" 
+
+272 D address=192.168.10.91 mac-address=74:2F:68:73:B8:00 
+     client-id="1:74:2f:68:73:b8:0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h31m9s last-seen=7h28m50s 
+     active-address=192.168.10.91 active-mac-address=74:2F:68:73:B8:00 
+     active-client-id="1:74:2f:68:73:b8:0" active-server=dhcp-server-0 
+     host-name="notebook2" 
+
+273 D address=192.168.8.19 mac-address=B4:F1:DA:E9:9C:E2 
+     client-id="1:b4:f1:da:e9:9c:e2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h23m6s last-seen=7h36m53s 
+     active-address=192.168.8.19 active-mac-address=B4:F1:DA:E9:9C:E2 
+     active-client-id="1:b4:f1:da:e9:9c:e2" active-server=dhcp-server-0 
+
+274 D address=192.168.8.99 mac-address=98:00:C6:9A:20:51 
+     client-id="1:98:0:c6:9a:20:51" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h29m37s last-seen=3h30m22s 
+     active-address=192.168.8.99 active-mac-address=98:00:C6:9A:20:51 
+     active-client-id="1:98:0:c6:9a:20:51" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+275 D address=192.168.8.88 mac-address=AC:37:43:DC:82:1F 
+     client-id="1:ac:37:43:dc:82:1f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h57m5s last-seen=7h2m54s 
+     active-address=192.168.8.88 active-mac-address=AC:37:43:DC:82:1F 
+     active-client-id="1:ac:37:43:dc:82:1f" active-server=dhcp-server-0 
+
+276 D address=192.168.10.174 mac-address=BC:3D:85:23:12:E2 
+     client-id="1:bc:3d:85:23:12:e2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h25m50s last-seen=2h34m9s 
+     active-address=192.168.10.174 active-mac-address=BC:3D:85:23:12:E2 
+     active-client-id="1:bc:3d:85:23:12:e2" active-server=dhcp-server-0 
+     host-name="Honor_7X-99ea9e3be4dd08b3" 
+
+277 D address=192.168.8.78 mac-address=C4:61:8B:B3:A4:AF 
+     client-id="1:c4:61:8b:b3:a4:af" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h52m22s last-seen=1h7m37s 
+     active-address=192.168.8.78 active-mac-address=C4:61:8B:B3:A4:AF 
+     active-client-id="1:c4:61:8b:b3:a4:af" active-server=dhcp-server-0 
+     host-name="iPhoneRichhouse" 
+
+278 D address=192.168.10.214 mac-address=28:A0:2B:B1:34:AB 
+     client-id="1:28:a0:2b:b1:34:ab" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h21m19s last-seen=4h38m40s 
+     active-address=192.168.10.214 active-mac-address=28:A0:2B:B1:34:AB 
+     active-client-id="1:28:a0:2b:b1:34:ab" active-server=dhcp-server-0 
+     host-name="iPhone-6S-2" 
+
+279 D address=192.168.10.181 mac-address=0C:CE:F6:5F:1F:71 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=3d19h57s 
+     last-seen=4h59m2s active-address=192.168.10.181 
+     active-mac-address=0C:CE:F6:5F:1F:71 active-server=dhcp-server-0 
+     host-name="android-100bcb4233c1c8ce" 
+
+280 D address=192.168.10.57 mac-address=18:F0:E4:40:DC:7A 
+     client-id="1:18:f0:e4:40:dc:7a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h2m4s last-seen=6h57m55s 
+     active-address=192.168.10.57 active-mac-address=18:F0:E4:40:DC:7A 
+     active-client-id="1:18:f0:e4:40:dc:7a" active-server=dhcp-server-0 
+     host-name="RedmiNote4X-Sharotop" 
+
+281 D address=192.168.8.156 mac-address=14:1F:78:78:92:77 
+     client-id="1:14:1f:78:78:92:77" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h54m39s last-seen=3h5m20s 
+     active-address=192.168.8.156 active-mac-address=14:1F:78:78:92:77 
+     active-client-id="1:14:1f:78:78:92:77" active-server=dhcp-server-0 
+     host-name="Galaxy-A3-2016" 
+
+282 D address=192.168.10.219 mac-address=68:3E:34:86:65:E0 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=3d17h48s 
+     last-seen=6h59m11s active-address=192.168.10.219 
+     active-mac-address=68:3E:34:86:65:E0 active-server=dhcp-server-0 
+     host-name="MEIZU-PRO-6" 
+
+283 D address=192.168.8.72 mac-address=14:D1:69:E6:AA:9C 
+     client-id="1:14:d1:69:e6:aa:9c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h44m45s last-seen=2h15m14s 
+     active-address=192.168.8.72 active-mac-address=14:D1:69:E6:AA:9C 
+     active-client-id="1:14:d1:69:e6:aa:9c" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart_2019-cf6f8" 
+
+284 D address=192.168.10.164 mac-address=BC:54:36:77:56:FB 
+     client-id="1:bc:54:36:77:56:fb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=15h22m9s last-seen=3d8h37m50s 
+     active-address=192.168.10.164 active-mac-address=BC:54:36:77:56:FB 
+     active-client-id="1:bc:54:36:77:56:fb" active-server=dhcp-server-0 
+     host-name="iPhone-Denis" 
+
+285 D address=192.168.8.79 mac-address=60:A4:4C:31:F1:24 
+     client-id="1:60:a4:4c:31:f1:24" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h29m38s last-seen=8h30m21s 
+     active-address=192.168.8.79 active-mac-address=60:A4:4C:31:F1:24 
+     active-client-id="1:60:a4:4c:31:f1:24" active-server=dhcp-server-0 
+     host-name="design112" 
+
+286 D address=192.168.8.169 mac-address=4C:CC:6A:94:60:54 
+     client-id="1:4c:cc:6a:94:60:54" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h12m31s last-seen=7h47m28s 
+     active-address=192.168.8.169 active-mac-address=4C:CC:6A:94:60:54 
+     active-client-id="1:4c:cc:6a:94:60:54" active-server=dhcp-server-0 
+     host-name="se321" 
+
+287 D address=192.168.10.116 mac-address=F0:79:59:63:5E:72 
+     client-id="1:f0:79:59:63:5e:72" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h12m42s last-seen=7h47m17s 
+     active-address=192.168.10.116 active-mac-address=F0:79:59:63:5E:72 
+     active-client-id="1:f0:79:59:63:5e:72" active-server=dhcp-server-0 
+     host-name="seo181" 
+
+288 D address=192.168.8.16 mac-address=BC:EE:7B:5D:62:A1 
+     client-id="1:bc:ee:7b:5d:62:a1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h51m18s last-seen=1h8m41s 
+     active-address=192.168.8.16 active-mac-address=BC:EE:7B:5D:62:A1 
+     active-client-id="1:bc:ee:7b:5d:62:a1" active-server=dhcp-server-0 
+     host-name="DESKTOP-1CJ33GM" 
+
+289 D address=192.168.8.87 mac-address=00:08:22:B8:0F:FC address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=1h27m21s 
+     last-seen=3d22h32m38s active-address=192.168.8.87 
+     active-mac-address=00:08:22:B8:0F:FC active-server=dhcp-server-0 
+     host-name="android-b9d76d526ee3de86" 
+
+290 D address=192.168.8.139 mac-address=10:BF:48:88:69:BF 
+     client-id="1:10:bf:48:88:69:bf" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h25m45s last-seen=6h34m14s 
+     active-address=192.168.8.139 active-mac-address=10:BF:48:88:69:BF 
+     active-client-id="1:10:bf:48:88:69:bf" active-server=dhcp-server-0 
+     host-name="DESKTOP-AAD9ACB" 
+
+291 D address=192.168.9.124 mac-address=E0:33:8E:D0:83:2E 
+     client-id="1:e0:33:8e:d0:83:2e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h19m27s last-seen=40m32s 
+     active-address=192.168.9.124 active-mac-address=E0:33:8E:D0:83:2E 
+     active-client-id="1:e0:33:8e:d0:83:2e" active-server=dhcp-server-0 
+     host-name="iPhoneSnguinato" 
+
+292 D address=192.168.10.78 mac-address=B4:86:55:33:F3:33 
+     client-id="1:b4:86:55:33:f3:33" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d42m41s last-seen=2d23h17m18s 
+     active-address=192.168.10.78 active-mac-address=B4:86:55:33:F3:33 
+     active-client-id="1:b4:86:55:33:f3:33" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-1ac141c56" 
+
+293 D address=192.168.10.47 mac-address=A8:88:08:15:0F:9D 
+     client-id="1:a8:88:8:15:f:9d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h55m7s last-seen=2h4m52s 
+     active-address=192.168.10.47 active-mac-address=A8:88:08:15:0F:9D 
+     active-client-id="1:a8:88:8:15:f:9d" active-server=dhcp-server-0 
+     host-name="iPhoneWork" 
+
+294 D address=192.168.8.200 mac-address=10:F1:F2:8A:36:74 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=3d22h40s 
+     last-seen=1h59m19s active-address=192.168.8.200 
+     active-mac-address=10:F1:F2:8A:36:74 active-server=dhcp-server-0 
+     host-name="android-843b3f764a13d6df" 
+
+295 D address=192.168.9.135 mac-address=20:A6:0C:29:F9:E7 
+     client-id="1:20:a6:c:29:f9:e7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h10m42s last-seen=2h49m17s 
+     active-address=192.168.9.135 active-mac-address=20:A6:0C:29:F9:E7 
+     active-client-id="1:20:a6:c:29:f9:e7" active-server=dhcp-server-0 
+     host-name="RedmiNote5-Redmi" 
+
+296 D address=192.168.9.137 mac-address=2C:57:31:19:CE:E2 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d22h40m44s last-seen=1h19m15s 
+     active-address=192.168.9.137 active-mac-address=2C:57:31:19:CE:E2 
+     active-server=dhcp-server-0 host-name="MEIZU-M5-Note" 
+
+297 D address=192.168.10.204 mac-address=B0:55:08:73:AA:EC address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=11m13s 
+     last-seen=3d23h48m46s active-address=192.168.10.204 
+     active-mac-address=B0:55:08:73:AA:EC active-server=dhcp-server-0 
+     host-name="HUAWEI_Y5_2017" 
+
+298 D address=192.168.10.76 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=16m42s last-seen=3d23h43m17s 
+     active-address=192.168.10.76 active-server=dhcp-server-0 
+     src-mac-address=F8:C3:9E:F8:4F:E7 
+
+299 D address=192.168.8.155 mac-address=F8:C3:9E:F8:4F:E7 
+     client-id="1:f8:c3:9e:f8:4f:e7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=16m48s last-seen=3d23h43m11s 
+     active-address=192.168.8.155 active-mac-address=F8:C3:9E:F8:4F:E7 
+     active-client-id="1:f8:c3:9e:f8:4f:e7" active-server=dhcp-server-0 
+     host-name="Honor_8X-1b119b4018b527b3" 
+
+300 D address=192.168.8.246 mac-address=00:14:25:2E:55:4A 
+     client-id="1:0:14:25:2e:55:4a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h56m27s last-seen=3m32s 
+     active-address=192.168.8.246 active-mac-address=00:14:25:2E:55:4A 
+     active-client-id="1:0:14:25:2e:55:4a" active-server=dhcp-server-0 
+     host-name="android-4c6a527afa3219d9" 
+
+301 D address=192.168.9.138 mac-address=C0:F4:E6:F8:66:1E 
+     client-id="1:c0:f4:e6:f8:66:1e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=42m25s last-seen=3d23h17m34s 
+     active-address=192.168.9.138 active-mac-address=C0:F4:E6:F8:66:1E 
+     active-client-id="1:c0:f4:e6:f8:66:1e" active-server=dhcp-server-0 
+     host-name="HUAWEI_P20-d777e7753c0b80" 
+
+302 D address=192.168.10.143 mac-address=78:02:F8:AC:06:35 
+     client-id="1:78:2:f8:ac:6:35" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h10m21s last-seen=7h49m38s 
+     active-address=192.168.10.143 active-mac-address=78:02:F8:AC:06:35 
+     active-client-id="1:78:2:f8:ac:6:35" active-server=dhcp-server-0 
+     host-name="Redmi4A-Redmi" 
+
+303 D address=192.168.9.139 mac-address=38:A4:ED:01:3A:20 
+     client-id="1:38:a4:ed:1:3a:20" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=58m10s last-seen=3d23h1m49s 
+     active-address=192.168.9.139 active-mac-address=38:A4:ED:01:3A:20 
+     active-client-id="1:38:a4:ed:1:3a:20" active-server=dhcp-server-0 
+     host-name="Redmi3X-Redmi" 
+
+304 D address=192.168.9.140 mac-address=D4:61:2E:C8:38:2A 
+     client-id="1:d4:61:2e:c8:38:2a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1h27m45s last-seen=3d22h32m14s 
+     active-address=192.168.9.140 active-mac-address=D4:61:2E:C8:38:2A 
+     active-client-id="1:d4:61:2e:c8:38:2a" active-server=dhcp-server-0 
+     host-name="HUAWEI_GT3" 
+
+305 D address=192.168.9.141 mac-address=60:30:D4:4C:DA:85 
+     client-id="1:60:30:d4:4c:da:85" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h28m28s last-seen=31m31s 
+     active-address=192.168.9.141 active-mac-address=60:30:D4:4C:DA:85 
+     active-client-id="1:60:30:d4:4c:da:85" active-server=dhcp-server-0 
+     host-name="iPhoneVacheslav" 
+
+306 D address=192.168.10.245 mac-address=54:14:73:9E:A0:98 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d15h33m23s last-seen=8h26m36s 
+     active-address=192.168.10.245 active-mac-address=54:14:73:9E:A0:98 
+     active-server=dhcp-server-0 host-name="work" 
+
+307 D address=192.168.10.244 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=16h5m59s last-seen=3d7h54m 
+     active-address=192.168.10.244 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:9E:14:7B 
+
+308 D address=192.168.10.212 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=16h11m39s last-seen=3d7h48m20s 
+     active-address=192.168.10.212 active-server=dhcp-server-0 
+     src-mac-address=7C:76:68:A4:66:05 
+
+309 D address=192.168.10.172 mac-address=7C:76:68:A4:66:05 
+     client-id="1:7c:76:68:a4:66:5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=16h11m42s last-seen=3d7h48m17s 
+     active-address=192.168.10.172 active-mac-address=7C:76:68:A4:66:05 
+     active-client-id="1:7c:76:68:a4:66:5" active-server=dhcp-server-0 
+     host-name="HUAWEI_P20_Pro-7d5bf2d711" 
+
+310 D address=192.168.10.151 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=16h17m22s last-seen=3d7h42m37s 
+     active-address=192.168.10.151 active-server=dhcp-server-0 
+     src-mac-address=D0:B1:28:0D:62:CF 
+
+311 D address=192.168.10.221 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=16h27m27s last-seen=3d7h32m32s 
+     active-address=192.168.10.221 active-server=dhcp-server-0 
+     src-mac-address=A8:6B:AD:35:04:37 
+
+312 D address=192.168.10.53 mac-address=0C:8F:FF:F8:16:DF 
+     client-id="1:c:8f:ff:f8:16:df" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h6m53s last-seen=2h53m6s 
+     active-address=192.168.10.53 active-mac-address=0C:8F:FF:F8:16:DF 
+     active-client-id="1:c:8f:ff:f8:16:df" active-server=dhcp-server-0 
+     host-name="HUAWEI_Y7" 
+
+313 D address=192.168.10.114 mac-address=88:28:B3:37:49:2A address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=17h41m19s 
+     last-seen=3d6h18m40s active-address=192.168.10.114 
+     active-mac-address=88:28:B3:37:49:2A active-server=dhcp-server-0 
+     host-name="HUAWEI_P8_lite" 
+
+314 D address=192.168.10.33 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=16h49m49s last-seen=3d7h10m10s 
+     active-address=192.168.10.33 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:8C:F6:AB 
+
+315 D address=192.168.10.32 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=16h53m45s last-seen=3d7h6m14s 
+     active-address=192.168.10.32 active-server=dhcp-server-0 
+     src-mac-address=44:D4:E0:4C:9D:78 
+
+316 D address=192.168.8.252 mac-address=54:27:58:2F:2C:E4 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=1d2h28m11s last-seen=2d21h31m48s 
+     active-address=192.168.8.252 active-mac-address=54:27:58:2F:2C:E4 
+     active-server=dhcp-server-0 host-name="android-3638f991828b07a" 
+
+317 D address=192.168.8.162 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=16h57m58s last-seen=3d7h2m1s 
+     active-address=192.168.8.162 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:87:FA:0B 
+
+318 D address=192.168.8.233 mac-address=48:88:CA:59:8F:5C 
+     client-id="ff:0:0:0:23:0:1:0:1:c9:1f:c2:5b:48:88:ca:59:8f:5c" 
+     address-lists="" server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=21h9m19s last-seen=3d2h50m40s active-address=192.168.8.233 
+     active-mac-address=48:88:CA:59:8F:5C 
+     active-client-id="ff:0:0:0:23:0:1:0:1:c9:1f:c2:5b:48:88:ca:59:8f:5c" 
+     active-server=dhcp-server-0 host-name="android-760c286da77b4ba5" 
+
+319 D address=192.168.8.232 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=17h24m40s last-seen=3d6h35m19s 
+     active-address=192.168.8.232 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:95:2A:04 
+
+320 D address=192.168.8.224 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=17h46m9s last-seen=3d6h13m50s 
+     active-address=192.168.8.224 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:9E:14:7B 
+
+321 D address=192.168.8.217 mac-address=00:EC:0A:77:DA:06 
+     client-id="1:0:ec:a:77:da:6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=18h27m35s last-seen=3d5h32m24s 
+     active-address=192.168.8.217 active-mac-address=00:EC:0A:77:DA:06 
+     active-client-id="1:0:ec:a:77:da:6" active-server=dhcp-server-0 
+     host-name="Redmi4X-Redmi" 
+
+322 D address=192.168.8.212 mac-address=34:2E:B6:B3:C0:28 
+     client-id="1:34:2e:b6:b3:c0:28" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=18h32m28s last-seen=3d5h27m31s 
+     active-address=192.168.8.212 active-mac-address=34:2E:B6:B3:C0:28 
+     active-client-id="1:34:2e:b6:b3:c0:28" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart-d3c63915f2" 
+
+323 D address=192.168.8.128 mac-address=20:54:FA:F1:CD:C9 
+     client-id="1:20:54:fa:f1:cd:c9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=18h32m57s last-seen=3d5h27m2s 
+     active-address=192.168.8.128 active-mac-address=20:54:FA:F1:CD:C9 
+     active-client-id="1:20:54:fa:f1:cd:c9" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart-47c7b3f6d4" 
+
+324 D address=192.168.10.62 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=19h45m15s last-seen=3d4h14m44s 
+     active-address=192.168.10.62 active-server=dhcp-server-0 
+     src-mac-address=B0:72:BF:C3:82:DB 
+
+325 D address=192.168.10.29 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=19h45m17s last-seen=3d4h14m42s 
+     active-address=192.168.10.29 active-server=dhcp-server-0 
+     src-mac-address=B0:72:BF:C3:82:DB 
+
+326 D address=192.168.8.203 mac-address=B0:72:BF:C3:82:DB 
+     client-id="1:b0:72:bf:c3:82:db" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h38m58s last-seen=4h21m1s 
+     active-address=192.168.8.203 active-mac-address=B0:72:BF:C3:82:DB 
+     active-client-id="1:b0:72:bf:c3:82:db" active-server=dhcp-server-0 
+     host-name="Galaxy-Note5" 
+
+327 D address=192.168.8.197 mac-address=50:01:D9:C9:A7:EA 
+     client-id="1:50:1:d9:c9:a7:ea" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=19h49m2s last-seen=3d4h10m57s 
+     active-address=192.168.8.197 active-mac-address=50:01:D9:C9:A7:EA 
+     active-client-id="1:50:1:d9:c9:a7:ea" active-server=dhcp-server-0 
+     host-name="HUAWEI_GR5_2017" 
+
+328 D address=192.168.8.191 mac-address=C8:94:BB:D2:5B:AD 
+     client-id="1:c8:94:bb:d2:5b:ad" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=20h17m32s last-seen=3d3h42m27s 
+     active-address=192.168.8.191 active-mac-address=C8:94:BB:D2:5B:AD 
+     active-client-id="1:c8:94:bb:d2:5b:ad" active-server=dhcp-server-0 
+     host-name="HUAWEI_P10-83eb8a7ffe5fda" 
+
+329 D address=192.168.10.240 mac-address=34:2E:B6:1C:F4:62 
+     client-id="1:34:2e:b6:1c:f4:62" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h31m33s last-seen=3h28m26s 
+     active-address=192.168.10.240 active-mac-address=34:2E:B6:1C:F4:62 
+     active-client-id="1:34:2e:b6:1c:f4:62" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-c8cee6a11" 
+
+330 D address=192.168.10.112 mac-address=10:2A:B3:FD:00:65 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=20h22m26s 
+     last-seen=3d3h37m33s active-address=192.168.10.112 
+     active-mac-address=10:2A:B3:FD:00:65 active-server=dhcp-server-0 
+     host-name="RedmiNote3-Redmi" 
+
+331 D address=192.168.8.190 mac-address=E0:5F:45:38:01:98 
+     client-id="1:e0:5f:45:38:1:98" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h7m17s last-seen=6h52m42s 
+     active-address=192.168.8.190 active-mac-address=E0:5F:45:38:01:98 
+     active-client-id="1:e0:5f:45:38:1:98" active-server=dhcp-server-0 
+     host-name="iPhone-SE" 
+
+332 D address=192.168.10.154 mac-address=54:B1:21:C8:A8:18 
+     client-id="1:54:b1:21:c8:a8:18" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h28m23s last-seen=2h31m36s 
+     active-address=192.168.10.154 active-mac-address=54:B1:21:C8:A8:18 
+     active-client-id="1:54:b1:21:c8:a8:18" active-server=dhcp-server-0 
+     host-name="SLA-L22" 
+
+333 D address=192.168.8.47 mac-address=70:72:0D:93:70:C3 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=20h43m34s 
+     last-seen=3d3h16m25s active-address=192.168.8.47 
+     active-mac-address=70:72:0D:93:70:C3 active-server=dhcp-server-0 
+     host-name="android-7b18c78dc6629cf8" 
+
+334 D address=192.168.10.146 mac-address=90:2B:D2:48:0F:02 
+     client-id="1:90:2b:d2:48:f:2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=22h29m3s last-seen=3d1h30m56s 
+     active-address=192.168.10.146 active-mac-address=90:2B:D2:48:0F:02 
+     active-client-id="1:90:2b:d2:48:f:2" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-404d6b4a9" 
+
+335 D address=192.168.10.129 mac-address=AC:AF:B9:57:79:F0 
+     client-id="1:ac:af:b9:57:79:f0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h11m39s last-seen=3d48m20s 
+     active-address=192.168.10.129 active-mac-address=AC:AF:B9:57:79:F0 
+     active-client-id="1:ac:af:b9:57:79:f0" active-server=dhcp-server-0 
+     host-name="android-f740d73f8e2c312b" 
+
+336 D address=192.168.10.64 mac-address=0C:2C:54:39:07:E9 
+     client-id="1:c:2c:54:39:7:e9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h42m14s last-seen=3d17m45s 
+     active-address=192.168.10.64 active-mac-address=0C:2C:54:39:07:E9 
+     active-client-id="1:c:2c:54:39:7:e9" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart-9cae1f905c" 
+
+337 D address=192.168.8.228 mac-address=74:D2:1D:C2:70:6C 
+     client-id="1:74:d2:1d:c2:70:6c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=23h50m46s last-seen=3d9m13s 
+     active-address=192.168.8.228 active-mac-address=74:D2:1D:C2:70:6C 
+     active-client-id="1:74:d2:1d:c2:70:6c" active-server=dhcp-server-0 
+     host-name="HUAWEI_Mate_10_lite-a3d1e" 
+
+338 D address=192.168.10.106 mac-address=4C:49:E3:B8:3B:20 
+     client-id="1:4c:49:e3:b8:3b:20" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h29m22s last-seen=1h30m37s 
+     active-address=192.168.10.106 active-mac-address=4C:49:E3:B8:3B:20 
+     active-client-id="1:4c:49:e3:b8:3b:20" active-server=dhcp-server-0 
+     host-name="Redmi4X-RedmiAlena" 
+
+339 D address=192.168.10.254 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=1d1h44m53s last-seen=2d22h15m6s 
+     active-address=192.168.10.254 active-server=dhcp-server-0 
+     src-mac-address=E8:B1:FC:4B:4D:CB 
+
+340 D address=192.168.10.209 mac-address=E8:B1:FC:4B:4D:CB 
+     client-id="1:e8:b1:fc:4b:4d:cb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d3h9m2s last-seen=2d20h50m57s 
+     active-address=192.168.10.209 active-mac-address=E8:B1:FC:4B:4D:CB 
+     active-client-id="1:e8:b1:fc:4b:4d:cb" active-server=dhcp-server-0 
+     host-name="DESKTOP-L356MR1" 
+
+341 D address=192.168.10.120 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=1d3h48m35s 
+     last-seen=2d20h11m24s active-address=192.168.10.120 
+     active-server=dhcp-server-0 src-mac-address=20:EE:28:CB:65:47 
+
+342 D address=192.168.10.13 mac-address=20:EE:28:CB:65:47 
+     client-id="1:20:ee:28:cb:65:47" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d3h48m47s 
+     last-seen=2d20h11m12s active-address=192.168.10.13 
+     active-mac-address=20:EE:28:CB:65:47 
+     active-client-id="1:20:ee:28:cb:65:47" active-server=dhcp-server-0 
+     host-name="iPhone-Anfisa" 
+
+343 D address=192.168.10.224 mac-address=90:94:97:6C:53:89 
+     client-id="1:90:94:97:6c:53:89" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d5h38m20s 
+     last-seen=2d18h21m39s active-address=192.168.10.224 
+     active-mac-address=90:94:97:6C:53:89 
+     active-client-id="1:90:94:97:6c:53:89" active-server=dhcp-server-0 
+     host-name="HUAWEI_P20_lite-8ef6aaee5" 
+
+344 D address=192.168.10.126 mac-address=04:4F:4C:6B:E7:43 
+     client-id="1:4:4f:4c:6b:e7:43" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d6h52m53s last-seen=2d17h7m6s 
+     active-address=192.168.10.126 active-mac-address=04:4F:4C:6B:E7:43 
+     active-client-id="1:4:4f:4c:6b:e7:43" active-server=dhcp-server-0 
+     host-name="HUAWEI_GR5_2017" 
+
+345 D address=192.168.8.245 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=1d13h4m10s last-seen=2d10h55m49s 
+     active-address=192.168.8.245 active-server=dhcp-server-0 
+     src-mac-address=6C:5F:1C:84:37:E8 
+
+346 D address=192.168.8.130 mac-address=70:85:C2:25:CE:73 
+     client-id="1:70:85:c2:25:ce:73" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d13h51m25s last-seen=10h8m34s 
+     active-address=192.168.8.130 active-mac-address=70:85:C2:25:CE:73 
+     active-client-id="1:70:85:c2:25:ce:73" active-server=dhcp-server-0 
+     host-name="test15" 
+
+347 D address=192.168.10.250 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=1d15h49m29s 
+     last-seen=2d8h10m30s active-address=192.168.10.250 
+     active-server=dhcp-server-0 src-mac-address=00:26:18:CD:48:72 
+
+348 D address=192.168.8.195 mac-address=EC:89:14:67:07:53 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound expires-after=1d16h58s 
+     last-seen=2d7h59m1s active-address=192.168.8.195 
+     active-mac-address=EC:89:14:67:07:53 active-server=dhcp-server-0 
+     host-name="HUAWEI_Y5_2017" 
+
+349 D address=192.168.10.235 mac-address=C0:F4:E6:17:08:49 
+     client-id="1:c0:f4:e6:17:8:49" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d17h24m12s 
+     last-seen=2d6h35m47s active-address=192.168.10.235 
+     active-mac-address=C0:F4:E6:17:08:49 
+     active-client-id="1:c0:f4:e6:17:8:49" active-server=dhcp-server-0 
+     host-name="HUAWEI_Mate_10_lite-bb2ee" 
+
+350 D address=192.168.10.189 mac-address=9C:2E:A1:B9:B7:AF 
+     client-id="1:9c:2e:a1:b9:b7:af" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d18h21m58s 
+     last-seen=2d5h38m1s active-address=192.168.10.189 
+     active-mac-address=9C:2E:A1:B9:B7:AF 
+     active-client-id="1:9c:2e:a1:b9:b7:af" active-server=dhcp-server-0 
+     host-name="Redmi5Plus-Redmi" 
+
+351 D address=192.168.10.187 mac-address=94:0E:6B:83:D8:EE 
+     client-id="1:94:e:6b:83:d8:ee" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d19h2m20s 
+     last-seen=2d4h57m39s active-address=192.168.10.187 
+     active-mac-address=94:0E:6B:83:D8:EE 
+     active-client-id="1:94:e:6b:83:d8:ee" active-server=dhcp-server-0 
+     host-name="DLI-TL20" 
+
+352 D address=192.168.10.169 mac-address=28:27:BF:CF:A0:25 
+     client-id="1:28:27:bf:cf:a0:25" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d19h5m51s last-seen=2d4h54m8s 
+     active-address=192.168.10.169 active-mac-address=28:27:BF:CF:A0:25 
+     active-client-id="1:28:27:bf:cf:a0:25" active-server=dhcp-server-0 
+     host-name="android-6050c0cd8f018988" 
+
+353 D address=192.168.10.165 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=1d19h16m50s last-seen=2d4h43m9s 
+     active-address=192.168.10.165 active-server=dhcp-server-0 
+     src-mac-address=1C:91:48:64:EE:D8 
+
+354 D address=192.168.10.150 mac-address=34:2E:B6:F8:F0:A1 
+     client-id="1:34:2e:b6:f8:f0:a1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d19h20m56s 
+     last-seen=2d4h39m3s active-address=192.168.10.150 
+     active-mac-address=34:2E:B6:F8:F0:A1 
+     active-client-id="1:34:2e:b6:f8:f0:a1" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-7706f072c" 
+
+355 D address=192.168.10.145 mac-address=34:2E:B6:B3:C9:1B 
+     client-id="1:34:2e:b6:b3:c9:1b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d19h33m55s 
+     last-seen=2d4h26m4s active-address=192.168.10.145 
+     active-mac-address=34:2E:B6:B3:C9:1B 
+     active-client-id="1:34:2e:b6:b3:c9:1b" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart-a2fd38cf07" 
+
+356 D address=192.168.10.59 mac-address=70:8A:09:A6:AE:05 
+     client-id="1:70:8a:9:a6:ae:5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d19h51m3s last-seen=2d4h8m56s 
+     active-address=192.168.10.59 active-mac-address=70:8A:09:A6:AE:05 
+     active-client-id="1:70:8a:9:a6:ae:5" active-server=dhcp-server-0 
+     host-name="HUAWEI_Y7" 
+
+357 D address=192.168.10.24 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=1d20h33m27s last-seen=2d3h26m32s 
+     active-address=192.168.10.24 active-server=dhcp-server-0 
+     src-mac-address=A4:71:74:66:F7:1E 
+
+358 D address=192.168.10.18 mac-address=A4:71:74:66:F7:1E address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=1d20h33m31s last-seen=2d3h26m28s 
+     active-address=192.168.10.18 active-mac-address=A4:71:74:66:F7:1E 
+     active-server=dhcp-server-0 host-name="HUAWEI_GT3" 
+
+359 D address=192.168.10.138 mac-address=B0:55:08:69:2F:1C address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=1d21h14m29s last-seen=2d2h45m30s 
+     active-address=192.168.10.138 active-mac-address=B0:55:08:69:2F:1C 
+     active-server=dhcp-server-0 host-name="HUAWEI_Y5_2017" 
+
+360 D address=192.168.8.253 mac-address=84:55:A5:20:FD:4A 
+     client-id="1:84:55:a5:20:fd:4a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d21h17m7s 
+     last-seen=2d2h42m52s active-address=192.168.8.253 
+     active-mac-address=84:55:A5:20:FD:4A 
+     active-client-id="1:84:55:a5:20:fd:4a" active-server=dhcp-server-0 
+     host-name="android-9abf6b32a0becdde" 
+
+361 D address=192.168.10.193 mac-address=8C:25:05:70:AF:0E address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=1d21h53m19s last-seen=2d2h6m40s 
+     active-address=192.168.10.193 active-mac-address=8C:25:05:70:AF:0E 
+     active-server=dhcp-server-0 host-name="HUAWEI_Y5_2017" 
+
+362 D address=192.168.8.37 mac-address=3C:CD:5D:E1:5B:44 
+     client-id="1:3c:cd:5d:e1:5b:44" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d21h57m50s last-seen=2d2h2m9s 
+     active-address=192.168.8.37 active-mac-address=3C:CD:5D:E1:5B:44 
+     active-client-id="1:3c:cd:5d:e1:5b:44" active-server=dhcp-server-0 
+     host-name="HUAWEI_Y6_2018-1f23e537bf" 
+
+363 D address=192.168.8.234 mac-address=C4:0B:CB:47:13:3B 
+     client-id="1:c4:b:cb:47:13:3b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d23h19m8s last-seen=2d40m51s 
+     active-address=192.168.8.234 active-mac-address=C4:0B:CB:47:13:3B 
+     active-client-id="1:c4:b:cb:47:13:3b" active-server=dhcp-server-0 
+     host-name="Redmi4X-Redmi" 
+
+364 D address=192.168.10.46 mac-address=74:C1:4F:AC:26:5F 
+     client-id="1:74:c1:4f:ac:26:5f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=1d23h55m23s last-seen=2d4m36s 
+     active-address=192.168.10.46 active-mac-address=74:C1:4F:AC:26:5F 
+     active-client-id="1:74:c1:4f:ac:26:5f" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-42abcec29" 
+
+365 D address=192.168.10.100 mac-address=00:BE:3B:A3:A3:C9 
+     client-id="1:0:be:3b:a3:a3:c9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d6m38s last-seen=1d23h53m21s 
+     active-address=192.168.10.100 active-mac-address=00:BE:3B:A3:A3:C9 
+     active-client-id="1:0:be:3b:a3:a3:c9" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart-4d2dada1fd" 
+
+366 D address=192.168.8.206 mac-address=80:AD:16:66:E8:7B 
+     client-id="1:80:ad:16:66:e8:7b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d1h19m7s 
+     last-seen=1d22h40m52s active-address=192.168.8.206 
+     active-mac-address=80:AD:16:66:E8:7B 
+     active-client-id="1:80:ad:16:66:e8:7b" active-server=dhcp-server-0 
+     host-name="Redmi5Plus-Redmi" 
+
+367 D address=192.168.8.202 mac-address=C0:F4:E6:E5:FD:5E 
+     client-id="1:c0:f4:e6:e5:fd:5e" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d42m7s last-seen=1d23h17m52s 
+     active-address=192.168.8.202 active-mac-address=C0:F4:E6:E5:FD:5E 
+     active-client-id="1:c0:f4:e6:e5:fd:5e" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-2e1cc2e7b" 
+
+368 D address=192.168.10.227 mac-address=DC:72:9B:9A:5B:13 
+     client-id="1:dc:72:9b:9a:5b:13" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d6h3m26s 
+     last-seen=1d17h56m33s active-address=192.168.10.227 
+     active-mac-address=DC:72:9B:9A:5B:13 
+     active-client-id="1:dc:72:9b:9a:5b:13" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart-81bd0f7084" 
+
+369 D address=192.168.10.229 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=2d16h39m43s 
+     last-seen=1d7h20m16s active-address=192.168.10.229 
+     active-server=dhcp-server-0 src-mac-address=9C:2E:A1:2C:78:5C 
+
+370 D address=192.168.10.218 mac-address=9C:2E:A1:2C:78:5C 
+     client-id="1:9c:2e:a1:2c:78:5c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d16h39m44s 
+     last-seen=1d7h20m15s active-address=192.168.10.218 
+     active-mac-address=9C:2E:A1:2C:78:5C 
+     active-client-id="1:9c:2e:a1:2c:78:5c" active-server=dhcp-server-0 
+     host-name="Redmi5Plus-Redmi" 
+
+371 D address=192.168.10.215 mac-address=B8:08:D7:20:FE:40 
+     client-id="1:b8:8:d7:20:fe:40" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d19h37m21s 
+     last-seen=1d4h22m38s active-address=192.168.10.215 
+     active-mac-address=B8:08:D7:20:FE:40 
+     active-client-id="1:b8:8:d7:20:fe:40" active-server=dhcp-server-0 
+     host-name="HUAWEI_nova" 
+
+372 D address=192.168.10.206 mac-address=7C:76:68:D6:C8:56 
+     client-id="1:7c:76:68:d6:c8:56" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d19h53m13s 
+     last-seen=1d4h6m46s active-address=192.168.10.206 
+     active-mac-address=7C:76:68:D6:C8:56 
+     active-client-id="1:7c:76:68:d6:c8:56" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-6481f9601" 
+
+373 D address=192.168.10.201 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=2d20h49m15s 
+     last-seen=1d3h10m44s active-address=192.168.10.201 
+     active-server=dhcp-server-0 src-mac-address=18:F0:E4:27:E2:8E 
+
+374 D address=192.168.10.230 mac-address=B0:EB:57:2B:D7:8F 
+     client-id="1:b0:eb:57:2b:d7:8f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=2d22h44m24s 
+     last-seen=1d1h15m35s active-address=192.168.10.230 
+     active-mac-address=B0:EB:57:2B:D7:8F 
+     active-client-id="1:b0:eb:57:2b:d7:8f" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-17a4b66b7" 
+
+375 D address=192.168.10.252 mac-address=B0:EB:57:80:FB:6B 
+     client-id="1:b0:eb:57:80:fb:6b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d3h18m58s last-seen=20h41m1s 
+     active-address=192.168.10.252 active-mac-address=B0:EB:57:80:FB:6B 
+     active-client-id="1:b0:eb:57:80:fb:6b" active-server=dhcp-server-0 
+     host-name="HUAWEI_P_smart+-e32d5eb93" 
+
+376 D address=192.168.10.238 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d7h54m54s last-seen=16h5m5s 
+     active-address=192.168.10.238 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:9B:83:70 
+
+377 D address=192.168.10.192 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d13h11m41s last-seen=10h48m18s 
+     active-address=192.168.10.192 active-server=dhcp-server-0 
+     src-mac-address=6C:5F:1C:84:37:E8 
+
+378 D address=192.168.10.191 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d13h57m last-seen=10h2m59s 
+     active-address=192.168.10.191 active-server=dhcp-server-0 
+     src-mac-address=6C:5F:1C:84:37:E8 
+
+379 D address=192.168.10.182 mac-address=6C:5F:1C:84:37:E8 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d14h15m43s last-seen=9h44m16s 
+     active-address=192.168.10.182 active-mac-address=6C:5F:1C:84:37:E8 
+     active-server=dhcp-server-0 host-name="android-5e2c4354a8c2b833" 
+
+380 D address=192.168.10.168 mac-address=9C:2E:A1:92:B6:93 
+     client-id="1:9c:2e:a1:92:b6:93" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h33m21s last-seen=26m38s 
+     active-address=192.168.10.168 active-mac-address=9C:2E:A1:92:B6:93 
+     active-client-id="1:9c:2e:a1:92:b6:93" active-server=dhcp-server-0 
+     host-name="MiMIX2-MiPhone" 
+
+381 D address=192.168.10.70 mac-address=A0:32:99:89:D5:C1 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d22h30m30s last-seen=1h29m29s 
+     active-address=192.168.10.70 active-mac-address=A0:32:99:89:D5:C1 
+     active-server=dhcp-server-0 host-name="android-ee04e7d8dd0ba872" 
+
+382 D address=192.168.10.162 mac-address=9C:4E:36:59:48:9C 
+     client-id="1:9c:4e:36:59:48:9c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h47m52s last-seen=1m27s 
+     active-address=192.168.10.162 active-mac-address=9C:4E:36:59:48:9C 
+     active-client-id="1:9c:4e:36:59:48:9c" active-server=dhcp-server-0 
+     host-name="Alex_PC" 
+
+383 D address=192.168.10.148 mac-address=5C:09:47:AC:DA:E2 
+     client-id="1:5c:9:47:ac:da:e2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h42m37s last-seen=17m22s 
+     active-address=192.168.10.148 active-mac-address=5C:09:47:AC:DA:E2 
+     active-client-id="1:5c:9:47:ac:da:e2" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+384 D address=192.168.10.176 mac-address=8C:C5:E1:F7:61:2D address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d21h25m50s last-seen=2h34m9s 
+     active-address=192.168.10.176 active-mac-address=8C:C5:E1:F7:61:2D 
+     active-server=dhcp-server-0 host-name="android-b62f4cff9b55a3de" 
+
+385 D address=192.168.10.175 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d15h47m15s last-seen=8h12m44s 
+     active-address=192.168.10.175 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:9C:B4:2B 
+
+386 D address=192.168.10.157 mac-address=D0:50:99:9C:B4:2B 
+     client-id="1:d0:50:99:9c:b4:2b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d15h47m31s last-seen=8h12m28s 
+     active-address=192.168.10.157 active-mac-address=D0:50:99:9C:B4:2B 
+     active-client-id="1:d0:50:99:9c:b4:2b" active-server=dhcp-server-0 
+     host-name="DESKTOP-RF53GMJ" 
+
+387 D address=192.168.10.207 mac-address=B8:88:E3:7C:10:FD 
+     client-id="1:b8:88:e3:7c:10:fd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h47m59s last-seen=1m27s 
+     active-address=192.168.10.207 active-mac-address=B8:88:E3:7C:10:FD 
+     active-client-id="1:b8:88:e3:7c:10:fd" active-server=dhcp-server-0 
+     host-name="Alex_PC" 
+
+388 D address=192.168.10.153 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d16h6m19s last-seen=7h53m40s 
+     active-address=192.168.10.153 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:87:FA:0B 
+
+389 D address=192.168.10.147 mac-address=D0:50:99:87:FA:0B 
+     client-id="1:d0:50:99:87:fa:b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h6m24s last-seen=7m1s 
+     active-address=192.168.10.147 active-mac-address=D0:50:99:87:FA:0B 
+     active-client-id="1:d0:50:99:87:fa:b" active-server=dhcp-server-0 
+     host-name="seo210" 
+
+390 D address=192.168.10.142 mac-address=DC:72:9B:96:88:0B 
+     client-id="1:dc:72:9b:96:88:b" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h8m31s last-seen=7h51m28s 
+     active-address=192.168.10.142 active-mac-address=DC:72:9B:96:88:0B 
+     active-client-id="1:dc:72:9b:96:88:b" active-server=dhcp-server-0 
+     host-name="Honor_9_Lite-32ee9f719276" 
+
+391 D address=192.168.10.199 mac-address=D0:50:99:9B:8C:10 
+     client-id="1:d0:50:99:9b:8c:10" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h18m21s last-seen=7h41m38s 
+     active-address=192.168.10.199 active-mac-address=D0:50:99:9B:8C:10 
+     active-client-id="1:d0:50:99:9b:8c:10" active-server=dhcp-server-0 
+     host-name="seo201" 
+
+392 D address=192.168.10.26 mac-address=08:62:66:26:89:DD 
+     client-id="1:8:62:66:26:89:dd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h49m56s last-seen=4h10m3s 
+     active-address=192.168.10.26 active-mac-address=08:62:66:26:89:DD 
+     active-client-id="1:8:62:66:26:89:dd" active-server=dhcp-server-0 
+     host-name="seo187" 
+
+393 D address=192.168.10.117 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d16h15m2s last-seen=7h44m57s 
+     active-address=192.168.10.117 active-server=dhcp-server-0 
+     src-mac-address=70:85:C2:21:8C:E5 
+
+394 D address=192.168.10.97 mac-address=70:85:C2:21:8C:E5 
+     client-id="1:70:85:c2:21:8c:e5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h15m19s last-seen=7h44m40s 
+     active-address=192.168.10.97 active-mac-address=70:85:C2:21:8C:E5 
+     active-client-id="1:70:85:c2:21:8c:e5" active-server=dhcp-server-0 
+     host-name="seo145" 
+
+395 D address=192.168.10.85 mac-address=54:33:CB:C3:A9:F6 
+     client-id="1:54:33:cb:c3:a9:f6" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h42m59s last-seen=17m 
+     active-address=192.168.10.85 active-mac-address=54:33:CB:C3:A9:F6 
+     active-client-id="1:54:33:cb:c3:a9:f6" active-server=dhcp-server-0 
+     host-name="iPhoneirKherson" 
+
+396 D address=192.168.10.90 mac-address=74:E5:43:1A:F4:D4 
+     client-id="1:74:e5:43:1a:f4:d4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h21m57s last-seen=7h38m2s 
+     active-address=192.168.10.90 active-mac-address=74:E5:43:1A:F4:D4 
+     active-client-id="1:74:e5:43:1a:f4:d4" active-server=dhcp-server-0 
+     host-name="DESKTOP-8EVPAEP" 
+
+397 D address=192.168.10.83 mac-address=74:D4:35:76:05:11 
+     client-id="1:74:d4:35:76:5:11" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h51m18s last-seen=2h23m39s 
+     active-address=192.168.10.83 active-mac-address=74:D4:35:76:05:11 
+     active-client-id="1:74:d4:35:76:5:11" active-server=dhcp-server-0 
+     host-name="BOLGAR" 
+
+398 D address=192.168.10.72 mac-address=18:F0:E4:D9:A3:BB 
+     client-id="1:18:f0:e4:d9:a3:bb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h33m13s last-seen=7h26m46s 
+     active-address=192.168.10.72 active-mac-address=18:F0:E4:D9:A3:BB 
+     active-client-id="1:18:f0:e4:d9:a3:bb" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi" 
+
+399 D address=192.168.10.52 mac-address=F0:18:98:4E:BB:EC 
+     client-id="1:f0:18:98:4e:bb:ec" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h5m48s last-seen=54m11s 
+     active-address=192.168.10.52 active-mac-address=F0:18:98:4E:BB:EC 
+     active-client-id="1:f0:18:98:4e:bb:ec" active-server=dhcp-server-0 
+     host-name="MBP-Nikita" 
+
+400 D address=192.168.10.49 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d16h49m24s last-seen=7h10m35s 
+     active-address=192.168.10.49 active-server=dhcp-server-0 
+     src-mac-address=78:24:AF:99:F0:16 
+
+401 D address=192.168.10.51 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d16h50m40s last-seen=7h9m19s 
+     active-address=192.168.10.51 active-server=dhcp-server-0 
+     src-mac-address=A0:32:99:BD:14:5C 
+
+402 D address=192.168.10.42 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d16h50m44s last-seen=7h9m15s 
+     active-address=192.168.10.42 active-server=dhcp-server-0 
+     src-mac-address=A0:32:99:BD:14:5C 
+
+403 D address=192.168.10.38 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d16h50m53s last-seen=7h9m6s 
+     active-address=192.168.10.38 active-server=dhcp-server-0 
+     src-mac-address=A0:32:99:BD:14:5C 
+
+404 D address=192.168.10.34 mac-address=34:14:5F:66:3F:0D 
+     client-id="1:34:14:5f:66:3f:d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h59m5s last-seen=54s 
+     active-address=192.168.10.34 active-mac-address=34:14:5F:66:3F:0D 
+     active-client-id="1:34:14:5f:66:3f:d" active-server=dhcp-server-0 
+     host-name="android-a31d5f039d22ba8b" 
+
+405 D address=192.168.10.30 mac-address=A0:32:99:BD:14:5C address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d16h51m9s last-seen=7h8m50s active-address=192.168.10.30 
+     active-mac-address=A0:32:99:BD:14:5C active-server=dhcp-server-0 
+     host-name="android-e4dddf843c101d99" 
+
+406 D address=192.168.10.16 mac-address=B0:EB:57:36:85:3F 
+     client-id="1:b0:eb:57:36:85:3f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h28m46s last-seen=3h31m13s 
+     active-address=192.168.10.16 active-mac-address=B0:EB:57:36:85:3F 
+     active-client-id="1:b0:eb:57:36:85:3f" active-server=dhcp-server-0 
+     host-name="HUAWEI_P20_Pro-35988d4a21" 
+
+407 D address=192.168.10.12 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d16h54m54s last-seen=7h5m5s 
+     active-address=192.168.10.12 active-server=dhcp-server-0 
+     src-mac-address=FC:AA:B6:31:B7:D7 
+
+408 D address=192.168.8.236 mac-address=FC:AA:B6:31:B7:D7 
+     client-id="1:fc:aa:b6:31:b7:d7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h1m44s last-seen=1h58m15s 
+     active-address=192.168.8.236 active-mac-address=FC:AA:B6:31:B7:D7 
+     active-client-id="1:fc:aa:b6:31:b7:d7" active-server=dhcp-server-0 
+     host-name="Galaxy-M20" 
+
+409 D address=192.168.8.23 mac-address=74:C1:4F:D5:5C:FB 
+     client-id="1:74:c1:4f:d5:5c:fb" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h55m58s last-seen=7h4m1s 
+     active-address=192.168.8.23 active-mac-address=74:C1:4F:D5:5C:FB 
+     active-client-id="1:74:c1:4f:d5:5c:fb" active-server=dhcp-server-0 
+     host-name="Honor_9_Lite-dd2c2144e8fe" 
+
+410 D address=192.168.8.26 mac-address=98:CA:33:E6:E9:A1 
+     client-id="1:98:ca:33:e6:e9:a1" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d16h56m23s last-seen=7h3m36s 
+     active-address=192.168.8.26 active-mac-address=98:CA:33:E6:E9:A1 
+     active-client-id="1:98:ca:33:e6:e9:a1" active-server=dhcp-server-0 
+     host-name="iPhone-Hp" 
+
+411 D address=192.168.8.43 mac-address=64:70:33:07:11:FA 
+     client-id="1:64:70:33:7:11:fa" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h31s last-seen=6h59m28s 
+     active-address=192.168.8.43 active-mac-address=64:70:33:07:11:FA 
+     active-client-id="1:64:70:33:7:11:fa" active-server=dhcp-server-0 
+     host-name="Tatana" 
+
+412 D address=192.168.8.44 mac-address=B8:09:8A:90:19:25 
+     client-id="1:b8:9:8a:90:19:25" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h56m35s last-seen=3m24s 
+     active-address=192.168.8.44 active-mac-address=B8:09:8A:90:19:25 
+     active-client-id="1:b8:9:8a:90:19:25" active-server=dhcp-server-0 
+     host-name="Kanabuba" 
+
+413 D address=192.168.10.79 mac-address=AC:C1:EE:43:A8:B9 
+     client-id="1:ac:c1:ee:43:a8:b9" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h8m10s last-seen=1h51m49s 
+     active-address=192.168.10.79 active-mac-address=AC:C1:EE:43:A8:B9 
+     active-client-id="1:ac:c1:ee:43:a8:b9" active-server=dhcp-server-0 
+     host-name="Redmi3S-Redmi" 
+
+414 D address=192.168.8.68 mac-address=30:D9:D9:EC:51:8C 
+     client-id="1:30:d9:d9:ec:51:8c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h44m23s last-seen=15m36s 
+     active-address=192.168.8.68 active-mac-address=30:D9:D9:EC:51:8C 
+     active-client-id="1:30:d9:d9:ec:51:8c" active-server=dhcp-server-0 
+     host-name="Mini-Valentin" 
+
+415 D address=192.168.8.76 mac-address=D0:50:99:22:B7:28 
+     client-id="1:d0:50:99:22:b7:28" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h9m59s last-seen=2m42s 
+     active-address=192.168.8.76 active-mac-address=D0:50:99:22:B7:28 
+     active-client-id="1:d0:50:99:22:b7:28" active-server=dhcp-server-0 
+     host-name="SEO50" 
+
+416 D address=192.168.8.100 mac-address=4C:CC:6A:93:CE:86 
+     client-id="1:4c:cc:6a:93:ce:86" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h12m49s last-seen=6h47m10s 
+     active-address=192.168.8.100 active-mac-address=4C:CC:6A:93:CE:86 
+     active-client-id="1:4c:cc:6a:93:ce:86" active-server=dhcp-server-0 
+     host-name="seo444" 
+
+417 D address=192.168.10.14 mac-address=44:D4:E0:4C:9D:78 
+     client-id="1:44:d4:e0:4c:9d:78" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h30m6s last-seen=4h29m53s 
+     active-address=192.168.10.14 active-mac-address=44:D4:E0:4C:9D:78 
+     active-client-id="1:44:d4:e0:4c:9d:78" active-server=dhcp-server-0 
+     host-name="android-b8424a82172fce97" 
+
+418 D address=192.168.8.135 mac-address=4C:CC:6A:93:CD:50 
+     client-id="1:4c:cc:6a:93:cd:50" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h15m44s last-seen=6h44m15s 
+     active-address=192.168.8.135 active-mac-address=4C:CC:6A:93:CD:50 
+     active-client-id="1:4c:cc:6a:93:cd:50" active-server=dhcp-server-0 
+     host-name="seo359" 
+
+419 D address=192.168.8.148 mac-address=F4:60:E2:F0:4C:E2 
+     client-id="1:f4:60:e2:f0:4c:e2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h38m47s last-seen=3h21m12s 
+     active-address=192.168.8.148 active-mac-address=F4:60:E2:F0:4C:E2 
+     active-client-id="1:f4:60:e2:f0:4c:e2" active-server=dhcp-server-0 
+
+420 D address=192.168.10.186 mac-address=D0:2B:20:5F:76:AC 
+     client-id="1:d0:2b:20:5f:76:ac" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d18h38m57s last-seen=5h21m2s 
+     active-address=192.168.10.186 active-mac-address=D0:2B:20:5F:76:AC 
+     active-client-id="1:d0:2b:20:5f:76:ac" active-server=dhcp-server-0 
+     host-name="iPhone-Olga" 
+
+421 D address=192.168.8.201 mac-address=68:3E:34:84:D7:13 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d17h35m7s last-seen=6h24m52s active-address=192.168.8.201 
+     active-mac-address=68:3E:34:84:D7:13 active-server=dhcp-server-0 
+     host-name="M3-Max" 
+
+422 D address=192.168.8.14 mac-address=48:88:CA:59:8F:5C 
+     client-id="ff:0:0:0:18:0:1:0:1:c9:1f:c2:5b:48:88:ca:59:8f:5c" 
+     address-lists="" server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d22h14m4s last-seen=1h45m55s active-address=192.168.8.14 
+     active-mac-address=48:88:CA:59:8F:5C 
+     active-client-id="ff:0:0:0:18:0:1:0:1:c9:1f:c2:5b:48:88:ca:59:8f:5c" 
+     active-server=dhcp-server-0 host-name="android-760c286da77b4ba5" 
+
+423 D address=192.168.8.18 mac-address=7C:F9:0E:95:39:9D 
+     client-id="1:7c:f9:e:95:39:9d" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h48m39s last-seen=11m20s 
+     active-address=192.168.8.18 active-mac-address=7C:F9:0E:95:39:9D 
+     active-client-id="1:7c:f9:e:95:39:9d" active-server=dhcp-server-0 
+     host-name="android-5788ec6c7167d804" 
+
+424 D address=192.168.10.134 mac-address=B0:55:08:87:8B:43 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d17h42m10s last-seen=6h17m49s 
+     active-address=192.168.10.134 active-mac-address=B0:55:08:87:8B:43 
+     active-server=dhcp-server-0 host-name="HUAWEI_Y5_2017" 
+
+425 D address=192.168.8.194 mac-address=00:0E:A6:52:78:69 
+     client-id="1:0:e:a6:52:78:69" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d17h45m33s last-seen=6h14m26s 
+     active-address=192.168.8.194 active-mac-address=00:0E:A6:52:78:69 
+     active-client-id="1:0:e:a6:52:78:69" active-server=dhcp-server-0 
+     host-name="DESKTOP-N1FU4QG" 
+
+426 D address=192.168.8.192 mac-address=00:E0:1C:3C:5F:9C 
+     client-id="ff:1c:3c:5f:9c:0:1:0:1:23:fe:e4:54:0:e0:1c:3c:5f:9c" 
+     address-lists="" server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d17h47m30s last-seen=6h12m29s 
+     active-address=192.168.8.192 active-mac-address=00:E0:1C:3C:5F:9C 
+     active-client-id="ff:1c:3c:5f:9c:0:1:0:1:23:fe:e4:54:0:e0:1c:3c:5f:9c" 
+     active-server=dhcp-server-0 host-name="work" 
+
+427 D address=192.168.8.189 mac-address=68:EF:43:BA:96:9F 
+     client-id="1:68:ef:43:ba:96:9f" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h16m1s last-seen=2h43m58s 
+     active-address=192.168.8.189 active-mac-address=68:EF:43:BA:96:9F 
+     active-client-id="1:68:ef:43:ba:96:9f" active-server=dhcp-server-0 
+     host-name="iPhone-igor" 
+
+428 D address=192.168.8.61 mac-address=CC:29:F5:B2:B7:B2 
+     client-id="1:cc:29:f5:b2:b7:b2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h59m28s last-seen=4h31s 
+     active-address=192.168.8.61 active-mac-address=CC:29:F5:B2:B7:B2 
+     active-client-id="1:cc:29:f5:b2:b7:b2" active-server=dhcp-server-0 
+     host-name="iPhone-Anna" 
+
+429 D address=192.168.8.187 mac-address=6C:8D:C1:59:0A:B4 
+     client-id="1:6c:8d:c1:59:a:b4" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h7m26s last-seen=52m33s 
+     active-address=192.168.8.187 active-mac-address=6C:8D:C1:59:0A:B4 
+     active-client-id="1:6c:8d:c1:59:a:b4" active-server=dhcp-server-0 
+     host-name="iPhone" 
+
+430 D address=192.168.10.234 mac-address=8C:BE:BE:0E:0B:80 
+     client-id="1:8c:be:be:e:b:80" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h59m6s last-seen=53s 
+     active-address=192.168.10.234 active-mac-address=8C:BE:BE:0E:0B:80 
+     active-client-id="1:8c:be:be:e:b:80" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi" 
+
+431 D address=192.168.10.31 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d18h58m58s last-seen=5h1m1s 
+     active-address=192.168.10.31 active-server=dhcp-server-0 
+     src-mac-address=90:61:AE:66:3B:81 
+
+432 D address=192.168.8.46 mac-address=74:D4:35:72:23:C5 
+     client-id="1:74:d4:35:72:23:c5" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h22s last-seen=6m59s 
+     active-address=192.168.8.46 active-mac-address=74:D4:35:72:23:C5 
+     active-client-id="1:74:d4:35:72:23:c5" active-server=dhcp-server-0 
+     host-name="coworking" 
+
+433 D address=192.168.8.50 mac-address=00:0C:E7:74:4D:BD address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d23h2m16s last-seen=57m43s active-address=192.168.8.50 
+     active-mac-address=00:0C:E7:74:4D:BD active-server=dhcp-server-0 
+     host-name="android-97ffece485d5a63" 
+
+434 D address=192.168.10.115 mac-address=00:08:22:E2:0D:FC address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d20h59m53s last-seen=3h6s active-address=192.168.10.115 
+     active-mac-address=00:08:22:E2:0D:FC active-server=dhcp-server-0 
+     host-name="android-b9d76d526ee3de86" 
+
+435 D address=192.168.8.62 mac-address=6C:AB:31:66:8F:FD 
+     client-id="1:6c:ab:31:66:8f:fd" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h52m20s last-seen=7m39s 
+     active-address=192.168.8.62 active-mac-address=6C:AB:31:66:8F:FD 
+     active-client-id="1:6c:ab:31:66:8f:fd" active-server=dhcp-server-0 
+     host-name="Ss" 
+
+436 D address=192.168.8.186 mac-address=7C:B0:C2:4F:2F:4A 
+     client-id="1:7c:b0:c2:4f:2f:4a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d22h21m18s last-seen=1h38m41s 
+     active-address=192.168.8.186 active-mac-address=7C:B0:C2:4F:2F:4A 
+     active-client-id="1:7c:b0:c2:4f:2f:4a" active-server=dhcp-server-0 
+     host-name="TSN" 
+
+437 D address=192.168.8.185 mac-address=04:79:70:8A:06:9A 
+     client-id="1:4:79:70:8a:6:9a" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h52m14s last-seen=4h7m45s 
+     active-address=192.168.8.185 active-mac-address=04:79:70:8A:06:9A 
+     active-client-id="1:4:79:70:8a:6:9a" active-server=dhcp-server-0 
+     host-name="Honor_7X-8208c2675c69a129" 
+
+438 D address=192.168.8.182 mac-address=88:E9:FE:86:32:D7 
+     client-id="1:88:e9:fe:86:32:d7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d19h56m32s last-seen=4h3m27s 
+     active-address=192.168.8.182 active-mac-address=88:E9:FE:86:32:D7 
+     active-client-id="1:88:e9:fe:86:32:d7" active-server=dhcp-server-0 
+     host-name="MBP-Ekaterina" 
+
+439 D address=192.168.10.237 mac-address=48:2C:A0:A2:48:4C 
+     client-id="1:48:2c:a0:a2:48:4c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h5m2s last-seen=54m57s 
+     active-address=192.168.10.237 active-mac-address=48:2C:A0:A2:48:4C 
+     active-client-id="1:48:2c:a0:a2:48:4c" active-server=dhcp-server-0 
+     host-name="RedmiNote6Pro-Redmi" 
+
+440 D address=192.168.10.236 address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=busy expires-after=3d20h56m46s last-seen=3h3m13s 
+     active-address=192.168.10.236 active-server=dhcp-server-0 
+     src-mac-address=D0:50:99:9B:83:66 
+
+441 D address=192.168.10.213 mac-address=D0:50:99:9B:83:66 
+     client-id="1:d0:50:99:9b:83:66" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d20h57m3s last-seen=3h2m56s 
+     active-address=192.168.10.213 active-mac-address=D0:50:99:9B:83:66 
+     active-client-id="1:d0:50:99:9b:83:66" active-server=dhcp-server-0 
+     host-name="imanova" 
+
+442 D address=192.168.10.158 mac-address=EC:D0:9F:0C:76:5C 
+     client-id="1:ec:d0:9f:c:76:5c" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h6m41s last-seen=2h53m18s 
+     active-address=192.168.10.158 active-mac-address=EC:D0:9F:0C:76:5C 
+     active-client-id="1:ec:d0:9f:c:76:5c" active-server=dhcp-server-0 
+     host-name="Redmi4X-Redmi" 
+
+443 D address=192.168.8.180 address-lists="" server=dhcp-server-0 dhcp-option="" 
+     status=busy expires-after=3d21h44m59s last-seen=2h15m 
+     active-address=192.168.8.180 active-server=dhcp-server-0 
+     src-mac-address=90:61:AE:66:3B:81 
+
+444 D address=192.168.8.53 mac-address=1C:CD:E5:57:5E:42 address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d23h33m31s last-seen=26m28s active-address=192.168.8.53 
+     active-mac-address=1C:CD:E5:57:5E:42 active-server=dhcp-server-0 
+     host-name="MEIZU-M5" 
+
+445 D address=192.168.10.141 mac-address=D8:C7:71:3B:8B:89 
+     client-id="1:d8:c7:71:3b:8b:89" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d21h53m51s last-seen=2h6m8s 
+     active-address=192.168.10.141 active-mac-address=D8:C7:71:3B:8B:89 
+     active-client-id="1:d8:c7:71:3b:8b:89" active-server=dhcp-server-0 
+     host-name="HUAWEI_nova_2-fafce6f9a47" 
+
+446 D address=192.168.8.179 mac-address=48:D2:24:D0:71:FF 
+     client-id="1:48:d2:24:d0:71:ff" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h52m6s last-seen=7m53s 
+     active-address=192.168.8.179 active-mac-address=48:D2:24:D0:71:FF 
+     active-client-id="1:48:d2:24:d0:71:ff" active-server=dhcp-server-0 
+     host-name="DESKTOP-TG1U2L8" 
+
+447 D address=192.168.8.170 mac-address=EC:D0:9F:20:F1:F0 
+     client-id="1:ec:d0:9f:20:f1:f0" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h1m44s last-seen=58m15s 
+     active-address=192.168.8.170 active-mac-address=EC:D0:9F:20:F1:F0 
+     active-client-id="1:ec:d0:9f:20:f1:f0" active-server=dhcp-server-0 
+     host-name="RedmiNote4-Redmi1" 
+
+448 D address=192.168.10.121 mac-address=D0:B1:28:0D:62:CF 
+     client-id="1:d0:b1:28:d:62:cf" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h3m33s last-seen=56m26s 
+     active-address=192.168.10.121 active-mac-address=D0:B1:28:0D:62:CF 
+     active-client-id="1:d0:b1:28:d:62:cf" active-server=dhcp-server-0 
+     host-name="android-3d59ac1b7120674b" 
+
+449 D address=192.168.10.253 mac-address=68:3E:34:34:E3:CA address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d23h11m13s last-seen=48m46s active-address=192.168.10.253 
+     active-mac-address=68:3E:34:34:E3:CA active-server=dhcp-server-0 
+     host-name="Meizu-m2-note" 
+
+450 D address=192.168.8.153 mac-address=94:0E:6B:D7:7A:A2 
+     client-id="1:94:e:6b:d7:7a:a2" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h12m45s last-seen=47m14s 
+     active-address=192.168.8.153 active-mac-address=94:0E:6B:D7:7A:A2 
+     active-client-id="1:94:e:6b:d7:7a:a2" active-server=dhcp-server-0 
+     host-name="Honor_9-585d9297a6638dd1" 
+
+451 D address=192.168.10.132 mac-address=14:5F:94:AB:AD:7C address-lists="" 
+     server=dhcp-server-0 dhcp-option="" status=bound 
+     expires-after=3d23h34m32s last-seen=25m27s active-address=192.168.10.132 
+     active-mac-address=14:5F:94:AB:AD:7C active-server=dhcp-server-0 
+     host-name="HUAWEI_Y6II" 
+
+452 D address=192.168.10.208 mac-address=18:F0:E4:F6:AB:A7 
+     client-id="1:18:f0:e4:f6:ab:a7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h38m43s last-seen=21m16s 
+     active-address=192.168.10.208 active-mac-address=18:F0:E4:F6:AB:A7 
+     active-client-id="1:18:f0:e4:f6:ab:a7" active-server=dhcp-server-0 
+     host-name="Redmi4X-DockeR" 
+
+453 D address=192.168.8.174 mac-address=50:A6:7F:52:0F:72 
+     client-id="1:50:a6:7f:52:f:72" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h54m57s last-seen=5m2s 
+     active-address=192.168.8.174 active-mac-address=50:A6:7F:52:0F:72 
+     active-client-id="1:50:a6:7f:52:f:72" active-server=dhcp-server-0 
+     host-name="iPhone-femily-K" 
+
+454 D address=192.168.8.213 mac-address=DC:56:E7:73:AA:07 
+     client-id="1:dc:56:e7:73:aa:7" address-lists="" server=dhcp-server-0 
+     dhcp-option="" status=bound expires-after=3d23h58m47s last-seen=1m12s 
+     active-address=192.168.8.213 active-mac-address=DC:56:E7:73:AA:07 
+     active-client-id="1:dc:56:e7:73:aa:7" active-server=dhcp-server-0 
+     host-name="iPhone-Diana" 
+

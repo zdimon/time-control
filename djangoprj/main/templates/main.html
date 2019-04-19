@@ -4,10 +4,80 @@
 
 <h1>User list</h1>
 
-<ul>
-{% for u in users %}
-    <li>{{ u.name }}</li>
+
+<table>
+{% for u in data %}
+    <tr>
+        <td>
+
+            <div><strong>IP:</strong>{{ u.ip }}</div>
+            <div><strong>MAC:</strong>{{ u.mac }}</div>
+            <div><strong>HOST:</strong>{{ u.host }}</div>
+            
+        </td>
+        <td><canvas id="gr{{u.id}}" style="border: 1px solid black" width=1200></canvas></td>
+    </tr>
+
 {% endfor %}
-</ul>
+</table>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+
+{% for u in data %}
+    canvas = $('#gr{{u.id}}')[0],
+    ctx = canvas.getContext('2d'),
+    width = canvas.width,
+    height = canvas.height;
+    console.log(height);
+    ctx.beginPath();
+    ctx.moveTo(0, height);
+    var max = {{u.max}};
+    var koef = max/height;
+    var step = parseInt(width/{{ u.cnt }});
+
+
+    
+    {% for dt in u.data %}
+        ctx.lineTo({{ forloop.counter0 }}*step, height - parseInt({{dt.value}}/koef));
+        ctx.font = "10px Arial";
+        {% if dt.time == '06:01' %}
+            ctx.fillText("9:00", {{ forloop.counter0 }}*step, 50);
+        {% endif %}
+        {% if dt.time == '05:02' %}
+            ctx.fillText("8:00", {{ forloop.counter0 }}*step, 50);
+        {% endif %}
+        {% if dt.time == '15:02' %}
+            ctx.fillText("17:00", {{ forloop.counter0 }}*step, 50);
+        {% endif %}
+        {% if dt.time == '16:02' %}
+            ctx.fillText("18:00", {{ forloop.counter0 }}*step, 50);
+        {% endif %}
+    {% endfor %}
+    ctx.strokeStyle = "red";
+    ctx.lineWidth = 3;    
+    ctx.stroke();
+{% endfor %}
+/*
+var canvas = $('#myCanvas')[0],
+    ctx = canvas.getContext('2d'),
+    width = canvas.width,
+    height = canvas.height;
+
+    console.log(width);
+    console.log(height);
+
+    ctx.beginPath();
+    ctx.moveTo(0, height);
+    ctx.lineTo(100, 100);
+
+    ctx.strokeStyle = "red";
+    ctx.lineWidth = 3;
+    ctx.stroke();    
+*/
+</script>
 
 {% endblock %}

@@ -25,7 +25,7 @@ SECRET_KEY = 'lf)2=%4xk2i^jm#b2xjc8sk3z3n_f(6tvl_2v&ebj4g-7%3=46'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'main'
+    'main',
+    'mikrotik'
 ]
 
 MIDDLEWARE = [
@@ -74,12 +75,18 @@ WSGI_APPLICATION = 'djangoprj.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'time-control',
+        'USER': 'postgres',
+        'PASSWORD': '1q2w3e',
+        'HOST': 'localhost',
     }
 }
+
+
 
 
 # Password validation
@@ -125,3 +132,8 @@ STATICFILES_DIRS = [
 ]
 
 API_KEY = '882b65ad36d2260a1bc94a6be912dc21'
+
+
+
+LOG_DIR = 'logs'
+
