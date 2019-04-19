@@ -75,3 +75,33 @@
 
 ![start page](example.png) 
 
+# Установка
+
+
+## Либы для сборки
+
+    sudo apt-get install python3 python-dev python3-dev
+    
+## Деплой    
+    
+    git clone ...
+    cd time-control
+    virtualenv -p python3 venv
+    . ./venv/bin/activate
+    pip install -r requirements.txt
+    ./manage.py migrate
+    ./manage.py runserver 0.0.0.0:8080
+
+## Запуск сборщика
+
+    ./bin/run
+
+
+
+
+
+
+
+
+
+
