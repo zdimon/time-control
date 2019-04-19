@@ -129,4 +129,4 @@ API_KEY = '882b65ad36d2260a1bc94a6be912dc21'
 
 LOG_DIR = 'logs'
 
-from local import *
+from .local import *
